@@ -1,0 +1,31 @@
+{
+  "name": "namaz-vakti-sunucusu",
+  "version": "2.0.0",
+  "description": "Türkiye'deki tüm ilçeler için namaz vakitlerini sağlayan profesyonel API sunucusu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "namaz",
+    "prayer",
+    "times",
+    "api",
+    "turkey",
+    "türkiye",
+    "vakitler"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
+    "axios": "^1.7.7"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

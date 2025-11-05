@@ -1,0 +1,7786 @@
+[
+  {
+    "ilce_id": "1104",
+    "ilce_adi": "SEYHAN",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 37.1024202,
+    "longitude": 35.3061086
+  },
+  {
+    "ilce_id": "1219",
+    "ilce_adi": "CEYHAN",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 37.0288825,
+    "longitude": 35.8124428
+  },
+  {
+    "ilce_id": "1329",
+    "ilce_adi": "FEKE",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 37.8147609,
+    "longitude": 35.9116526
+  },
+  {
+    "ilce_id": "1437",
+    "ilce_adi": "KARAİSALI",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 37.2571843,
+    "longitude": 35.0586409
+  },
+  {
+    "ilce_id": "1443",
+    "ilce_adi": "KARATAŞ",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 36.5646007,
+    "longitude": 35.3841416
+  },
+  {
+    "ilce_id": "1486",
+    "ilce_adi": "KOZAN",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 37.4477857,
+    "longitude": 35.8166308
+  },
+  {
+    "ilce_id": "1580",
+    "ilce_adi": "POZANTI",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 37.4229083,
+    "longitude": 34.8731665
+  },
+  {
+    "ilce_id": "1588",
+    "ilce_adi": "SAİMBEYLİ",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 37.9845639,
+    "longitude": 36.0888261
+  },
+  {
+    "ilce_id": "1687",
+    "ilce_adi": "TUFANBEYLİ",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 38.2603004,
+    "longitude": 36.222074
+  },
+  {
+    "ilce_id": "1734",
+    "ilce_adi": "YUMURTALIK",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 36.7675867,
+    "longitude": 35.7915869
+  },
+  {
+    "ilce_id": "1748",
+    "ilce_adi": "YÜREĞİR",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 36.9894584,
+    "longitude": 35.3408834
+  },
+  {
+    "ilce_id": "1757",
+    "ilce_adi": "ALADAĞ",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 37.5452473,
+    "longitude": 35.3944418
+  },
+  {
+    "ilce_id": "1806",
+    "ilce_adi": "İMAMOĞLU",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 37.2577128,
+    "longitude": 35.6613373
+  },
+  {
+    "ilce_id": "2032",
+    "ilce_adi": "SARIÇAM",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 37.0197412,
+    "longitude": 35.3989919
+  },
+  {
+    "ilce_id": "2033",
+    "ilce_adi": "ÇUKUROVA",
+    "sehir_id": "1",
+    "sehir_adi": "ADANA",
+    "latitude": 37.0468862,
+    "longitude": 35.2823275
+  },
+  {
+    "ilce_id": "1105",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "2",
+    "sehir_adi": "ADIYAMAN",
+    "latitude": 38.0284385,
+    "longitude": 38.6217561
+  },
+  {
+    "ilce_id": "1182",
+    "ilce_adi": "BESNİ",
+    "sehir_id": "2",
+    "sehir_adi": "ADIYAMAN",
+    "latitude": 37.6910896,
+    "longitude": 37.8622739
+  },
+  {
+    "ilce_id": "1246",
+    "ilce_adi": "ÇELİKHAN",
+    "sehir_id": "2",
+    "sehir_adi": "ADIYAMAN",
+    "latitude": 38.0333091,
+    "longitude": 38.2423891
+  },
+  {
+    "ilce_id": "1347",
+    "ilce_adi": "GERGER",
+    "sehir_id": "2",
+    "sehir_adi": "ADIYAMAN",
+    "latitude": 38.029339,
+    "longitude": 39.0333202
+  },
+  {
+    "ilce_id": "1354",
+    "ilce_adi": "GÖLBAŞI",
+    "sehir_id": "2",
+    "sehir_adi": "ADIYAMAN",
+    "latitude": 37.7844045,
+    "longitude": 37.6395601
+  },
+  {
+    "ilce_id": "1425",
+    "ilce_adi": "KAHTA",
+    "sehir_id": "2",
+    "sehir_adi": "ADIYAMAN",
+    "latitude": 37.7860716,
+    "longitude": 38.6217178
+  },
+  {
+    "ilce_id": "1592",
+    "ilce_adi": "SAMSAT",
+    "sehir_id": "2",
+    "sehir_adi": "ADIYAMAN",
+    "latitude": 37.5784978,
+    "longitude": 38.4809171
+  },
+  {
+    "ilce_id": "1985",
+    "ilce_adi": "SİNCİK",
+    "sehir_id": "2",
+    "sehir_adi": "ADIYAMAN",
+    "latitude": 38.0291332,
+    "longitude": 38.6194328
+  },
+  {
+    "ilce_id": "1989",
+    "ilce_adi": "TUT",
+    "sehir_id": "2",
+    "sehir_adi": "ADIYAMAN",
+    "latitude": 37.7944486,
+    "longitude": 37.9149485
+  },
+  {
+    "ilce_id": "1108",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.7568597,
+    "longitude": 30.5387044
+  },
+  {
+    "ilce_id": "1200",
+    "ilce_adi": "BOLVADİN",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.7115866,
+    "longitude": 31.0454865
+  },
+  {
+    "ilce_id": "1239",
+    "ilce_adi": "ÇAY",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.6283416,
+    "longitude": 31.0355492
+  },
+  {
+    "ilce_id": "1267",
+    "ilce_adi": "DAZKIRI",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 37.9020641,
+    "longitude": 29.8624746
+  },
+  {
+    "ilce_id": "1281",
+    "ilce_adi": "DİNAR",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.0655907,
+    "longitude": 30.1563634
+  },
+  {
+    "ilce_id": "1306",
+    "ilce_adi": "EMİRDAĞ",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 39.0195014,
+    "longitude": 31.1502583
+  },
+  {
+    "ilce_id": "1404",
+    "ilce_adi": "İHSANİYE",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 39.0134902,
+    "longitude": 30.4031955
+  },
+  {
+    "ilce_id": "1594",
+    "ilce_adi": "SANDIKLI",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.4647643,
+    "longitude": 30.272542
+  },
+  {
+    "ilce_id": "1626",
+    "ilce_adi": "SİNANPAŞA",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.7451878,
+    "longitude": 30.2452121
+  },
+  {
+    "ilce_id": "1639",
+    "ilce_adi": "SULTANDAĞI",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.5479273,
+    "longitude": 31.2682411
+  },
+  {
+    "ilce_id": "1664",
+    "ilce_adi": "ŞUHUT",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.5339612,
+    "longitude": 30.5461288
+  },
+  {
+    "ilce_id": "1771",
+    "ilce_adi": "BAŞMAKÇI",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 37.8973577,
+    "longitude": 30.0097784
+  },
+  {
+    "ilce_id": "1773",
+    "ilce_adi": "BAYAT",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.9844235,
+    "longitude": 30.925576
+  },
+  {
+    "ilce_id": "1809",
+    "ilce_adi": "İSCEHİSAR",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.8620854,
+    "longitude": 30.7509711
+  },
+  {
+    "ilce_id": "1906",
+    "ilce_adi": "ÇOBANLAR",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.6882335,
+    "longitude": 30.73887
+  },
+  {
+    "ilce_id": "1923",
+    "ilce_adi": "EVCİLER",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.0270542,
+    "longitude": 29.921358
+  },
+  {
+    "ilce_id": "1944",
+    "ilce_adi": "HOCALAR",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.5808125,
+    "longitude": 29.9668799
+  },
+  {
+    "ilce_id": "1961",
+    "ilce_adi": "KIZILÖREN",
+    "sehir_id": "3",
+    "sehir_adi": "AFYONKARAHİSAR",
+    "latitude": 38.2578342,
+    "longitude": 30.1491611
+  },
+  {
+    "ilce_id": "1111",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "4",
+    "sehir_adi": "AĞRI",
+    "latitude": 39.7779175,
+    "longitude": 43.1684371
+  },
+  {
+    "ilce_id": "1283",
+    "ilce_adi": "DİYADİN",
+    "sehir_id": "4",
+    "sehir_adi": "AĞRI",
+    "latitude": 39.5397685,
+    "longitude": 43.671203
+  },
+  {
+    "ilce_id": "1287",
+    "ilce_adi": "DOĞUBAYAZIT",
+    "sehir_id": "4",
+    "sehir_adi": "AĞRI",
+    "latitude": 39.5483366,
+    "longitude": 44.0793593
+  },
+  {
+    "ilce_id": "1301",
+    "ilce_adi": "ELEŞKİRT",
+    "sehir_id": "4",
+    "sehir_adi": "AĞRI",
+    "latitude": 39.7983792,
+    "longitude": 42.6754699
+  },
+  {
+    "ilce_id": "1379",
+    "ilce_adi": "HAMUR",
+    "sehir_id": "4",
+    "sehir_adi": "AĞRI",
+    "latitude": 39.6093345,
+    "longitude": 42.9882032
+  },
+  {
+    "ilce_id": "1568",
+    "ilce_adi": "PATNOS",
+    "sehir_id": "4",
+    "sehir_adi": "AĞRI",
+    "latitude": 39.2334202,
+    "longitude": 42.8612338
+  },
+  {
+    "ilce_id": "1667",
+    "ilce_adi": "TAŞLIÇAY",
+    "sehir_id": "4",
+    "sehir_adi": "AĞRI",
+    "latitude": 39.6333304,
+    "longitude": 43.3776762
+  },
+  {
+    "ilce_id": "1691",
+    "ilce_adi": "TUTAK",
+    "sehir_id": "4",
+    "sehir_adi": "AĞRI",
+    "latitude": 39.5393558,
+    "longitude": 42.7727501
+  },
+  {
+    "ilce_id": "1134",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "5",
+    "sehir_adi": "AMASYA",
+    "latitude": 40.3984066,
+    "longitude": 35.5246031
+  },
+  {
+    "ilce_id": "1363",
+    "ilce_adi": "GÖYNÜCEK",
+    "sehir_id": "5",
+    "sehir_adi": "AMASYA",
+    "latitude": 40.3971472,
+    "longitude": 35.5236928
+  },
+  {
+    "ilce_id": "1368",
+    "ilce_adi": "GÜMÜŞHACIKÖY",
+    "sehir_id": "5",
+    "sehir_adi": "AMASYA",
+    "latitude": 40.8736228,
+    "longitude": 35.2158969
+  },
+  {
+    "ilce_id": "1524",
+    "ilce_adi": "MERZİFON",
+    "sehir_id": "5",
+    "sehir_adi": "AMASYA",
+    "latitude": 40.8721392,
+    "longitude": 35.4635383
+  },
+  {
+    "ilce_id": "1641",
+    "ilce_adi": "SULUOVA",
+    "sehir_id": "5",
+    "sehir_adi": "AMASYA",
+    "latitude": 40.852295,
+    "longitude": 35.6330755
+  },
+  {
+    "ilce_id": "1668",
+    "ilce_adi": "TAŞOVA",
+    "sehir_id": "5",
+    "sehir_adi": "AMASYA",
+    "latitude": 40.7603491,
+    "longitude": 36.321973
+  },
+  {
+    "ilce_id": "1938",
+    "ilce_adi": "HAMAMÖZÜ",
+    "sehir_id": "5",
+    "sehir_adi": "AMASYA",
+    "latitude": 40.7831959,
+    "longitude": 35.0242149
+  },
+  {
+    "ilce_id": "1130",
+    "ilce_adi": "ALTINDAĞ",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 39.9333547,
+    "longitude": 32.8597454
+  },
+  {
+    "ilce_id": "1157",
+    "ilce_adi": "AYAŞ",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 40.015144,
+    "longitude": 32.3324224
+  },
+  {
+    "ilce_id": "1167",
+    "ilce_adi": "BALA",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 39.553364,
+    "longitude": 33.1237528
+  },
+  {
+    "ilce_id": "1187",
+    "ilce_adi": "BEYPAZARI",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 40.1661927,
+    "longitude": 31.9207632
+  },
+  {
+    "ilce_id": "1227",
+    "ilce_adi": "ÇAMLIDERE",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 40.4914804,
+    "longitude": 32.4758257
+  },
+  {
+    "ilce_id": "1231",
+    "ilce_adi": "ÇANKAYA",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 39.8853321,
+    "longitude": 32.8554966
+  },
+  {
+    "ilce_id": "1260",
+    "ilce_adi": "ÇUBUK",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 40.2388964,
+    "longitude": 33.028947
+  },
+  {
+    "ilce_id": "1302",
+    "ilce_adi": "ELMADAĞ",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 39.9173198,
+    "longitude": 33.2343945
+  },
+  {
+    "ilce_id": "1365",
+    "ilce_adi": "GÜDÜL",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 40.2104614,
+    "longitude": 32.2432252
+  },
+  {
+    "ilce_id": "1387",
+    "ilce_adi": "HAYMANA",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 39.4341352,
+    "longitude": 32.4987922
+  },
+  {
+    "ilce_id": "1427",
+    "ilce_adi": "KALECİK",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 40.1038289,
+    "longitude": 33.4102343
+  },
+  {
+    "ilce_id": "1473",
+    "ilce_adi": "KIZILCAHAMAM",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 40.4700945,
+    "longitude": 32.6528555
+  },
+  {
+    "ilce_id": "1539",
+    "ilce_adi": "NALLIHAN",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 40.188822,
+    "longitude": 31.3503453
+  },
+  {
+    "ilce_id": "1578",
+    "ilce_adi": "POLATLI",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 39.5852226,
+    "longitude": 32.1436995
+  },
+  {
+    "ilce_id": "1658",
+    "ilce_adi": "ŞEREFLİKOÇHİSAR",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 38.9389329,
+    "longitude": 33.5438843
+  },
+  {
+    "ilce_id": "1723",
+    "ilce_adi": "YENİMAHALLE",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 39.9661061,
+    "longitude": 32.8087786
+  },
+  {
+    "ilce_id": "1744",
+    "ilce_adi": "GÖLBAŞI",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 39.7925289,
+    "longitude": 32.8066652
+  },
+  {
+    "ilce_id": "1745",
+    "ilce_adi": "KEÇİÖREN",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 39.977713,
+    "longitude": 32.8669801
+  },
+  {
+    "ilce_id": "1746",
+    "ilce_adi": "MAMAK",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 39.931775,
+    "longitude": 32.9108897
+  },
+  {
+    "ilce_id": "1747",
+    "ilce_adi": "SİNCAN",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 39.9639625,
+    "longitude": 32.58575
+  },
+  {
+    "ilce_id": "1815",
+    "ilce_adi": "KAHRAMANKAZAN",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 40.2054445,
+    "longitude": 32.6813148
+  },
+  {
+    "ilce_id": "1872",
+    "ilce_adi": "AKYURT",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 40.1307529,
+    "longitude": 33.0870676
+  },
+  {
+    "ilce_id": "1922",
+    "ilce_adi": "ETİMESGUT",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 39.9489423,
+    "longitude": 32.6620792
+  },
+  {
+    "ilce_id": "1924",
+    "ilce_adi": "EVREN",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 39.0221203,
+    "longitude": 33.8078573
+  },
+  {
+    "ilce_id": "2034",
+    "ilce_adi": "PURSAKLAR",
+    "sehir_id": "6",
+    "sehir_adi": "ANKARA",
+    "latitude": 40.0381052,
+    "longitude": 32.896908
+  },
+  {
+    "ilce_id": "1121",
+    "ilce_adi": "AKSEKİ",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 37.0473617,
+    "longitude": 31.7908673
+  },
+  {
+    "ilce_id": "1126",
+    "ilce_adi": "ALANYA",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.8865728,
+    "longitude": 30.7030242
+  },
+  {
+    "ilce_id": "1303",
+    "ilce_adi": "ELMALI",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.7383786,
+    "longitude": 29.9183623
+  },
+  {
+    "ilce_id": "1333",
+    "ilce_adi": "FİNİKE",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.3046148,
+    "longitude": 30.1445334
+  },
+  {
+    "ilce_id": "1337",
+    "ilce_adi": "GAZİPAŞA",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.2682712,
+    "longitude": 32.3175066
+  },
+  {
+    "ilce_id": "1370",
+    "ilce_adi": "GÜNDOĞMUŞ",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.814338,
+    "longitude": 31.9983333
+  },
+  {
+    "ilce_id": "1451",
+    "ilce_adi": "KAŞ",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.1993752,
+    "longitude": 29.6413365
+  },
+  {
+    "ilce_id": "1483",
+    "ilce_adi": "KORKUTELİ",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 37.0666523,
+    "longitude": 30.1970497
+  },
+  {
+    "ilce_id": "1492",
+    "ilce_adi": "KUMLUCA",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.3669046,
+    "longitude": 30.2858418
+  },
+  {
+    "ilce_id": "1512",
+    "ilce_adi": "MANAVGAT",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.7870124,
+    "longitude": 31.4406667
+  },
+  {
+    "ilce_id": "1616",
+    "ilce_adi": "SERİK",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.9168682,
+    "longitude": 31.1047478
+  },
+  {
+    "ilce_id": "1811",
+    "ilce_adi": "DEMRE",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.244569,
+    "longitude": 29.9876151
+  },
+  {
+    "ilce_id": "1946",
+    "ilce_adi": "İBRADI",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 37.0969444,
+    "longitude": 31.5969351
+  },
+  {
+    "ilce_id": "1959",
+    "ilce_adi": "KEMER",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.6013823,
+    "longitude": 30.5638561
+  },
+  {
+    "ilce_id": "2035",
+    "ilce_adi": "AKSU",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.9475051,
+    "longitude": 30.847705
+  },
+  {
+    "ilce_id": "2036",
+    "ilce_adi": "DÖŞEMEALTI",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 37.022956,
+    "longitude": 30.6013333
+  },
+  {
+    "ilce_id": "2037",
+    "ilce_adi": "KEPEZ",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.9176296,
+    "longitude": 30.7149914
+  },
+  {
+    "ilce_id": "2038",
+    "ilce_adi": "KONYAALTI",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.8726128,
+    "longitude": 30.6503649
+  },
+  {
+    "ilce_id": "2039",
+    "ilce_adi": "MURATPAŞA",
+    "sehir_id": "7",
+    "sehir_adi": "ANTALYA",
+    "latitude": 36.8888637,
+    "longitude": 30.7208911
+  },
+  {
+    "ilce_id": "1145",
+    "ilce_adi": "ARDANUÇ",
+    "sehir_id": "8",
+    "sehir_adi": "ARTVİN",
+    "latitude": 41.0914401,
+    "longitude": 42.1548577
+  },
+  {
+    "ilce_id": "1147",
+    "ilce_adi": "ARHAVİ",
+    "sehir_id": "8",
+    "sehir_adi": "ARTVİN",
+    "latitude": 41.3520702,
+    "longitude": 41.3093534
+  },
+  {
+    "ilce_id": "1152",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "8",
+    "sehir_adi": "ARTVİN",
+    "latitude": 41.3627828,
+    "longitude": 41.6767108
+  },
+  {
+    "ilce_id": "1202",
+    "ilce_adi": "BORÇKA",
+    "sehir_id": "8",
+    "sehir_adi": "ARTVİN",
+    "latitude": 41.3602455,
+    "longitude": 41.6746739
+  },
+  {
+    "ilce_id": "1395",
+    "ilce_adi": "HOPA",
+    "sehir_id": "8",
+    "sehir_adi": "ARTVİN",
+    "latitude": 41.3853867,
+    "longitude": 41.4631932
+  },
+  {
+    "ilce_id": "1653",
+    "ilce_adi": "ŞAVŞAT",
+    "sehir_id": "8",
+    "sehir_adi": "ARTVİN",
+    "latitude": 41.2524882,
+    "longitude": 42.3568859
+  },
+  {
+    "ilce_id": "1736",
+    "ilce_adi": "YUSUFELİ",
+    "sehir_id": "8",
+    "sehir_adi": "ARTVİN",
+    "latitude": 40.8108286,
+    "longitude": 41.5270854
+  },
+  {
+    "ilce_id": "1828",
+    "ilce_adi": "MURGUL",
+    "sehir_id": "8",
+    "sehir_adi": "ARTVİN",
+    "latitude": 41.2796807,
+    "longitude": 41.564126
+  },
+  {
+    "ilce_id": "2105",
+    "ilce_adi": "KEMALPAŞA",
+    "sehir_id": "8",
+    "sehir_adi": "ARTVİN",
+    "latitude": 41.4680678,
+    "longitude": 41.5496347
+  },
+  {
+    "ilce_id": "1206",
+    "ilce_adi": "BOZDOĞAN",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.6739133,
+    "longitude": 28.3132041
+  },
+  {
+    "ilce_id": "1256",
+    "ilce_adi": "ÇİNE",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.6124716,
+    "longitude": 28.0623096
+  },
+  {
+    "ilce_id": "1348",
+    "ilce_adi": "GERMENCİK",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.8732323,
+    "longitude": 27.5957528
+  },
+  {
+    "ilce_id": "1435",
+    "ilce_adi": "KARACASU",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.7306842,
+    "longitude": 28.6062646
+  },
+  {
+    "ilce_id": "1479",
+    "ilce_adi": "KOÇARLI",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.7612979,
+    "longitude": 27.705696
+  },
+  {
+    "ilce_id": "1497",
+    "ilce_adi": "KUŞADASI",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.8632398,
+    "longitude": 27.266873
+  },
+  {
+    "ilce_id": "1498",
+    "ilce_adi": "KUYUCAK",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.9096934,
+    "longitude": 28.4594821
+  },
+  {
+    "ilce_id": "1542",
+    "ilce_adi": "NAZİLLİ",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.9097512,
+    "longitude": 28.3242062
+  },
+  {
+    "ilce_id": "1637",
+    "ilce_adi": "SÖKE",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.7519762,
+    "longitude": 27.4056294
+  },
+  {
+    "ilce_id": "1640",
+    "ilce_adi": "SULTANHİSAR",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.8873183,
+    "longitude": 28.1557307
+  },
+  {
+    "ilce_id": "1724",
+    "ilce_adi": "YENİPAZAR",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.8232925,
+    "longitude": 28.1957304
+  },
+  {
+    "ilce_id": "1781",
+    "ilce_adi": "BUHARKENT",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.9526579,
+    "longitude": 28.7385258
+  },
+  {
+    "ilce_id": "1807",
+    "ilce_adi": "İNCİRLİOVA",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.8538377,
+    "longitude": 27.7250479
+  },
+  {
+    "ilce_id": "1957",
+    "ilce_adi": "KARPUZLU",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.5590294,
+    "longitude": 27.8360916
+  },
+  {
+    "ilce_id": "1968",
+    "ilce_adi": "KÖŞK",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.8517021,
+    "longitude": 28.0514727
+  },
+  {
+    "ilce_id": "2000",
+    "ilce_adi": "DİDİM",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.3696865,
+    "longitude": 27.2684841
+  },
+  {
+    "ilce_id": "2076",
+    "ilce_adi": "EFELER",
+    "sehir_id": "9",
+    "sehir_adi": "AYDIN",
+    "latitude": 37.8471749,
+    "longitude": 27.8337255
+  },
+  {
+    "ilce_id": "1161",
+    "ilce_adi": "AYVALIK",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.3180962,
+    "longitude": 26.6916708
+  },
+  {
+    "ilce_id": "1169",
+    "ilce_adi": "BALYA",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.7498649,
+    "longitude": 27.5796614
+  },
+  {
+    "ilce_id": "1171",
+    "ilce_adi": "BANDIRMA",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 40.3554705,
+    "longitude": 27.9697603
+  },
+  {
+    "ilce_id": "1191",
+    "ilce_adi": "BİGADİÇ",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.3913047,
+    "longitude": 28.1319584
+  },
+  {
+    "ilce_id": "1216",
+    "ilce_adi": "BURHANİYE",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.5030179,
+    "longitude": 26.9807391
+  },
+  {
+    "ilce_id": "1291",
+    "ilce_adi": "DURSUNBEY",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.5880141,
+    "longitude": 28.6253818
+  },
+  {
+    "ilce_id": "1294",
+    "ilce_adi": "EDREMİT",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.5938352,
+    "longitude": 27.0156844
+  },
+  {
+    "ilce_id": "1310",
+    "ilce_adi": "ERDEK",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 40.3974352,
+    "longitude": 27.7909871
+  },
+  {
+    "ilce_id": "1360",
+    "ilce_adi": "GÖNEN",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 40.1044116,
+    "longitude": 27.6563981
+  },
+  {
+    "ilce_id": "1384",
+    "ilce_adi": "HAVRAN",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.5576221,
+    "longitude": 27.1002544
+  },
+  {
+    "ilce_id": "1418",
+    "ilce_adi": "İVRİNDİ",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.582016,
+    "longitude": 27.4852585
+  },
+  {
+    "ilce_id": "1462",
+    "ilce_adi": "KEPSUT",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.6898687,
+    "longitude": 28.1528838
+  },
+  {
+    "ilce_id": "1514",
+    "ilce_adi": "MANYAS",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 40.0476916,
+    "longitude": 27.9679904
+  },
+  {
+    "ilce_id": "1608",
+    "ilce_adi": "SAVAŞTEPE",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.3855971,
+    "longitude": 27.6559932
+  },
+  {
+    "ilce_id": "1619",
+    "ilce_adi": "SINDIRGI",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.2387054,
+    "longitude": 28.1749129
+  },
+  {
+    "ilce_id": "1644",
+    "ilce_adi": "SUSURLUK",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.9183805,
+    "longitude": 28.1531894
+  },
+  {
+    "ilce_id": "1824",
+    "ilce_adi": "MARMARA",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 40.6212433,
+    "longitude": 27.6184464
+  },
+  {
+    "ilce_id": "1928",
+    "ilce_adi": "GÖMEÇ",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.3901489,
+    "longitude": 26.8411555
+  },
+  {
+    "ilce_id": "2077",
+    "ilce_adi": "ALTIEYLÜL",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.6446327,
+    "longitude": 27.8834414
+  },
+  {
+    "ilce_id": "2078",
+    "ilce_adi": "KARESİ",
+    "sehir_id": "10",
+    "sehir_adi": "BALIKESİR",
+    "latitude": 39.6464168,
+    "longitude": 27.8853411
+  },
+  {
+    "ilce_id": "1192",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "11",
+    "sehir_adi": "BİLECİK",
+    "latitude": 40.1435101,
+    "longitude": 29.9752911
+  },
+  {
+    "ilce_id": "1210",
+    "ilce_adi": "BOZÜYÜK",
+    "sehir_id": "11",
+    "sehir_adi": "BİLECİK",
+    "latitude": 39.9067759,
+    "longitude": 30.0346207
+  },
+  {
+    "ilce_id": "1359",
+    "ilce_adi": "GÖLPAZARI",
+    "sehir_id": "11",
+    "sehir_adi": "BİLECİK",
+    "latitude": 40.2839365,
+    "longitude": 30.3165356
+  },
+  {
+    "ilce_id": "1559",
+    "ilce_adi": "OSMANELİ",
+    "sehir_id": "11",
+    "sehir_adi": "BİLECİK",
+    "latitude": 40.357266,
+    "longitude": 30.0162928
+  },
+  {
+    "ilce_id": "1571",
+    "ilce_adi": "PAZARYERİ",
+    "sehir_id": "11",
+    "sehir_adi": "BİLECİK",
+    "latitude": 39.9954056,
+    "longitude": 29.9031259
+  },
+  {
+    "ilce_id": "1636",
+    "ilce_adi": "SÖĞÜT",
+    "sehir_id": "11",
+    "sehir_adi": "BİLECİK",
+    "latitude": 40.0155518,
+    "longitude": 30.1814273
+  },
+  {
+    "ilce_id": "1857",
+    "ilce_adi": "YENİPAZAR",
+    "sehir_id": "11",
+    "sehir_adi": "BİLECİK",
+    "latitude": 40.1766829,
+    "longitude": 30.5190761
+  },
+  {
+    "ilce_id": "1948",
+    "ilce_adi": "İNHİSAR",
+    "sehir_id": "11",
+    "sehir_adi": "BİLECİK",
+    "latitude": 40.0502928,
+    "longitude": 30.3848455
+  },
+  {
+    "ilce_id": "1193",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "12",
+    "sehir_adi": "BİNGÖL",
+    "latitude": 39.433562,
+    "longitude": 40.5439909
+  },
+  {
+    "ilce_id": "1344",
+    "ilce_adi": "GENÇ",
+    "sehir_id": "12",
+    "sehir_adi": "BİNGÖL",
+    "latitude": 38.7495382,
+    "longitude": 40.5566119
+  },
+  {
+    "ilce_id": "1446",
+    "ilce_adi": "KARLIOVA",
+    "sehir_id": "12",
+    "sehir_adi": "BİNGÖL",
+    "latitude": 39.2945998,
+    "longitude": 41.0102383
+  },
+  {
+    "ilce_id": "1475",
+    "ilce_adi": "KİĞI",
+    "sehir_id": "12",
+    "sehir_adi": "BİNGÖL",
+    "latitude": 39.3103665,
+    "longitude": 40.3496279
+  },
+  {
+    "ilce_id": "1633",
+    "ilce_adi": "SOLHAN",
+    "sehir_id": "12",
+    "sehir_adi": "BİNGÖL",
+    "latitude": 38.9659351,
+    "longitude": 41.0518147
+  },
+  {
+    "ilce_id": "1750",
+    "ilce_adi": "ADAKLI",
+    "sehir_id": "12",
+    "sehir_adi": "BİNGÖL",
+    "latitude": 39.2285335,
+    "longitude": 40.4826578
+  },
+  {
+    "ilce_id": "1855",
+    "ilce_adi": "YAYLADERE",
+    "sehir_id": "12",
+    "sehir_adi": "BİNGÖL",
+    "latitude": 39.2275134,
+    "longitude": 40.0685835
+  },
+  {
+    "ilce_id": "1996",
+    "ilce_adi": "YEDİSU",
+    "sehir_id": "12",
+    "sehir_adi": "BİNGÖL",
+    "latitude": 39.4339592,
+    "longitude": 40.5451195
+  },
+  {
+    "ilce_id": "1106",
+    "ilce_adi": "ADİLCEVAZ",
+    "sehir_id": "13",
+    "sehir_adi": "BİTLİS",
+    "latitude": 38.8043058,
+    "longitude": 42.7346369
+  },
+  {
+    "ilce_id": "1112",
+    "ilce_adi": "AHLAT",
+    "sehir_id": "13",
+    "sehir_adi": "BİTLİS",
+    "latitude": 38.7546534,
+    "longitude": 42.4833266
+  },
+  {
+    "ilce_id": "1196",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "13",
+    "sehir_adi": "BİTLİS",
+    "latitude": 38.4020539,
+    "longitude": 42.1084568
+  },
+  {
+    "ilce_id": "1394",
+    "ilce_adi": "HİZAN",
+    "sehir_id": "13",
+    "sehir_adi": "BİTLİS",
+    "latitude": 38.2250087,
+    "longitude": 42.4263243
+  },
+  {
+    "ilce_id": "1537",
+    "ilce_adi": "MUTKİ",
+    "sehir_id": "13",
+    "sehir_adi": "BİTLİS",
+    "latitude": 38.4089737,
+    "longitude": 41.9219414
+  },
+  {
+    "ilce_id": "1669",
+    "ilce_adi": "TATVAN",
+    "sehir_id": "13",
+    "sehir_adi": "BİTLİS",
+    "latitude": 38.4931961,
+    "longitude": 42.2878112
+  },
+  {
+    "ilce_id": "1798",
+    "ilce_adi": "GÜROYMAK",
+    "sehir_id": "13",
+    "sehir_adi": "BİTLİS",
+    "latitude": 38.574172,
+    "longitude": 42.0253272
+  },
+  {
+    "ilce_id": "1199",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "14",
+    "sehir_adi": "BOLU",
+    "latitude": 40.7332953,
+    "longitude": 31.6110479
+  },
+  {
+    "ilce_id": "1346",
+    "ilce_adi": "GEREDE",
+    "sehir_id": "14",
+    "sehir_adi": "BOLU",
+    "latitude": 40.7987548,
+    "longitude": 32.2009075
+  },
+  {
+    "ilce_id": "1364",
+    "ilce_adi": "GÖYNÜK",
+    "sehir_id": "14",
+    "sehir_adi": "BOLU",
+    "latitude": 40.3983169,
+    "longitude": 30.7866167
+  },
+  {
+    "ilce_id": "1466",
+    "ilce_adi": "KIBRISCIK",
+    "sehir_id": "14",
+    "sehir_adi": "BOLU",
+    "latitude": 40.4087948,
+    "longitude": 31.8487176
+  },
+  {
+    "ilce_id": "1522",
+    "ilce_adi": "MENGEN",
+    "sehir_id": "14",
+    "sehir_adi": "BOLU",
+    "latitude": 40.9396618,
+    "longitude": 32.0748327
+  },
+  {
+    "ilce_id": "1531",
+    "ilce_adi": "MUDURNU",
+    "sehir_id": "14",
+    "sehir_adi": "BOLU",
+    "latitude": 40.4656959,
+    "longitude": 31.2112312
+  },
+  {
+    "ilce_id": "1610",
+    "ilce_adi": "SEBEN",
+    "sehir_id": "14",
+    "sehir_adi": "BOLU",
+    "latitude": 40.4085088,
+    "longitude": 31.5713451
+  },
+  {
+    "ilce_id": "1916",
+    "ilce_adi": "DÖRTDİVAN",
+    "sehir_id": "14",
+    "sehir_adi": "BOLU",
+    "latitude": 40.7206449,
+    "longitude": 32.0625984
+  },
+  {
+    "ilce_id": "1997",
+    "ilce_adi": "YENİÇAĞA",
+    "sehir_id": "14",
+    "sehir_adi": "BOLU",
+    "latitude": 40.7703852,
+    "longitude": 32.0336407
+  },
+  {
+    "ilce_id": "1109",
+    "ilce_adi": "AĞLASUN",
+    "sehir_id": "15",
+    "sehir_adi": "BURDUR",
+    "latitude": 37.6496612,
+    "longitude": 30.5331918
+  },
+  {
+    "ilce_id": "1211",
+    "ilce_adi": "BUCAK",
+    "sehir_id": "15",
+    "sehir_adi": "BURDUR",
+    "latitude": 37.4567447,
+    "longitude": 30.5855392
+  },
+  {
+    "ilce_id": "1215",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "15",
+    "sehir_adi": "BURDUR",
+    "latitude": 37.7248394,
+    "longitude": 30.2887286
+  },
+  {
+    "ilce_id": "1357",
+    "ilce_adi": "GÖLHİSAR",
+    "sehir_id": "15",
+    "sehir_adi": "BURDUR",
+    "latitude": 37.1512806,
+    "longitude": 29.5110916
+  },
+  {
+    "ilce_id": "1672",
+    "ilce_adi": "TEFENNİ",
+    "sehir_id": "15",
+    "sehir_adi": "BURDUR",
+    "latitude": 37.3132492,
+    "longitude": 29.7759765
+  },
+  {
+    "ilce_id": "1728",
+    "ilce_adi": "YEŞİLOVA",
+    "sehir_id": "15",
+    "sehir_adi": "BURDUR",
+    "latitude": 37.5064376,
+    "longitude": 29.7552378
+  },
+  {
+    "ilce_id": "1813",
+    "ilce_adi": "KARAMANLI",
+    "sehir_id": "15",
+    "sehir_adi": "BURDUR",
+    "latitude": 37.3709275,
+    "longitude": 29.8225951
+  },
+  {
+    "ilce_id": "1816",
+    "ilce_adi": "KEMER",
+    "sehir_id": "15",
+    "sehir_adi": "BURDUR",
+    "latitude": 37.3538953,
+    "longitude": 30.06113
+  },
+  {
+    "ilce_id": "1874",
+    "ilce_adi": "ALTINYAYLA",
+    "sehir_id": "15",
+    "sehir_adi": "BURDUR",
+    "latitude": 36.9961788,
+    "longitude": 29.5467695
+  },
+  {
+    "ilce_id": "1899",
+    "ilce_adi": "ÇAVDIR",
+    "sehir_id": "15",
+    "sehir_adi": "BURDUR",
+    "latitude": 37.154989,
+    "longitude": 29.6900028
+  },
+  {
+    "ilce_id": "1903",
+    "ilce_adi": "ÇELTİKÇİ",
+    "sehir_id": "15",
+    "sehir_adi": "BURDUR",
+    "latitude": 37.533798,
+    "longitude": 30.4826059
+  },
+  {
+    "ilce_id": "1343",
+    "ilce_adi": "GEMLİK",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 40.4301652,
+    "longitude": 29.1570698
+  },
+  {
+    "ilce_id": "1411",
+    "ilce_adi": "İNEGÖL",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 40.0800359,
+    "longitude": 29.5096528
+  },
+  {
+    "ilce_id": "1420",
+    "ilce_adi": "İZNİK",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 40.4303445,
+    "longitude": 29.7223732
+  },
+  {
+    "ilce_id": "1434",
+    "ilce_adi": "KARACABEY",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 40.2159844,
+    "longitude": 28.3590588
+  },
+  {
+    "ilce_id": "1457",
+    "ilce_adi": "KELES",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 39.9128869,
+    "longitude": 29.2341651
+  },
+  {
+    "ilce_id": "1530",
+    "ilce_adi": "MUDANYA",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 40.3752582,
+    "longitude": 28.8837929
+  },
+  {
+    "ilce_id": "1535",
+    "ilce_adi": "MUSTAFAKEMALPAŞA",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 40.0350481,
+    "longitude": 28.4132707
+  },
+  {
+    "ilce_id": "1553",
+    "ilce_adi": "ORHANELİ",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 39.9026561,
+    "longitude": 28.9866861
+  },
+  {
+    "ilce_id": "1554",
+    "ilce_adi": "ORHANGAZİ",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 40.4955352,
+    "longitude": 29.3108324
+  },
+  {
+    "ilce_id": "1725",
+    "ilce_adi": "YENİŞEHİR",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 40.2626316,
+    "longitude": 29.6521948
+  },
+  {
+    "ilce_id": "1783",
+    "ilce_adi": "BÜYÜKORHAN",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 39.770909,
+    "longitude": 28.88541
+  },
+  {
+    "ilce_id": "1799",
+    "ilce_adi": "HARMANCIK",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 39.6772243,
+    "longitude": 29.1538215
+  },
+  {
+    "ilce_id": "1829",
+    "ilce_adi": "NİLÜFER",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 40.2169975,
+    "longitude": 28.9847907
+  },
+  {
+    "ilce_id": "1832",
+    "ilce_adi": "OSMANGAZİ",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 40.1982203,
+    "longitude": 29.0612098
+  },
+  {
+    "ilce_id": "1859",
+    "ilce_adi": "YILDIRIM",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 40.1866362,
+    "longitude": 29.128191
+  },
+  {
+    "ilce_id": "1935",
+    "ilce_adi": "GÜRSU",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 40.2175842,
+    "longitude": 29.1935635
+  },
+  {
+    "ilce_id": "1960",
+    "ilce_adi": "KESTEL",
+    "sehir_id": "16",
+    "sehir_adi": "BURSA",
+    "latitude": 40.2007544,
+    "longitude": 29.2128704
+  },
+  {
+    "ilce_id": "1160",
+    "ilce_adi": "AYVACIK",
+    "sehir_id": "17",
+    "sehir_adi": "ÇANAKKALE",
+    "latitude": 39.601185,
+    "longitude": 26.4031312
+  },
+  {
+    "ilce_id": "1180",
+    "ilce_adi": "BAYRAMİÇ",
+    "sehir_id": "17",
+    "sehir_adi": "ÇANAKKALE",
+    "latitude": 39.8086241,
+    "longitude": 26.6130041
+  },
+  {
+    "ilce_id": "1190",
+    "ilce_adi": "BİGA",
+    "sehir_id": "17",
+    "sehir_adi": "ÇANAKKALE",
+    "latitude": 40.2269793,
+    "longitude": 27.2428365
+  },
+  {
+    "ilce_id": "1205",
+    "ilce_adi": "BOZCAADA",
+    "sehir_id": "17",
+    "sehir_adi": "ÇANAKKALE",
+    "latitude": 39.8347344,
+    "longitude": 26.0701917
+  },
+  {
+    "ilce_id": "1229",
+    "ilce_adi": "ÇAN",
+    "sehir_id": "17",
+    "sehir_adi": "ÇANAKKALE",
+    "latitude": 40.0289459,
+    "longitude": 27.0511631
+  },
+  {
+    "ilce_id": "1230",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "17",
+    "sehir_adi": "ÇANAKKALE",
+    "latitude": 40.146271,
+    "longitude": 26.4028892
+  },
+  {
+    "ilce_id": "1293",
+    "ilce_adi": "ECEABAT",
+    "sehir_id": "17",
+    "sehir_adi": "ÇANAKKALE",
+    "latitude": 40.1852143,
+    "longitude": 26.3590969
+  },
+  {
+    "ilce_id": "1326",
+    "ilce_adi": "EZİNE",
+    "sehir_id": "17",
+    "sehir_adi": "ÇANAKKALE",
+    "latitude": 39.7859291,
+    "longitude": 26.3396872
+  },
+  {
+    "ilce_id": "1340",
+    "ilce_adi": "GELİBOLU",
+    "sehir_id": "17",
+    "sehir_adi": "ÇANAKKALE",
+    "latitude": 40.4054063,
+    "longitude": 26.6722539
+  },
+  {
+    "ilce_id": "1408",
+    "ilce_adi": "GÖKÇEADA",
+    "sehir_id": "17",
+    "sehir_adi": "ÇANAKKALE",
+    "latitude": 40.2003874,
+    "longitude": 25.9084625
+  },
+  {
+    "ilce_id": "1503",
+    "ilce_adi": "LAPSEKİ",
+    "sehir_id": "17",
+    "sehir_adi": "ÇANAKKALE",
+    "latitude": 40.3443674,
+    "longitude": 26.6845975
+  },
+  {
+    "ilce_id": "1722",
+    "ilce_adi": "YENİCE",
+    "sehir_id": "17",
+    "sehir_adi": "ÇANAKKALE",
+    "latitude": 39.9297524,
+    "longitude": 27.2555358
+  },
+  {
+    "ilce_id": "1232",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "18",
+    "sehir_adi": "ÇANKIRI",
+    "latitude": 40.5971947,
+    "longitude": 33.6212704
+  },
+  {
+    "ilce_id": "1248",
+    "ilce_adi": "ÇERKEŞ",
+    "sehir_id": "18",
+    "sehir_adi": "ÇANKIRI",
+    "latitude": 40.8116161,
+    "longitude": 32.8841329
+  },
+  {
+    "ilce_id": "1300",
+    "ilce_adi": "ELDİVAN",
+    "sehir_id": "18",
+    "sehir_adi": "ÇANKIRI",
+    "latitude": 40.5306791,
+    "longitude": 33.4966173
+  },
+  {
+    "ilce_id": "1399",
+    "ilce_adi": "ILGAZ",
+    "sehir_id": "18",
+    "sehir_adi": "ÇANKIRI",
+    "latitude": 40.924887,
+    "longitude": 33.6253409
+  },
+  {
+    "ilce_id": "1494",
+    "ilce_adi": "KURŞUNLU",
+    "sehir_id": "18",
+    "sehir_adi": "ÇANKIRI",
+    "latitude": 40.840725,
+    "longitude": 33.2613479
+  },
+  {
+    "ilce_id": "1555",
+    "ilce_adi": "ORTA",
+    "sehir_id": "18",
+    "sehir_adi": "ÇANKIRI",
+    "latitude": 40.6270258,
+    "longitude": 33.1077491
+  },
+  {
+    "ilce_id": "1649",
+    "ilce_adi": "ŞABANÖZÜ",
+    "sehir_id": "18",
+    "sehir_adi": "ÇANKIRI",
+    "latitude": 40.4831599,
+    "longitude": 33.2826151
+  },
+  {
+    "ilce_id": "1718",
+    "ilce_adi": "YAPRAKLI",
+    "sehir_id": "18",
+    "sehir_adi": "ÇANKIRI",
+    "latitude": 40.7570898,
+    "longitude": 33.7787704
+  },
+  {
+    "ilce_id": "1765",
+    "ilce_adi": "ATKARACALAR",
+    "sehir_id": "18",
+    "sehir_adi": "ÇANKIRI",
+    "latitude": 40.7979386,
+    "longitude": 33.0822313
+  },
+  {
+    "ilce_id": "1817",
+    "ilce_adi": "KIZILIRMAK",
+    "sehir_id": "18",
+    "sehir_adi": "ÇANKIRI",
+    "latitude": 40.3459757,
+    "longitude": 33.987241
+  },
+  {
+    "ilce_id": "1885",
+    "ilce_adi": "BAYRAMÖREN",
+    "sehir_id": "18",
+    "sehir_adi": "ÇANKIRI",
+    "latitude": 40.943071,
+    "longitude": 33.2039568
+  },
+  {
+    "ilce_id": "1963",
+    "ilce_adi": "KORGUN",
+    "sehir_id": "18",
+    "sehir_adi": "ÇANKIRI",
+    "latitude": 40.7348367,
+    "longitude": 33.5184877
+  },
+  {
+    "ilce_id": "1124",
+    "ilce_adi": "ALACA",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 40.1690118,
+    "longitude": 34.8414772
+  },
+  {
+    "ilce_id": "1177",
+    "ilce_adi": "BAYAT",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 40.5789741,
+    "longitude": 34.926489
+  },
+  {
+    "ilce_id": "1259",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 40.5498762,
+    "longitude": 34.9537362
+  },
+  {
+    "ilce_id": "1414",
+    "ilce_adi": "İSKİLİP",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 40.7306912,
+    "longitude": 34.4710113
+  },
+  {
+    "ilce_id": "1445",
+    "ilce_adi": "KARGI",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 41.1327497,
+    "longitude": 34.4912238
+  },
+  {
+    "ilce_id": "1520",
+    "ilce_adi": "MECİTÖZÜ",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 40.5205856,
+    "longitude": 35.2953447
+  },
+  {
+    "ilce_id": "1556",
+    "ilce_adi": "ORTAKÖY",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 40.3517153,
+    "longitude": 34.4028776
+  },
+  {
+    "ilce_id": "1558",
+    "ilce_adi": "OSMANCIK",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 40.9714839,
+    "longitude": 34.8010408
+  },
+  {
+    "ilce_id": "1642",
+    "ilce_adi": "SUNGURLU",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 40.1638239,
+    "longitude": 34.3753355
+  },
+  {
+    "ilce_id": "1778",
+    "ilce_adi": "BOĞAZKALE",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 40.0215368,
+    "longitude": 34.6092255
+  },
+  {
+    "ilce_id": "1850",
+    "ilce_adi": "UĞURLUDAĞ",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 40.4463082,
+    "longitude": 34.4524895
+  },
+  {
+    "ilce_id": "1911",
+    "ilce_adi": "DODURGA",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 40.8553068,
+    "longitude": 34.8103307
+  },
+  {
+    "ilce_id": "1972",
+    "ilce_adi": "LAÇİN",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 40.7738012,
+    "longitude": 34.8843532
+  },
+  {
+    "ilce_id": "1976",
+    "ilce_adi": "OĞUZLAR",
+    "sehir_id": "19",
+    "sehir_adi": "ÇORUM",
+    "latitude": 40.7533702,
+    "longitude": 34.7043298
+  },
+  {
+    "ilce_id": "1102",
+    "ilce_adi": "ACIPAYAM",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.4273777,
+    "longitude": 29.3505097
+  },
+  {
+    "ilce_id": "1214",
+    "ilce_adi": "BULDAN",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 38.0442443,
+    "longitude": 28.8326718
+  },
+  {
+    "ilce_id": "1224",
+    "ilce_adi": "ÇAL",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 38.0813509,
+    "longitude": 29.397294
+  },
+  {
+    "ilce_id": "1226",
+    "ilce_adi": "ÇAMELİ",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.0761111,
+    "longitude": 29.3447222
+  },
+  {
+    "ilce_id": "1233",
+    "ilce_adi": "ÇARDAK",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.821539,
+    "longitude": 29.6789423
+  },
+  {
+    "ilce_id": "1257",
+    "ilce_adi": "ÇİVRİL",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 38.3005877,
+    "longitude": 29.7373813
+  },
+  {
+    "ilce_id": "1371",
+    "ilce_adi": "GÜNEY",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 38.1539329,
+    "longitude": 29.0652247
+  },
+  {
+    "ilce_id": "1426",
+    "ilce_adi": "KALE",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.4437871,
+    "longitude": 28.8463079
+  },
+  {
+    "ilce_id": "1597",
+    "ilce_adi": "SARAYKÖY",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.9244344,
+    "longitude": 28.9230836
+  },
+  {
+    "ilce_id": "1670",
+    "ilce_adi": "TAVAS",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.5729263,
+    "longitude": 29.0712601
+  },
+  {
+    "ilce_id": "1769",
+    "ilce_adi": "BABADAĞ",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.8077123,
+    "longitude": 28.856383
+  },
+  {
+    "ilce_id": "1774",
+    "ilce_adi": "BEKİLLİ",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 38.2294869,
+    "longitude": 29.4208248
+  },
+  {
+    "ilce_id": "1803",
+    "ilce_adi": "HONAZ",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.752386,
+    "longitude": 29.2696961
+  },
+  {
+    "ilce_id": "1840",
+    "ilce_adi": "SERİNHİSAR",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.5764593,
+    "longitude": 29.2662284
+  },
+  {
+    "ilce_id": "1871",
+    "ilce_adi": "PAMUKKALE",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.9200382,
+    "longitude": 29.1217529
+  },
+  {
+    "ilce_id": "1881",
+    "ilce_adi": "BAKLAN",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.9767511,
+    "longitude": 29.6066569
+  },
+  {
+    "ilce_id": "1888",
+    "ilce_adi": "BEYAĞAÇ",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.2356835,
+    "longitude": 28.8960269
+  },
+  {
+    "ilce_id": "1889",
+    "ilce_adi": "BOZKURT",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.8274357,
+    "longitude": 29.612654
+  },
+  {
+    "ilce_id": "2079",
+    "ilce_adi": "MERKEZEFENDİ",
+    "sehir_id": "20",
+    "sehir_adi": "DENİZLİ",
+    "latitude": 37.7806721,
+    "longitude": 29.082453
+  },
+  {
+    "ilce_id": "1195",
+    "ilce_adi": "BİSMİL",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 37.8481232,
+    "longitude": 40.6634404
+  },
+  {
+    "ilce_id": "1249",
+    "ilce_adi": "ÇERMİK",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 38.1354868,
+    "longitude": 39.449684
+  },
+  {
+    "ilce_id": "1253",
+    "ilce_adi": "ÇINAR",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 37.7236768,
+    "longitude": 40.4151087
+  },
+  {
+    "ilce_id": "1263",
+    "ilce_adi": "ÇÜNGÜŞ",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 38.2118123,
+    "longitude": 39.2881193
+  },
+  {
+    "ilce_id": "1278",
+    "ilce_adi": "DİCLE",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 38.3728128,
+    "longitude": 40.0718167
+  },
+  {
+    "ilce_id": "1315",
+    "ilce_adi": "ERGANİ",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 38.2689763,
+    "longitude": 39.7609219
+  },
+  {
+    "ilce_id": "1381",
+    "ilce_adi": "HANİ",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 38.4115674,
+    "longitude": 40.3951417
+  },
+  {
+    "ilce_id": "1389",
+    "ilce_adi": "HAZRO",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 38.2538296,
+    "longitude": 40.7808527
+  },
+  {
+    "ilce_id": "1490",
+    "ilce_adi": "KULP",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 38.5003825,
+    "longitude": 41.0120269
+  },
+  {
+    "ilce_id": "1504",
+    "ilce_adi": "LİCE",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 38.4603127,
+    "longitude": 40.6476876
+  },
+  {
+    "ilce_id": "1624",
+    "ilce_adi": "SİLVAN",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 38.1411514,
+    "longitude": 41.0056103
+  },
+  {
+    "ilce_id": "1791",
+    "ilce_adi": "EĞİL",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 38.2575529,
+    "longitude": 40.0845198
+  },
+  {
+    "ilce_id": "1962",
+    "ilce_adi": "KOCAKÖY",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 38.2905722,
+    "longitude": 40.5043476
+  },
+  {
+    "ilce_id": "2040",
+    "ilce_adi": "BAĞLAR",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 37.9173215,
+    "longitude": 40.2082907
+  },
+  {
+    "ilce_id": "2041",
+    "ilce_adi": "KAYAPINAR",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 37.9437832,
+    "longitude": 40.1845788
+  },
+  {
+    "ilce_id": "2042",
+    "ilce_adi": "SUR",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 37.9110723,
+    "longitude": 40.2366499
+  },
+  {
+    "ilce_id": "2043",
+    "ilce_adi": "YENİŞEHİR",
+    "sehir_id": "21",
+    "sehir_adi": "DİYARBAKIR",
+    "latitude": 37.9200463,
+    "longitude": 40.2298991
+  },
+  {
+    "ilce_id": "1295",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "22",
+    "sehir_adi": "EDİRNE",
+    "latitude": 41.6759327,
+    "longitude": 26.5587225
+  },
+  {
+    "ilce_id": "1307",
+    "ilce_adi": "ENEZ",
+    "sehir_id": "22",
+    "sehir_adi": "EDİRNE",
+    "latitude": 40.725028,
+    "longitude": 26.0845671
+  },
+  {
+    "ilce_id": "1385",
+    "ilce_adi": "HAVSA",
+    "sehir_id": "22",
+    "sehir_adi": "EDİRNE",
+    "latitude": 41.5493038,
+    "longitude": 26.8205643
+  },
+  {
+    "ilce_id": "1412",
+    "ilce_adi": "İPSALA",
+    "sehir_id": "22",
+    "sehir_adi": "EDİRNE",
+    "latitude": 40.9217064,
+    "longitude": 26.3839845
+  },
+  {
+    "ilce_id": "1464",
+    "ilce_adi": "KEŞAN",
+    "sehir_id": "22",
+    "sehir_adi": "EDİRNE",
+    "latitude": 40.8548793,
+    "longitude": 26.6303057
+  },
+  {
+    "ilce_id": "1502",
+    "ilce_adi": "LALAPAŞA",
+    "sehir_id": "22",
+    "sehir_adi": "EDİRNE",
+    "latitude": 41.8390388,
+    "longitude": 26.7361017
+  },
+  {
+    "ilce_id": "1523",
+    "ilce_adi": "MERİÇ",
+    "sehir_id": "22",
+    "sehir_adi": "EDİRNE",
+    "latitude": 41.1913411,
+    "longitude": 26.42008
+  },
+  {
+    "ilce_id": "1705",
+    "ilce_adi": "UZUNKÖPRÜ",
+    "sehir_id": "22",
+    "sehir_adi": "EDİRNE",
+    "latitude": 41.2960052,
+    "longitude": 26.6896238
+  },
+  {
+    "ilce_id": "1988",
+    "ilce_adi": "SÜLOĞLU",
+    "sehir_id": "22",
+    "sehir_adi": "EDİRNE",
+    "latitude": 41.7656982,
+    "longitude": 26.9080072
+  },
+  {
+    "ilce_id": "1110",
+    "ilce_adi": "AĞIN",
+    "sehir_id": "23",
+    "sehir_adi": "ELAZIĞ",
+    "latitude": 38.9439088,
+    "longitude": 38.7139769
+  },
+  {
+    "ilce_id": "1173",
+    "ilce_adi": "BASKİL",
+    "sehir_id": "23",
+    "sehir_adi": "ELAZIĞ",
+    "latitude": 38.5676802,
+    "longitude": 38.8232458
+  },
+  {
+    "ilce_id": "1298",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "23",
+    "sehir_adi": "ELAZIĞ",
+    "latitude": 38.6747164,
+    "longitude": 39.2227135
+  },
+  {
+    "ilce_id": "1438",
+    "ilce_adi": "KARAKOÇAN",
+    "sehir_id": "23",
+    "sehir_adi": "ELAZIĞ",
+    "latitude": 38.9564458,
+    "longitude": 40.0380269
+  },
+  {
+    "ilce_id": "1455",
+    "ilce_adi": "KEBAN",
+    "sehir_id": "23",
+    "sehir_adi": "ELAZIĞ",
+    "latitude": 38.7943119,
+    "longitude": 38.7444419
+  },
+  {
+    "ilce_id": "1506",
+    "ilce_adi": "MADEN",
+    "sehir_id": "23",
+    "sehir_adi": "ELAZIĞ",
+    "latitude": 38.3932271,
+    "longitude": 39.6702313
+  },
+  {
+    "ilce_id": "1566",
+    "ilce_adi": "PALU",
+    "sehir_id": "23",
+    "sehir_adi": "ELAZIĞ",
+    "latitude": 38.6934846,
+    "longitude": 39.9288811
+  },
+  {
+    "ilce_id": "1631",
+    "ilce_adi": "SİVRİCE",
+    "sehir_id": "23",
+    "sehir_adi": "ELAZIĞ",
+    "latitude": 38.4474169,
+    "longitude": 39.3082646
+  },
+  {
+    "ilce_id": "1762",
+    "ilce_adi": "ARICAK",
+    "sehir_id": "23",
+    "sehir_adi": "ELAZIĞ",
+    "latitude": 38.5634309,
+    "longitude": 40.134504
+  },
+  {
+    "ilce_id": "1820",
+    "ilce_adi": "KOVANCILAR",
+    "sehir_id": "23",
+    "sehir_adi": "ELAZIĞ",
+    "latitude": 38.7189254,
+    "longitude": 39.8659125
+  },
+  {
+    "ilce_id": "1873",
+    "ilce_adi": "ALACAKAYA",
+    "sehir_id": "23",
+    "sehir_adi": "ELAZIĞ",
+    "latitude": 38.4621679,
+    "longitude": 39.8625233
+  },
+  {
+    "ilce_id": "1243",
+    "ilce_adi": "ÇAYIRLI",
+    "sehir_id": "24",
+    "sehir_adi": "ERZİNCAN",
+    "latitude": 39.8040818,
+    "longitude": 40.0371836
+  },
+  {
+    "ilce_id": "1318",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "24",
+    "sehir_adi": "ERZİNCAN",
+    "latitude": 39.7467552,
+    "longitude": 39.49103
+  },
+  {
+    "ilce_id": "1406",
+    "ilce_adi": "İLİÇ",
+    "sehir_id": "24",
+    "sehir_adi": "ERZİNCAN",
+    "latitude": 39.4565909,
+    "longitude": 38.5647141
+  },
+  {
+    "ilce_id": "1459",
+    "ilce_adi": "KEMAH",
+    "sehir_id": "24",
+    "sehir_adi": "ERZİNCAN",
+    "latitude": 39.6004942,
+    "longitude": 39.035389
+  },
+  {
+    "ilce_id": "1460",
+    "ilce_adi": "KEMALİYE",
+    "sehir_id": "24",
+    "sehir_adi": "ERZİNCAN",
+    "latitude": 39.2620966,
+    "longitude": 38.4965266
+  },
+  {
+    "ilce_id": "1583",
+    "ilce_adi": "REFAHİYE",
+    "sehir_id": "24",
+    "sehir_adi": "ERZİNCAN",
+    "latitude": 39.9027528,
+    "longitude": 38.7681749
+  },
+  {
+    "ilce_id": "1675",
+    "ilce_adi": "TERCAN",
+    "sehir_id": "24",
+    "sehir_adi": "ERZİNCAN",
+    "latitude": 39.7764866,
+    "longitude": 40.383
+  },
+  {
+    "ilce_id": "1853",
+    "ilce_adi": "ÜZÜMLÜ",
+    "sehir_id": "24",
+    "sehir_adi": "ERZİNCAN",
+    "latitude": 39.7101148,
+    "longitude": 39.7010311
+  },
+  {
+    "ilce_id": "1977",
+    "ilce_adi": "OTLUKBELİ",
+    "sehir_id": "24",
+    "sehir_adi": "ERZİNCAN",
+    "latitude": 39.9719481,
+    "longitude": 40.0216762
+  },
+  {
+    "ilce_id": "1153",
+    "ilce_adi": "AŞKALE",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 39.9217247,
+    "longitude": 40.6943124
+  },
+  {
+    "ilce_id": "1235",
+    "ilce_adi": "ÇAT",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 39.6119487,
+    "longitude": 40.9774206
+  },
+  {
+    "ilce_id": "1392",
+    "ilce_adi": "HINIS",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 39.3584857,
+    "longitude": 41.7003273
+  },
+  {
+    "ilce_id": "1396",
+    "ilce_adi": "HORASAN",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 40.0400073,
+    "longitude": 42.1690102
+  },
+  {
+    "ilce_id": "1416",
+    "ilce_adi": "İSPİR",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 40.4833781,
+    "longitude": 40.9999611
+  },
+  {
+    "ilce_id": "1444",
+    "ilce_adi": "KARAYAZI",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 39.7016735,
+    "longitude": 42.1431214
+  },
+  {
+    "ilce_id": "1540",
+    "ilce_adi": "NARMAN",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 40.3452003,
+    "longitude": 41.871138
+  },
+  {
+    "ilce_id": "1550",
+    "ilce_adi": "OLTU",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 40.5459405,
+    "longitude": 41.9959769
+  },
+  {
+    "ilce_id": "1551",
+    "ilce_adi": "OLUR",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 40.8268183,
+    "longitude": 42.1332425
+  },
+  {
+    "ilce_id": "1567",
+    "ilce_adi": "PASİNLER",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 39.9773129,
+    "longitude": 41.674491
+  },
+  {
+    "ilce_id": "1657",
+    "ilce_adi": "ŞENKAYA",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 40.5611411,
+    "longitude": 42.3452549
+  },
+  {
+    "ilce_id": "1674",
+    "ilce_adi": "TEKMAN",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 39.646746,
+    "longitude": 41.5093839
+  },
+  {
+    "ilce_id": "1683",
+    "ilce_adi": "TORTUM",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 40.2970821,
+    "longitude": 41.5508252
+  },
+  {
+    "ilce_id": "1812",
+    "ilce_adi": "KARAÇOBAN",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 39.35049,
+    "longitude": 42.1116256
+  },
+  {
+    "ilce_id": "1851",
+    "ilce_adi": "UZUNDERE",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 40.5326825,
+    "longitude": 41.5483336
+  },
+  {
+    "ilce_id": "1865",
+    "ilce_adi": "PAZARYOLU",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 40.4143067,
+    "longitude": 40.773831
+  },
+  {
+    "ilce_id": "1945",
+    "ilce_adi": "AZİZİYE",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 39.9454672,
+    "longitude": 41.1060051
+  },
+  {
+    "ilce_id": "1967",
+    "ilce_adi": "KÖPRÜKÖY",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 39.9706367,
+    "longitude": 41.8727887
+  },
+  {
+    "ilce_id": "2044",
+    "ilce_adi": "PALANDÖKEN",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 39.8869983,
+    "longitude": 41.2705934
+  },
+  {
+    "ilce_id": "2045",
+    "ilce_adi": "YAKUTİYE",
+    "sehir_id": "25",
+    "sehir_adi": "ERZURUM",
+    "latitude": 39.9183266,
+    "longitude": 41.2793868
+  },
+  {
+    "ilce_id": "1255",
+    "ilce_adi": "ÇİFTELER",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 39.3757408,
+    "longitude": 31.0378663
+  },
+  {
+    "ilce_id": "1508",
+    "ilce_adi": "MAHMUDİYE",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 39.4947036,
+    "longitude": 30.9875511
+  },
+  {
+    "ilce_id": "1527",
+    "ilce_adi": "MİHALIÇÇIK",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 39.8666422,
+    "longitude": 31.4960719
+  },
+  {
+    "ilce_id": "1599",
+    "ilce_adi": "SARICAKAYA",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 40.0389485,
+    "longitude": 30.6189477
+  },
+  {
+    "ilce_id": "1618",
+    "ilce_adi": "SEYİTGAZİ",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 39.4443218,
+    "longitude": 30.6960183
+  },
+  {
+    "ilce_id": "1632",
+    "ilce_adi": "SİVRİHİSAR",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 39.4510335,
+    "longitude": 31.5367967
+  },
+  {
+    "ilce_id": "1759",
+    "ilce_adi": "ALPU",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 39.7681753,
+    "longitude": 30.9541728
+  },
+  {
+    "ilce_id": "1777",
+    "ilce_adi": "BEYLİKOVA",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 39.7043676,
+    "longitude": 31.1892576
+  },
+  {
+    "ilce_id": "1808",
+    "ilce_adi": "İNÖNÜ",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 39.8160441,
+    "longitude": 30.1427534
+  },
+  {
+    "ilce_id": "1934",
+    "ilce_adi": "GÜNYÜZÜ",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 39.3842744,
+    "longitude": 31.8096766
+  },
+  {
+    "ilce_id": "1939",
+    "ilce_adi": "HAN",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 39.1584322,
+    "longitude": 30.8634395
+  },
+  {
+    "ilce_id": "1973",
+    "ilce_adi": "MİHALGAZİ",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 40.0263907,
+    "longitude": 30.5782251
+  },
+  {
+    "ilce_id": "2046",
+    "ilce_adi": "ODUNPAZARI",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 39.7655536,
+    "longitude": 30.5237649
+  },
+  {
+    "ilce_id": "2047",
+    "ilce_adi": "TEPEBAŞI",
+    "sehir_id": "26",
+    "sehir_adi": "ESKİŞEHİR",
+    "latitude": 39.7809893,
+    "longitude": 30.5140549
+  },
+  {
+    "ilce_id": "1139",
+    "ilce_adi": "ARABAN",
+    "sehir_id": "27",
+    "sehir_adi": "GAZİANTEP",
+    "latitude": 37.4252863,
+    "longitude": 37.6894188
+  },
+  {
+    "ilce_id": "1415",
+    "ilce_adi": "İSLAHİYE",
+    "sehir_id": "27",
+    "sehir_adi": "GAZİANTEP",
+    "latitude": 37.0307008,
+    "longitude": 36.6365639
+  },
+  {
+    "ilce_id": "1546",
+    "ilce_adi": "NİZİP",
+    "sehir_id": "27",
+    "sehir_adi": "GAZİANTEP",
+    "latitude": 37.0101095,
+    "longitude": 37.7971978
+  },
+  {
+    "ilce_id": "1549",
+    "ilce_adi": "OĞUZELİ",
+    "sehir_id": "27",
+    "sehir_adi": "GAZİANTEP",
+    "latitude": 36.9651081,
+    "longitude": 37.5085487
+  },
+  {
+    "ilce_id": "1720",
+    "ilce_adi": "YAVUZELİ",
+    "sehir_id": "27",
+    "sehir_adi": "GAZİANTEP",
+    "latitude": 37.3178676,
+    "longitude": 37.5669351
+  },
+  {
+    "ilce_id": "1841",
+    "ilce_adi": "ŞAHİNBEY",
+    "sehir_id": "27",
+    "sehir_adi": "GAZİANTEP",
+    "latitude": 37.0575903,
+    "longitude": 37.3794008
+  },
+  {
+    "ilce_id": "1844",
+    "ilce_adi": "ŞEHİTKAMİL",
+    "sehir_id": "27",
+    "sehir_adi": "GAZİANTEP",
+    "latitude": 37.0727587,
+    "longitude": 37.3949769
+  },
+  {
+    "ilce_id": "1956",
+    "ilce_adi": "KARKAMIŞ",
+    "sehir_id": "27",
+    "sehir_adi": "GAZİANTEP",
+    "latitude": 36.8311429,
+    "longitude": 37.9995946
+  },
+  {
+    "ilce_id": "1974",
+    "ilce_adi": "NURDAĞI",
+    "sehir_id": "27",
+    "sehir_adi": "GAZİANTEP",
+    "latitude": 37.1779131,
+    "longitude": 36.7409447
+  },
+  {
+    "ilce_id": "1133",
+    "ilce_adi": "ALUCRA",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 40.319666,
+    "longitude": 38.7651849
+  },
+  {
+    "ilce_id": "1212",
+    "ilce_adi": "BULANCAK",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 40.9389231,
+    "longitude": 38.2318776
+  },
+  {
+    "ilce_id": "1272",
+    "ilce_adi": "DERELİ",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 40.7390401,
+    "longitude": 38.4491316
+  },
+  {
+    "ilce_id": "1320",
+    "ilce_adi": "ESPİYE",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 40.9483226,
+    "longitude": 38.7117215
+  },
+  {
+    "ilce_id": "1324",
+    "ilce_adi": "EYNESİL",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 41.0646879,
+    "longitude": 39.1434047
+  },
+  {
+    "ilce_id": "1352",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 40.8085703,
+    "longitude": 38.9171665
+  },
+  {
+    "ilce_id": "1361",
+    "ilce_adi": "GÖRELE",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 41.0335207,
+    "longitude": 38.998624
+  },
+  {
+    "ilce_id": "1465",
+    "ilce_adi": "KEŞAP",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 40.9151484,
+    "longitude": 38.5138559
+  },
+  {
+    "ilce_id": "1654",
+    "ilce_adi": "ŞEBİNKARAHİSAR",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 40.2886007,
+    "longitude": 38.4236116
+  },
+  {
+    "ilce_id": "1678",
+    "ilce_adi": "TİREBOLU",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 41.0072009,
+    "longitude": 38.8146309
+  },
+  {
+    "ilce_id": "1837",
+    "ilce_adi": "PİRAZİZ",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 40.9525735,
+    "longitude": 38.124757
+  },
+  {
+    "ilce_id": "1854",
+    "ilce_adi": "YAĞLIDERE",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 40.8605351,
+    "longitude": 38.6251583
+  },
+  {
+    "ilce_id": "1893",
+    "ilce_adi": "ÇAMOLUK",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 40.1351681,
+    "longitude": 38.7339764
+  },
+  {
+    "ilce_id": "1894",
+    "ilce_adi": "ÇANAKÇI",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 40.9169922,
+    "longitude": 39.0093156
+  },
+  {
+    "ilce_id": "1912",
+    "ilce_adi": "DOĞANKENT",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 40.8065239,
+    "longitude": 38.9178679
+  },
+  {
+    "ilce_id": "1930",
+    "ilce_adi": "GÜCE",
+    "sehir_id": "28",
+    "sehir_adi": "GİRESUN",
+    "latitude": 40.8940305,
+    "longitude": 38.8080266
+  },
+  {
+    "ilce_id": "1369",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "29",
+    "sehir_adi": "GÜMÜŞHANE",
+    "latitude": 40.5582705,
+    "longitude": 39.2930102
+  },
+  {
+    "ilce_id": "1458",
+    "ilce_adi": "KELKİT",
+    "sehir_id": "29",
+    "sehir_adi": "GÜMÜŞHANE",
+    "latitude": 40.1255234,
+    "longitude": 39.4359784
+  },
+  {
+    "ilce_id": "1660",
+    "ilce_adi": "ŞİRAN",
+    "sehir_id": "29",
+    "sehir_adi": "GÜMÜŞHANE",
+    "latitude": 40.1898258,
+    "longitude": 39.1252323
+  },
+  {
+    "ilce_id": "1684",
+    "ilce_adi": "TORUL",
+    "sehir_id": "29",
+    "sehir_adi": "GÜMÜŞHANE",
+    "latitude": 40.557658,
+    "longitude": 39.2926361
+  },
+  {
+    "ilce_id": "1822",
+    "ilce_adi": "KÖSE",
+    "sehir_id": "29",
+    "sehir_adi": "GÜMÜŞHANE",
+    "latitude": 40.2097298,
+    "longitude": 39.6530012
+  },
+  {
+    "ilce_id": "1971",
+    "ilce_adi": "KÜRTÜN",
+    "sehir_id": "29",
+    "sehir_adi": "GÜMÜŞHANE",
+    "latitude": 40.7018638,
+    "longitude": 39.0857106
+  },
+  {
+    "ilce_id": "1261",
+    "ilce_adi": "ÇUKURCA",
+    "sehir_id": "30",
+    "sehir_adi": "HAKKARİ",
+    "latitude": 37.2468187,
+    "longitude": 43.611042
+  },
+  {
+    "ilce_id": "1377",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "30",
+    "sehir_adi": "HAKKARİ",
+    "latitude": 37.5766959,
+    "longitude": 43.7377862
+  },
+  {
+    "ilce_id": "1656",
+    "ilce_adi": "ŞEMDİNLİ",
+    "sehir_id": "30",
+    "sehir_adi": "HAKKARİ",
+    "latitude": 37.3060554,
+    "longitude": 44.5735617
+  },
+  {
+    "ilce_id": "1737",
+    "ilce_adi": "YÜKSEKOVA",
+    "sehir_id": "30",
+    "sehir_adi": "HAKKARİ",
+    "latitude": 37.5717687,
+    "longitude": 44.2821698
+  },
+  {
+    "ilce_id": "2107",
+    "ilce_adi": "DERECİK",
+    "sehir_id": "30",
+    "sehir_adi": "HAKKARİ",
+    "latitude": 37.0812795,
+    "longitude": 44.3119308
+  },
+  {
+    "ilce_id": "1131",
+    "ilce_adi": "ALTINÖZÜ",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.1143379,
+    "longitude": 36.2495604
+  },
+  {
+    "ilce_id": "1289",
+    "ilce_adi": "DÖRTYOL",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.8371017,
+    "longitude": 36.2274002
+  },
+  {
+    "ilce_id": "1382",
+    "ilce_adi": "HASSA",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.8001098,
+    "longitude": 36.5172243
+  },
+  {
+    "ilce_id": "1413",
+    "ilce_adi": "İSKENDERUN",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.5902266,
+    "longitude": 36.1710354
+  },
+  {
+    "ilce_id": "1468",
+    "ilce_adi": "KIRIKHAN",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.4989553,
+    "longitude": 36.3621728
+  },
+  {
+    "ilce_id": "1585",
+    "ilce_adi": "REYHANLI",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.2684483,
+    "longitude": 36.5672311
+  },
+  {
+    "ilce_id": "1591",
+    "ilce_adi": "SAMANDAĞ",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.0851597,
+    "longitude": 35.9799375
+  },
+  {
+    "ilce_id": "1721",
+    "ilce_adi": "YAYLADAĞI",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 35.9029545,
+    "longitude": 36.0625987
+  },
+  {
+    "ilce_id": "1792",
+    "ilce_adi": "ERZİN",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.9745888,
+    "longitude": 36.1304859
+  },
+  {
+    "ilce_id": "1887",
+    "ilce_adi": "BELEN",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.4916742,
+    "longitude": 36.1944459
+  },
+  {
+    "ilce_id": "1970",
+    "ilce_adi": "KUMLU",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.3647906,
+    "longitude": 36.4540903
+  },
+  {
+    "ilce_id": "2080",
+    "ilce_adi": "ANTAKYA",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.2036546,
+    "longitude": 36.1637648
+  },
+  {
+    "ilce_id": "2081",
+    "ilce_adi": "ARSUZ",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.4196254,
+    "longitude": 35.9905236
+  },
+  {
+    "ilce_id": "2082",
+    "ilce_adi": "DEFNE",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.1951853,
+    "longitude": 36.1476639
+  },
+  {
+    "ilce_id": "2083",
+    "ilce_adi": "PAYAS",
+    "sehir_id": "31",
+    "sehir_adi": "HATAY",
+    "latitude": 36.7559322,
+    "longitude": 36.2151957
+  },
+  {
+    "ilce_id": "1154",
+    "ilce_adi": "ATABEY",
+    "sehir_id": "32",
+    "sehir_adi": "ISPARTA",
+    "latitude": 37.9509348,
+    "longitude": 30.6374073
+  },
+  {
+    "ilce_id": "1297",
+    "ilce_adi": "EĞİRDİR",
+    "sehir_id": "32",
+    "sehir_adi": "ISPARTA",
+    "latitude": 37.8741257,
+    "longitude": 30.8490411
+  },
+  {
+    "ilce_id": "1341",
+    "ilce_adi": "GELENDOST",
+    "sehir_id": "32",
+    "sehir_adi": "ISPARTA",
+    "latitude": 38.1214712,
+    "longitude": 31.0137107
+  },
+  {
+    "ilce_id": "1401",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "32",
+    "sehir_adi": "ISPARTA",
+    "latitude": 37.7636722,
+    "longitude": 30.5550569
+  },
+  {
+    "ilce_id": "1456",
+    "ilce_adi": "KEÇİBORLU",
+    "sehir_id": "32",
+    "sehir_adi": "ISPARTA",
+    "latitude": 37.9477345,
+    "longitude": 30.3070421
+  },
+  {
+    "ilce_id": "1615",
+    "ilce_adi": "SENİRKENT",
+    "sehir_id": "32",
+    "sehir_adi": "ISPARTA",
+    "latitude": 38.107803,
+    "longitude": 30.5503493
+  },
+  {
+    "ilce_id": "1648",
+    "ilce_adi": "SÜTÇÜLER",
+    "sehir_id": "32",
+    "sehir_adi": "ISPARTA",
+    "latitude": 37.4949942,
+    "longitude": 30.9805605
+  },
+  {
+    "ilce_id": "1651",
+    "ilce_adi": "ŞARKİKARAAĞAÇ",
+    "sehir_id": "32",
+    "sehir_adi": "ISPARTA",
+    "latitude": 38.080712,
+    "longitude": 31.3660929
+  },
+  {
+    "ilce_id": "1699",
+    "ilce_adi": "ULUBORLU",
+    "sehir_id": "32",
+    "sehir_adi": "ISPARTA",
+    "latitude": 38.0787411,
+    "longitude": 30.4491758
+  },
+  {
+    "ilce_id": "1717",
+    "ilce_adi": "YALVAÇ",
+    "sehir_id": "32",
+    "sehir_adi": "ISPARTA",
+    "latitude": 38.3002867,
+    "longitude": 31.1743457
+  },
+  {
+    "ilce_id": "1755",
+    "ilce_adi": "AKSU",
+    "sehir_id": "32",
+    "sehir_adi": "ISPARTA",
+    "latitude": 37.7988945,
+    "longitude": 31.0711111
+  },
+  {
+    "ilce_id": "1929",
+    "ilce_adi": "GÖNEN",
+    "sehir_id": "32",
+    "sehir_adi": "ISPARTA",
+    "latitude": 37.9575448,
+    "longitude": 30.5128626
+  },
+  {
+    "ilce_id": "2001",
+    "ilce_adi": "YENİŞARBADEMLİ",
+    "sehir_id": "32",
+    "sehir_adi": "ISPARTA",
+    "latitude": 37.7072694,
+    "longitude": 31.3878414
+  },
+  {
+    "ilce_id": "1135",
+    "ilce_adi": "ANAMUR",
+    "sehir_id": "33",
+    "sehir_adi": "MERSİN",
+    "latitude": 36.080323,
+    "longitude": 32.8312106
+  },
+  {
+    "ilce_id": "1311",
+    "ilce_adi": "ERDEMLİ",
+    "sehir_id": "33",
+    "sehir_adi": "MERSİN",
+    "latitude": 36.6057089,
+    "longitude": 34.3102872
+  },
+  {
+    "ilce_id": "1366",
+    "ilce_adi": "GÜLNAR",
+    "sehir_id": "33",
+    "sehir_adi": "MERSİN",
+    "latitude": 36.3386638,
+    "longitude": 33.3990129
+  },
+  {
+    "ilce_id": "1536",
+    "ilce_adi": "MUT",
+    "sehir_id": "33",
+    "sehir_adi": "MERSİN",
+    "latitude": 36.6434207,
+    "longitude": 33.437263
+  },
+  {
+    "ilce_id": "1621",
+    "ilce_adi": "SİLİFKE",
+    "sehir_id": "33",
+    "sehir_adi": "MERSİN",
+    "latitude": 36.3778166,
+    "longitude": 33.9260372
+  },
+  {
+    "ilce_id": "1665",
+    "ilce_adi": "TARSUS",
+    "sehir_id": "33",
+    "sehir_adi": "MERSİN",
+    "latitude": 36.9164834,
+    "longitude": 34.895149
+  },
+  {
+    "ilce_id": "1766",
+    "ilce_adi": "AYDINCIK",
+    "sehir_id": "33",
+    "sehir_adi": "MERSİN",
+    "latitude": 36.1452033,
+    "longitude": 33.3224232
+  },
+  {
+    "ilce_id": "1779",
+    "ilce_adi": "BOZYAZI",
+    "sehir_id": "33",
+    "sehir_adi": "MERSİN",
+    "latitude": 36.1048224,
+    "longitude": 32.9742864
+  },
+  {
+    "ilce_id": "1892",
+    "ilce_adi": "ÇAMLIYAYLA",
+    "sehir_id": "33",
+    "sehir_adi": "MERSİN",
+    "latitude": 37.1665396,
+    "longitude": 34.5934427
+  },
+  {
+    "ilce_id": "2064",
+    "ilce_adi": "AKDENİZ",
+    "sehir_id": "33",
+    "sehir_adi": "MERSİN",
+    "latitude": 36.802059,
+    "longitude": 34.6332105
+  },
+  {
+    "ilce_id": "2065",
+    "ilce_adi": "MEZİTLİ",
+    "sehir_id": "33",
+    "sehir_adi": "MERSİN",
+    "latitude": 36.7495289,
+    "longitude": 34.5307018
+  },
+  {
+    "ilce_id": "2066",
+    "ilce_adi": "TOROSLAR",
+    "sehir_id": "33",
+    "sehir_adi": "MERSİN",
+    "latitude": 36.8208212,
+    "longitude": 34.6104636
+  },
+  {
+    "ilce_id": "2067",
+    "ilce_adi": "YENİŞEHİR",
+    "sehir_id": "33",
+    "sehir_adi": "MERSİN",
+    "latitude": 36.7822772,
+    "longitude": 34.5924486
+  },
+  {
+    "ilce_id": "1103",
+    "ilce_adi": "ADALAR",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 40.8741659,
+    "longitude": 29.1293251
+  },
+  {
+    "ilce_id": "1166",
+    "ilce_adi": "BAKIRKÖY",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 40.9782585,
+    "longitude": 28.8744461
+  },
+  {
+    "ilce_id": "1183",
+    "ilce_adi": "BEŞİKTAŞ",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0428465,
+    "longitude": 29.0075283
+  },
+  {
+    "ilce_id": "1185",
+    "ilce_adi": "BEYKOZ",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.1343001,
+    "longitude": 29.0920378
+  },
+  {
+    "ilce_id": "1186",
+    "ilce_adi": "BEYOĞLU",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0284233,
+    "longitude": 28.9736808
+  },
+  {
+    "ilce_id": "1237",
+    "ilce_adi": "ÇATALCA",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.1436804,
+    "longitude": 28.4605154
+  },
+  {
+    "ilce_id": "1325",
+    "ilce_adi": "EYÜPSULTAN",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0478358,
+    "longitude": 28.9327383
+  },
+  {
+    "ilce_id": "1327",
+    "ilce_adi": "FATİH",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0192846,
+    "longitude": 28.9479296
+  },
+  {
+    "ilce_id": "1336",
+    "ilce_adi": "GAZİOSMANPAŞA",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0578305,
+    "longitude": 28.9122452
+  },
+  {
+    "ilce_id": "1421",
+    "ilce_adi": "KADIKÖY",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 40.9912955,
+    "longitude": 29.0245631
+  },
+  {
+    "ilce_id": "1449",
+    "ilce_adi": "KARTAL",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 40.88858,
+    "longitude": 29.1856536
+  },
+  {
+    "ilce_id": "1604",
+    "ilce_adi": "SARIYER",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.1685803,
+    "longitude": 29.0572623
+  },
+  {
+    "ilce_id": "1622",
+    "ilce_adi": "SİLİVRİ",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0742476,
+    "longitude": 28.2481709
+  },
+  {
+    "ilce_id": "1659",
+    "ilce_adi": "ŞİLE",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.1744067,
+    "longitude": 29.6125216
+  },
+  {
+    "ilce_id": "1663",
+    "ilce_adi": "ŞİŞLİ",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0637891,
+    "longitude": 28.9831642
+  },
+  {
+    "ilce_id": "1708",
+    "ilce_adi": "ÜSKÜDAR",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0265498,
+    "longitude": 29.0151321
+  },
+  {
+    "ilce_id": "1739",
+    "ilce_adi": "ZEYTİNBURNU",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 40.9898653,
+    "longitude": 28.9037467
+  },
+  {
+    "ilce_id": "1782",
+    "ilce_adi": "BÜYÜKÇEKMECE",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.021654,
+    "longitude": 28.579757
+  },
+  {
+    "ilce_id": "1810",
+    "ilce_adi": "KAĞITHANE",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0796544,
+    "longitude": 28.9731198
+  },
+  {
+    "ilce_id": "1823",
+    "ilce_adi": "KÜÇÜKÇEKMECE",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 40.9918737,
+    "longitude": 28.7711956
+  },
+  {
+    "ilce_id": "1835",
+    "ilce_adi": "PENDİK",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 40.8768715,
+    "longitude": 29.2349672
+  },
+  {
+    "ilce_id": "1852",
+    "ilce_adi": "ÜMRANİYE",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0256362,
+    "longitude": 29.0963049
+  },
+  {
+    "ilce_id": "1886",
+    "ilce_adi": "BAYRAMPAŞA",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0345549,
+    "longitude": 28.9118417
+  },
+  {
+    "ilce_id": "2003",
+    "ilce_adi": "AVCILAR",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 40.9799389,
+    "longitude": 28.7216689
+  },
+  {
+    "ilce_id": "2004",
+    "ilce_adi": "BAĞCILAR",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.034547,
+    "longitude": 28.8567558
+  },
+  {
+    "ilce_id": "2005",
+    "ilce_adi": "BAHÇELİEVLER",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0030495,
+    "longitude": 28.8657701
+  },
+  {
+    "ilce_id": "2010",
+    "ilce_adi": "GÜNGÖREN",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0252832,
+    "longitude": 28.8726498
+  },
+  {
+    "ilce_id": "2012",
+    "ilce_adi": "MALTEPE",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 40.9247539,
+    "longitude": 29.1310782
+  },
+  {
+    "ilce_id": "2014",
+    "ilce_adi": "SULTANBEYLİ",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 40.9670242,
+    "longitude": 29.2671314
+  },
+  {
+    "ilce_id": "2015",
+    "ilce_adi": "TUZLA",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 40.8161732,
+    "longitude": 29.3034194
+  },
+  {
+    "ilce_id": "2016",
+    "ilce_adi": "ESENLER",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0376175,
+    "longitude": 28.8824519
+  },
+  {
+    "ilce_id": "2048",
+    "ilce_adi": "ARNAVUTKÖY",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.184471,
+    "longitude": 28.7412446
+  },
+  {
+    "ilce_id": "2049",
+    "ilce_adi": "ATAŞEHİR",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 40.9929379,
+    "longitude": 29.1135187
+  },
+  {
+    "ilce_id": "2050",
+    "ilce_adi": "BAŞAKŞEHİR",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.1075794,
+    "longitude": 28.7950711
+  },
+  {
+    "ilce_id": "2051",
+    "ilce_adi": "BEYLİKDÜZÜ",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0037541,
+    "longitude": 28.6372583
+  },
+  {
+    "ilce_id": "2052",
+    "ilce_adi": "ÇEKMEKÖY",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0351579,
+    "longitude": 29.1739149
+  },
+  {
+    "ilce_id": "2053",
+    "ilce_adi": "ESENYURT",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.0342862,
+    "longitude": 28.6801113
+  },
+  {
+    "ilce_id": "2054",
+    "ilce_adi": "SANCAKTEPE",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 40.9905196,
+    "longitude": 29.2288624
+  },
+  {
+    "ilce_id": "2055",
+    "ilce_adi": "SULTANGAZİ",
+    "sehir_id": "34",
+    "sehir_adi": "İSTANBUL",
+    "latitude": 41.1043344,
+    "longitude": 28.8614367
+  },
+  {
+    "ilce_id": "1128",
+    "ilce_adi": "ALİAĞA",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.8017371,
+    "longitude": 26.9734041
+  },
+  {
+    "ilce_id": "1178",
+    "ilce_adi": "BAYINDIR",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.2128197,
+    "longitude": 27.6495581
+  },
+  {
+    "ilce_id": "1181",
+    "ilce_adi": "BERGAMA",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 39.1189476,
+    "longitude": 27.1773724
+  },
+  {
+    "ilce_id": "1203",
+    "ilce_adi": "BORNOVA",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.4660651,
+    "longitude": 27.2190721
+  },
+  {
+    "ilce_id": "1251",
+    "ilce_adi": "ÇEŞME",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.3244044,
+    "longitude": 26.3029604
+  },
+  {
+    "ilce_id": "1280",
+    "ilce_adi": "DİKİLİ",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 39.0738718,
+    "longitude": 26.8906516
+  },
+  {
+    "ilce_id": "1334",
+    "ilce_adi": "FOÇA",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.6684637,
+    "longitude": 26.7548272
+  },
+  {
+    "ilce_id": "1432",
+    "ilce_adi": "KARABURUN",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.2976914,
+    "longitude": 26.6892865
+  },
+  {
+    "ilce_id": "1448",
+    "ilce_adi": "KARŞIYAKA",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.5034452,
+    "longitude": 27.1134554
+  },
+  {
+    "ilce_id": "1461",
+    "ilce_adi": "KEMALPAŞA",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.4278291,
+    "longitude": 27.4152158
+  },
+  {
+    "ilce_id": "1467",
+    "ilce_adi": "KINIK",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 39.0871916,
+    "longitude": 27.38349
+  },
+  {
+    "ilce_id": "1477",
+    "ilce_adi": "KİRAZ",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.230372,
+    "longitude": 28.2015786
+  },
+  {
+    "ilce_id": "1521",
+    "ilce_adi": "MENEMEN",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.6077359,
+    "longitude": 27.0732772
+  },
+  {
+    "ilce_id": "1563",
+    "ilce_adi": "ÖDEMİŞ",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.227747,
+    "longitude": 27.9687635
+  },
+  {
+    "ilce_id": "1611",
+    "ilce_adi": "SEFERİHİSAR",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.1953539,
+    "longitude": 26.8384935
+  },
+  {
+    "ilce_id": "1612",
+    "ilce_adi": "SELÇUK",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 37.9479646,
+    "longitude": 27.3685018
+  },
+  {
+    "ilce_id": "1677",
+    "ilce_adi": "TİRE",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.0924932,
+    "longitude": 27.7278025
+  },
+  {
+    "ilce_id": "1682",
+    "ilce_adi": "TORBALI",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.1513559,
+    "longitude": 27.3616214
+  },
+  {
+    "ilce_id": "1703",
+    "ilce_adi": "URLA",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.3173049,
+    "longitude": 26.7822753
+  },
+  {
+    "ilce_id": "1776",
+    "ilce_adi": "BEYDAĞ",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.0859301,
+    "longitude": 28.20843
+  },
+  {
+    "ilce_id": "1780",
+    "ilce_adi": "BUCA",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.3880413,
+    "longitude": 27.1733777
+  },
+  {
+    "ilce_id": "1819",
+    "ilce_adi": "KONAK",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.4187168,
+    "longitude": 27.1282675
+  },
+  {
+    "ilce_id": "1826",
+    "ilce_adi": "MENDERES",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.2516503,
+    "longitude": 27.1330225
+  },
+  {
+    "ilce_id": "2006",
+    "ilce_adi": "BALÇOVA",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.3929338,
+    "longitude": 27.0448169
+  },
+  {
+    "ilce_id": "2007",
+    "ilce_adi": "ÇİĞLİ",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.4916582,
+    "longitude": 27.0634346
+  },
+  {
+    "ilce_id": "2009",
+    "ilce_adi": "GAZİEMİR",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.3262756,
+    "longitude": 27.1399665
+  },
+  {
+    "ilce_id": "2013",
+    "ilce_adi": "NARLIDERE",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.3941884,
+    "longitude": 27.0097285
+  },
+  {
+    "ilce_id": "2018",
+    "ilce_adi": "GÜZELBAHÇE",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.357797,
+    "longitude": 26.8882993
+  },
+  {
+    "ilce_id": "2056",
+    "ilce_adi": "BAYRAKLI",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.4639144,
+    "longitude": 27.1644029
+  },
+  {
+    "ilce_id": "2057",
+    "ilce_adi": "KARABAĞLAR",
+    "sehir_id": "35",
+    "sehir_adi": "İZMİR",
+    "latitude": 38.3981367,
+    "longitude": 27.1277994
+  },
+  {
+    "ilce_id": "1149",
+    "ilce_adi": "ARPAÇAY",
+    "sehir_id": "36",
+    "sehir_adi": "KARS",
+    "latitude": 40.603701,
+    "longitude": 43.6923111
+  },
+  {
+    "ilce_id": "1279",
+    "ilce_adi": "DİGOR",
+    "sehir_id": "36",
+    "sehir_adi": "KARS",
+    "latitude": 40.3765095,
+    "longitude": 43.4119469
+  },
+  {
+    "ilce_id": "1424",
+    "ilce_adi": "KAĞIZMAN",
+    "sehir_id": "36",
+    "sehir_adi": "KARS",
+    "latitude": 40.140677,
+    "longitude": 43.1204632
+  },
+  {
+    "ilce_id": "1447",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "36",
+    "sehir_adi": "KARS",
+    "latitude": 40.6108796,
+    "longitude": 43.101591
+  },
+  {
+    "ilce_id": "1601",
+    "ilce_adi": "SARIKAMIŞ",
+    "sehir_id": "36",
+    "sehir_adi": "KARS",
+    "latitude": 40.3337398,
+    "longitude": 42.5894682
+  },
+  {
+    "ilce_id": "1614",
+    "ilce_adi": "SELİM",
+    "sehir_id": "36",
+    "sehir_adi": "KARS",
+    "latitude": 40.4335708,
+    "longitude": 42.8041106
+  },
+  {
+    "ilce_id": "1645",
+    "ilce_adi": "SUSUZ",
+    "sehir_id": "36",
+    "sehir_adi": "KARS",
+    "latitude": 40.7792267,
+    "longitude": 43.1286876
+  },
+  {
+    "ilce_id": "1756",
+    "ilce_adi": "AKYAKA",
+    "sehir_id": "36",
+    "sehir_adi": "KARS",
+    "latitude": 40.7398464,
+    "longitude": 43.6234121
+  },
+  {
+    "ilce_id": "1101",
+    "ilce_adi": "ABANA",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.9785014,
+    "longitude": 34.0077229
+  },
+  {
+    "ilce_id": "1140",
+    "ilce_adi": "ARAÇ",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.2412014,
+    "longitude": 33.324933
+  },
+  {
+    "ilce_id": "1162",
+    "ilce_adi": "AZDAVAY",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.6420759,
+    "longitude": 33.3009356
+  },
+  {
+    "ilce_id": "1208",
+    "ilce_adi": "BOZKURT",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.958798,
+    "longitude": 34.0126284
+  },
+  {
+    "ilce_id": "1221",
+    "ilce_adi": "CİDE",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.8915711,
+    "longitude": 33.003712
+  },
+  {
+    "ilce_id": "1238",
+    "ilce_adi": "ÇATALZEYTİN",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.9531105,
+    "longitude": 34.2226751
+  },
+  {
+    "ilce_id": "1264",
+    "ilce_adi": "DADAY",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.4751559,
+    "longitude": 33.4637485
+  },
+  {
+    "ilce_id": "1277",
+    "ilce_adi": "DEVREKANİ",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.6025639,
+    "longitude": 33.8370923
+  },
+  {
+    "ilce_id": "1410",
+    "ilce_adi": "İNEBOLU",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.9785763,
+    "longitude": 33.7599031
+  },
+  {
+    "ilce_id": "1450",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.8121236,
+    "longitude": 33.2343406
+  },
+  {
+    "ilce_id": "1499",
+    "ilce_adi": "KÜRE",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.8058822,
+    "longitude": 33.710262
+  },
+  {
+    "ilce_id": "1666",
+    "ilce_adi": "TAŞKÖPRÜ",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.5074775,
+    "longitude": 34.2128338
+  },
+  {
+    "ilce_id": "1685",
+    "ilce_adi": "TOSYA",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.0164957,
+    "longitude": 34.0386079
+  },
+  {
+    "ilce_id": "1805",
+    "ilce_adi": "İHSANGAZİ",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.2040122,
+    "longitude": 33.5559175
+  },
+  {
+    "ilce_id": "1836",
+    "ilce_adi": "PINARBAŞI",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.6036031,
+    "longitude": 33.1108755
+  },
+  {
+    "ilce_id": "1845",
+    "ilce_adi": "ŞENPAZAR",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.8085991,
+    "longitude": 33.2328731
+  },
+  {
+    "ilce_id": "1867",
+    "ilce_adi": "AĞLI",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.6871527,
+    "longitude": 33.5537946
+  },
+  {
+    "ilce_id": "1915",
+    "ilce_adi": "DOĞANYURT",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 42.005597,
+    "longitude": 33.4604573
+  },
+  {
+    "ilce_id": "1940",
+    "ilce_adi": "HANÖNÜ",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.6255724,
+    "longitude": 34.4680011
+  },
+  {
+    "ilce_id": "1984",
+    "ilce_adi": "SEYDİLER",
+    "sehir_id": "37",
+    "sehir_adi": "KASTAMONU",
+    "latitude": 41.618845,
+    "longitude": 33.7186254
+  },
+  {
+    "ilce_id": "1218",
+    "ilce_adi": "BÜNYAN",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 38.8458209,
+    "longitude": 35.8577439
+  },
+  {
+    "ilce_id": "1275",
+    "ilce_adi": "DEVELİ",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 38.3879285,
+    "longitude": 35.4900997
+  },
+  {
+    "ilce_id": "1330",
+    "ilce_adi": "FELAHİYE",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 39.090713,
+    "longitude": 35.5674921
+  },
+  {
+    "ilce_id": "1409",
+    "ilce_adi": "İNCESU",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 38.6288662,
+    "longitude": 35.1964025
+  },
+  {
+    "ilce_id": "1576",
+    "ilce_adi": "PINARBAŞI",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 38.7214464,
+    "longitude": 36.3941324
+  },
+  {
+    "ilce_id": "1603",
+    "ilce_adi": "SARIOĞLAN",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 39.07706,
+    "longitude": 35.9672492
+  },
+  {
+    "ilce_id": "1605",
+    "ilce_adi": "SARIZ",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 38.4802377,
+    "longitude": 36.4970264
+  },
+  {
+    "ilce_id": "1680",
+    "ilce_adi": "TOMARZA",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 38.4476867,
+    "longitude": 35.8009143
+  },
+  {
+    "ilce_id": "1715",
+    "ilce_adi": "YAHYALI",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 38.1003432,
+    "longitude": 35.3541006
+  },
+  {
+    "ilce_id": "1727",
+    "ilce_adi": "YEŞİLHİSAR",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 38.3653065,
+    "longitude": 35.0843743
+  },
+  {
+    "ilce_id": "1752",
+    "ilce_adi": "AKKIŞLA",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 39.0014628,
+    "longitude": 36.17099
+  },
+  {
+    "ilce_id": "1846",
+    "ilce_adi": "TALAS",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 38.6908169,
+    "longitude": 35.5518755
+  },
+  {
+    "ilce_id": "1863",
+    "ilce_adi": "KOCASİNAN",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 38.7395414,
+    "longitude": 35.4817131
+  },
+  {
+    "ilce_id": "1864",
+    "ilce_adi": "MELİKGAZİ",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 38.7199062,
+    "longitude": 35.5056623
+  },
+  {
+    "ilce_id": "1936",
+    "ilce_adi": "HACILAR",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 38.6442696,
+    "longitude": 35.4497656
+  },
+  {
+    "ilce_id": "1978",
+    "ilce_adi": "ÖZVATAN",
+    "sehir_id": "38",
+    "sehir_adi": "KAYSERİ",
+    "latitude": 39.1059259,
+    "longitude": 35.6992083
+  },
+  {
+    "ilce_id": "1163",
+    "ilce_adi": "BABAESKİ",
+    "sehir_id": "39",
+    "sehir_adi": "KIRKLARELİ",
+    "latitude": 41.4302616,
+    "longitude": 27.0917789
+  },
+  {
+    "ilce_id": "1270",
+    "ilce_adi": "DEMİRKÖY",
+    "sehir_id": "39",
+    "sehir_adi": "KIRKLARELİ",
+    "latitude": 41.8241512,
+    "longitude": 27.7651465
+  },
+  {
+    "ilce_id": "1471",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "39",
+    "sehir_adi": "KIRKLARELİ",
+    "latitude": 41.7370223,
+    "longitude": 27.2235523
+  },
+  {
+    "ilce_id": "1480",
+    "ilce_adi": "KOFÇAZ",
+    "sehir_id": "39",
+    "sehir_adi": "KIRKLARELİ",
+    "latitude": 41.9449622,
+    "longitude": 27.1578543
+  },
+  {
+    "ilce_id": "1505",
+    "ilce_adi": "LÜLEBURGAZ",
+    "sehir_id": "39",
+    "sehir_adi": "KIRKLARELİ",
+    "latitude": 41.4041358,
+    "longitude": 27.3554651
+  },
+  {
+    "ilce_id": "1572",
+    "ilce_adi": "PEHLİVANKÖY",
+    "sehir_id": "39",
+    "sehir_adi": "KIRKLARELİ",
+    "latitude": 41.3460175,
+    "longitude": 26.9181588
+  },
+  {
+    "ilce_id": "1577",
+    "ilce_adi": "PINARHİSAR",
+    "sehir_id": "39",
+    "sehir_adi": "KIRKLARELİ",
+    "latitude": 41.6254954,
+    "longitude": 27.5157753
+  },
+  {
+    "ilce_id": "1714",
+    "ilce_adi": "VİZE",
+    "sehir_id": "39",
+    "sehir_adi": "KIRKLARELİ",
+    "latitude": 41.5728684,
+    "longitude": 27.7670379
+  },
+  {
+    "ilce_id": "1254",
+    "ilce_adi": "ÇİÇEKDAĞI",
+    "sehir_id": "40",
+    "sehir_adi": "KIRŞEHİR",
+    "latitude": 39.6035963,
+    "longitude": 34.4158032
+  },
+  {
+    "ilce_id": "1429",
+    "ilce_adi": "KAMAN",
+    "sehir_id": "40",
+    "sehir_adi": "KIRŞEHİR",
+    "latitude": 39.3588984,
+    "longitude": 33.7243959
+  },
+  {
+    "ilce_id": "1472",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "40",
+    "sehir_adi": "KIRŞEHİR",
+    "latitude": 39.1461142,
+    "longitude": 34.1605587
+  },
+  {
+    "ilce_id": "1529",
+    "ilce_adi": "MUCUR",
+    "sehir_id": "40",
+    "sehir_adi": "KIRŞEHİR",
+    "latitude": 39.0602118,
+    "longitude": 34.3800488
+  },
+  {
+    "ilce_id": "1754",
+    "ilce_adi": "AKPINAR",
+    "sehir_id": "40",
+    "sehir_adi": "KIRŞEHİR",
+    "latitude": 39.4479684,
+    "longitude": 33.9639275
+  },
+  {
+    "ilce_id": "1869",
+    "ilce_adi": "AKÇAKENT",
+    "sehir_id": "40",
+    "sehir_adi": "KIRŞEHİR",
+    "latitude": 39.6250244,
+    "longitude": 34.0962165
+  },
+  {
+    "ilce_id": "1890",
+    "ilce_adi": "BOZTEPE",
+    "sehir_id": "40",
+    "sehir_adi": "KIRŞEHİR",
+    "latitude": 39.2716145,
+    "longitude": 34.2639915
+  },
+  {
+    "ilce_id": "1338",
+    "ilce_adi": "GEBZE",
+    "sehir_id": "41",
+    "sehir_adi": "KOCAELİ",
+    "latitude": 40.8006696,
+    "longitude": 29.431767
+  },
+  {
+    "ilce_id": "1355",
+    "ilce_adi": "GÖLCÜK",
+    "sehir_id": "41",
+    "sehir_adi": "KOCAELİ",
+    "latitude": 40.7169247,
+    "longitude": 29.819588
+  },
+  {
+    "ilce_id": "1430",
+    "ilce_adi": "KANDIRA",
+    "sehir_id": "41",
+    "sehir_adi": "KOCAELİ",
+    "latitude": 41.0703914,
+    "longitude": 30.1523298
+  },
+  {
+    "ilce_id": "1440",
+    "ilce_adi": "KARAMÜRSEL",
+    "sehir_id": "41",
+    "sehir_adi": "KOCAELİ",
+    "latitude": 40.6912501,
+    "longitude": 29.6165859
+  },
+  {
+    "ilce_id": "1821",
+    "ilce_adi": "KÖRFEZ",
+    "sehir_id": "41",
+    "sehir_adi": "KOCAELİ",
+    "latitude": 40.760756,
+    "longitude": 29.7839402
+  },
+  {
+    "ilce_id": "2030",
+    "ilce_adi": "DERİNCE",
+    "sehir_id": "41",
+    "sehir_adi": "KOCAELİ",
+    "latitude": 40.7574495,
+    "longitude": 29.8307628
+  },
+  {
+    "ilce_id": "2058",
+    "ilce_adi": "BAŞİSKELE",
+    "sehir_id": "41",
+    "sehir_adi": "KOCAELİ",
+    "latitude": 40.7129276,
+    "longitude": 29.9286975
+  },
+  {
+    "ilce_id": "2059",
+    "ilce_adi": "ÇAYIROVA",
+    "sehir_id": "41",
+    "sehir_adi": "KOCAELİ",
+    "latitude": 40.8105337,
+    "longitude": 29.3473731
+  },
+  {
+    "ilce_id": "2060",
+    "ilce_adi": "DARICA",
+    "sehir_id": "41",
+    "sehir_adi": "KOCAELİ",
+    "latitude": 40.7914044,
+    "longitude": 29.3919092
+  },
+  {
+    "ilce_id": "2061",
+    "ilce_adi": "DİLOVASI",
+    "sehir_id": "41",
+    "sehir_adi": "KOCAELİ",
+    "latitude": 40.7756061,
+    "longitude": 29.5260959
+  },
+  {
+    "ilce_id": "2062",
+    "ilce_adi": "İZMİT",
+    "sehir_id": "41",
+    "sehir_adi": "KOCAELİ",
+    "latitude": 40.7721138,
+    "longitude": 29.9505623
+  },
+  {
+    "ilce_id": "2063",
+    "ilce_adi": "KARTEPE",
+    "sehir_id": "41",
+    "sehir_adi": "KOCAELİ",
+    "latitude": 40.7454357,
+    "longitude": 30.0112827
+  },
+  {
+    "ilce_id": "1122",
+    "ilce_adi": "AKŞEHİR",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 38.3588503,
+    "longitude": 31.4201959
+  },
+  {
+    "ilce_id": "1188",
+    "ilce_adi": "BEYŞEHİR",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.6754536,
+    "longitude": 31.7269088
+  },
+  {
+    "ilce_id": "1207",
+    "ilce_adi": "BOZKIR",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.1898741,
+    "longitude": 32.2472016
+  },
+  {
+    "ilce_id": "1222",
+    "ilce_adi": "CİHANBEYLİ",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 38.6589897,
+    "longitude": 32.9237305
+  },
+  {
+    "ilce_id": "1262",
+    "ilce_adi": "ÇUMRA",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.5720111,
+    "longitude": 32.7845981
+  },
+  {
+    "ilce_id": "1285",
+    "ilce_adi": "DOĞANHİSAR",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 38.1460169,
+    "longitude": 31.6768638
+  },
+  {
+    "ilce_id": "1312",
+    "ilce_adi": "EREĞLİ",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.5140718,
+    "longitude": 34.0473423
+  },
+  {
+    "ilce_id": "1375",
+    "ilce_adi": "HADİM",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 36.9860893,
+    "longitude": 32.4558036
+  },
+  {
+    "ilce_id": "1400",
+    "ilce_adi": "ILGIN",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 38.281774,
+    "longitude": 31.9178668
+  },
+  {
+    "ilce_id": "1422",
+    "ilce_adi": "KADINHANI",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 38.2400504,
+    "longitude": 32.2122055
+  },
+  {
+    "ilce_id": "1441",
+    "ilce_adi": "KARAPINAR",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.7177584,
+    "longitude": 33.5476273
+  },
+  {
+    "ilce_id": "1491",
+    "ilce_adi": "KULU",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 39.0370572,
+    "longitude": 33.028629
+  },
+  {
+    "ilce_id": "1598",
+    "ilce_adi": "SARAYÖNÜ",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 38.25588,
+    "longitude": 32.4040067
+  },
+  {
+    "ilce_id": "1617",
+    "ilce_adi": "SEYDİŞEHİR",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.4193713,
+    "longitude": 31.8483332
+  },
+  {
+    "ilce_id": "1735",
+    "ilce_adi": "YUNAK",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 38.8180038,
+    "longitude": 32.0139588
+  },
+  {
+    "ilce_id": "1753",
+    "ilce_adi": "AKÖREN",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.4523288,
+    "longitude": 32.3725238
+  },
+  {
+    "ilce_id": "1760",
+    "ilce_adi": "ALTINEKİN",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 38.3073063,
+    "longitude": 32.8691468
+  },
+  {
+    "ilce_id": "1789",
+    "ilce_adi": "DEREBUCAK",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.3915007,
+    "longitude": 31.5106783
+  },
+  {
+    "ilce_id": "1804",
+    "ilce_adi": "HÜYÜK",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.9547763,
+    "longitude": 31.5973318
+  },
+  {
+    "ilce_id": "1814",
+    "ilce_adi": "KARATAY",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.8710438,
+    "longitude": 32.5030448
+  },
+  {
+    "ilce_id": "1827",
+    "ilce_adi": "MERAM",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.8679527,
+    "longitude": 32.4946514
+  },
+  {
+    "ilce_id": "1839",
+    "ilce_adi": "SELÇUKLU",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.8768663,
+    "longitude": 32.4873945
+  },
+  {
+    "ilce_id": "1848",
+    "ilce_adi": "TAŞKENT",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 36.9239246,
+    "longitude": 32.4926174
+  },
+  {
+    "ilce_id": "1868",
+    "ilce_adi": "AHIRLI",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.2387107,
+    "longitude": 32.1189472
+  },
+  {
+    "ilce_id": "1902",
+    "ilce_adi": "ÇELTİK",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 39.0015698,
+    "longitude": 31.8468315
+  },
+  {
+    "ilce_id": "1907",
+    "ilce_adi": "DERBENT",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 38.0137463,
+    "longitude": 32.0172472
+  },
+  {
+    "ilce_id": "1920",
+    "ilce_adi": "EMİRGAZİ",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.9035491,
+    "longitude": 33.8359535
+  },
+  {
+    "ilce_id": "1933",
+    "ilce_adi": "GÜNEYSINIR",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.2980654,
+    "longitude": 32.7211413
+  },
+  {
+    "ilce_id": "1937",
+    "ilce_adi": "HALKAPINAR",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.4336548,
+    "longitude": 34.1868412
+  },
+  {
+    "ilce_id": "1990",
+    "ilce_adi": "TUZLUKÇU",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 38.4729231,
+    "longitude": 31.6270612
+  },
+  {
+    "ilce_id": "1994",
+    "ilce_adi": "YALIHÜYÜK",
+    "sehir_id": "42",
+    "sehir_adi": "KONYA",
+    "latitude": 37.3005707,
+    "longitude": 32.0854194
+  },
+  {
+    "ilce_id": "1132",
+    "ilce_adi": "ALTINTAŞ",
+    "sehir_id": "43",
+    "sehir_adi": "KÜTAHYA",
+    "latitude": 39.0603529,
+    "longitude": 30.1075757
+  },
+  {
+    "ilce_id": "1288",
+    "ilce_adi": "DOMANİÇ",
+    "sehir_id": "43",
+    "sehir_adi": "KÜTAHYA",
+    "latitude": 39.4092356,
+    "longitude": 29.9993485
+  },
+  {
+    "ilce_id": "1304",
+    "ilce_adi": "EMET",
+    "sehir_id": "43",
+    "sehir_adi": "KÜTAHYA",
+    "latitude": 39.341462,
+    "longitude": 29.2585932
+  },
+  {
+    "ilce_id": "1339",
+    "ilce_adi": "GEDİZ",
+    "sehir_id": "43",
+    "sehir_adi": "KÜTAHYA",
+    "latitude": 38.9896996,
+    "longitude": 29.3946208
+  },
+  {
+    "ilce_id": "1500",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "43",
+    "sehir_adi": "KÜTAHYA",
+    "latitude": 39.4666272,
+    "longitude": 30.0246679
+  },
+  {
+    "ilce_id": "1625",
+    "ilce_adi": "SİMAV",
+    "sehir_id": "43",
+    "sehir_adi": "KÜTAHYA",
+    "latitude": 39.0886747,
+    "longitude": 28.9800147
+  },
+  {
+    "ilce_id": "1671",
+    "ilce_adi": "TAVŞANLI",
+    "sehir_id": "43",
+    "sehir_adi": "KÜTAHYA",
+    "latitude": 39.5453714,
+    "longitude": 29.4919425
+  },
+  {
+    "ilce_id": "1764",
+    "ilce_adi": "ASLANAPA",
+    "sehir_id": "43",
+    "sehir_adi": "KÜTAHYA",
+    "latitude": 39.2152231,
+    "longitude": 29.869627
+  },
+  {
+    "ilce_id": "1790",
+    "ilce_adi": "DUMLUPINAR",
+    "sehir_id": "43",
+    "sehir_adi": "KÜTAHYA",
+    "latitude": 38.8543635,
+    "longitude": 29.9776411
+  },
+  {
+    "ilce_id": "1802",
+    "ilce_adi": "HİSARCIK",
+    "sehir_id": "43",
+    "sehir_adi": "KÜTAHYA",
+    "latitude": 39.2505098,
+    "longitude": 29.2312912
+  },
+  {
+    "ilce_id": "1843",
+    "ilce_adi": "ŞAPHANE",
+    "sehir_id": "43",
+    "sehir_adi": "KÜTAHYA",
+    "latitude": 39.0254087,
+    "longitude": 29.2199543
+  },
+  {
+    "ilce_id": "1898",
+    "ilce_adi": "ÇAVDARHİSAR",
+    "sehir_id": "43",
+    "sehir_adi": "KÜTAHYA",
+    "latitude": 39.1943854,
+    "longitude": 29.619524
+  },
+  {
+    "ilce_id": "1979",
+    "ilce_adi": "PAZARLAR",
+    "sehir_id": "43",
+    "sehir_adi": "KÜTAHYA",
+    "latitude": 39.0044566,
+    "longitude": 29.147176
+  },
+  {
+    "ilce_id": "1114",
+    "ilce_adi": "AKÇADAĞ",
+    "sehir_id": "44",
+    "sehir_adi": "MALATYA",
+    "latitude": 38.2908815,
+    "longitude": 38.0444592
+  },
+  {
+    "ilce_id": "1143",
+    "ilce_adi": "ARAPGİR",
+    "sehir_id": "44",
+    "sehir_adi": "MALATYA",
+    "latitude": 39.0422423,
+    "longitude": 38.4898342
+  },
+  {
+    "ilce_id": "1148",
+    "ilce_adi": "ARGUVAN",
+    "sehir_id": "44",
+    "sehir_adi": "MALATYA",
+    "latitude": 38.7820616,
+    "longitude": 38.2642877
+  },
+  {
+    "ilce_id": "1265",
+    "ilce_adi": "DARENDE",
+    "sehir_id": "44",
+    "sehir_adi": "MALATYA",
+    "latitude": 38.5587614,
+    "longitude": 37.4904835
+  },
+  {
+    "ilce_id": "1286",
+    "ilce_adi": "DOĞANŞEHİR",
+    "sehir_id": "44",
+    "sehir_adi": "MALATYA",
+    "latitude": 38.0888395,
+    "longitude": 37.874744
+  },
+  {
+    "ilce_id": "1390",
+    "ilce_adi": "HEKİMHAN",
+    "sehir_id": "44",
+    "sehir_adi": "MALATYA",
+    "latitude": 38.9099591,
+    "longitude": 37.8829999
+  },
+  {
+    "ilce_id": "1582",
+    "ilce_adi": "PÜTÜRGE",
+    "sehir_id": "44",
+    "sehir_adi": "MALATYA",
+    "latitude": 38.1973443,
+    "longitude": 38.8702321
+  },
+  {
+    "ilce_id": "1729",
+    "ilce_adi": "YEŞİLYURT",
+    "sehir_id": "44",
+    "sehir_adi": "MALATYA",
+    "latitude": 38.2954882,
+    "longitude": 38.2474518
+  },
+  {
+    "ilce_id": "1772",
+    "ilce_adi": "BATTALGAZİ",
+    "sehir_id": "44",
+    "sehir_adi": "MALATYA",
+    "latitude": 38.4250492,
+    "longitude": 38.3654977
+  },
+  {
+    "ilce_id": "1914",
+    "ilce_adi": "DOĞANYOL",
+    "sehir_id": "44",
+    "sehir_adi": "MALATYA",
+    "latitude": 38.3097064,
+    "longitude": 39.038417
+  },
+  {
+    "ilce_id": "1953",
+    "ilce_adi": "KALE",
+    "sehir_id": "44",
+    "sehir_adi": "MALATYA",
+    "latitude": 38.4174951,
+    "longitude": 38.7687105
+  },
+  {
+    "ilce_id": "1969",
+    "ilce_adi": "KULUNCAK",
+    "sehir_id": "44",
+    "sehir_adi": "MALATYA",
+    "latitude": 38.8659359,
+    "longitude": 37.7157529
+  },
+  {
+    "ilce_id": "1995",
+    "ilce_adi": "YAZIHAN",
+    "sehir_id": "44",
+    "sehir_adi": "MALATYA",
+    "latitude": 38.5956663,
+    "longitude": 38.1801051
+  },
+  {
+    "ilce_id": "1118",
+    "ilce_adi": "AKHİSAR",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 38.9673982,
+    "longitude": 27.728742
+  },
+  {
+    "ilce_id": "1127",
+    "ilce_adi": "ALAŞEHİR",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 38.3507471,
+    "longitude": 28.516575
+  },
+  {
+    "ilce_id": "1269",
+    "ilce_adi": "DEMİRCİ",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 39.0474167,
+    "longitude": 28.6583675
+  },
+  {
+    "ilce_id": "1362",
+    "ilce_adi": "GÖRDES",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 38.7632767,
+    "longitude": 28.1436726
+  },
+  {
+    "ilce_id": "1470",
+    "ilce_adi": "KIRKAĞAÇ",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 39.1072,
+    "longitude": 27.6687116
+  },
+  {
+    "ilce_id": "1489",
+    "ilce_adi": "KULA",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 38.5468907,
+    "longitude": 28.6474338
+  },
+  {
+    "ilce_id": "1590",
+    "ilce_adi": "SALİHLİ",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 38.4829405,
+    "longitude": 28.1309046
+  },
+  {
+    "ilce_id": "1600",
+    "ilce_adi": "SARIGÖL",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 38.2382254,
+    "longitude": 28.6965768
+  },
+  {
+    "ilce_id": "1606",
+    "ilce_adi": "SARUHANLI",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 38.7679433,
+    "longitude": 27.6597304
+  },
+  {
+    "ilce_id": "1613",
+    "ilce_adi": "SELENDİ",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 38.7434311,
+    "longitude": 28.8702081
+  },
+  {
+    "ilce_id": "1634",
+    "ilce_adi": "SOMA",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 39.2556854,
+    "longitude": 27.5778169
+  },
+  {
+    "ilce_id": "1689",
+    "ilce_adi": "TURGUTLU",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 38.5024371,
+    "longitude": 27.5890531
+  },
+  {
+    "ilce_id": "1751",
+    "ilce_adi": "AHMETLİ",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 38.5162225,
+    "longitude": 27.9359393
+  },
+  {
+    "ilce_id": "1793",
+    "ilce_adi": "GÖLMARMARA",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 38.7183396,
+    "longitude": 27.9115405
+  },
+  {
+    "ilce_id": "1965",
+    "ilce_adi": "KÖPRÜBAŞI",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 39.0276274,
+    "longitude": 28.6405986
+  },
+  {
+    "ilce_id": "2086",
+    "ilce_adi": "ŞEHZADELER",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 38.6458586,
+    "longitude": 27.502838
+  },
+  {
+    "ilce_id": "2087",
+    "ilce_adi": "YUNUSEMRE",
+    "sehir_id": "45",
+    "sehir_adi": "MANİSA",
+    "latitude": 38.6086543,
+    "longitude": 27.4194561
+  },
+  {
+    "ilce_id": "1107",
+    "ilce_adi": "AFŞİN",
+    "sehir_id": "46",
+    "sehir_adi": "KAHRAMANMARAŞ",
+    "latitude": 38.2438548,
+    "longitude": 36.9152873
+  },
+  {
+    "ilce_id": "1136",
+    "ilce_adi": "ANDIRIN",
+    "sehir_id": "46",
+    "sehir_adi": "KAHRAMANMARAŞ",
+    "latitude": 37.5737884,
+    "longitude": 36.3538657
+  },
+  {
+    "ilce_id": "1299",
+    "ilce_adi": "ELBİSTAN",
+    "sehir_id": "46",
+    "sehir_adi": "KAHRAMANMARAŞ",
+    "latitude": 38.2022294,
+    "longitude": 37.1903006
+  },
+  {
+    "ilce_id": "1353",
+    "ilce_adi": "GÖKSUN",
+    "sehir_id": "46",
+    "sehir_adi": "KAHRAMANMARAŞ",
+    "latitude": 38.0214898,
+    "longitude": 36.494634
+  },
+  {
+    "ilce_id": "1570",
+    "ilce_adi": "PAZARCIK",
+    "sehir_id": "46",
+    "sehir_adi": "KAHRAMANMARAŞ",
+    "latitude": 37.4908476,
+    "longitude": 37.2899692
+  },
+  {
+    "ilce_id": "1694",
+    "ilce_adi": "TÜRKOĞLU",
+    "sehir_id": "46",
+    "sehir_adi": "KAHRAMANMARAŞ",
+    "latitude": 37.3754351,
+    "longitude": 36.862
+  },
+  {
+    "ilce_id": "1785",
+    "ilce_adi": "ÇAĞLAYANCERİT",
+    "sehir_id": "46",
+    "sehir_adi": "KAHRAMANMARAŞ",
+    "latitude": 37.7499656,
+    "longitude": 37.2927846
+  },
+  {
+    "ilce_id": "1919",
+    "ilce_adi": "EKİNÖZÜ",
+    "sehir_id": "46",
+    "sehir_adi": "KAHRAMANMARAŞ",
+    "latitude": 38.0606689,
+    "longitude": 37.1894147
+  },
+  {
+    "ilce_id": "1975",
+    "ilce_adi": "NURHAK",
+    "sehir_id": "46",
+    "sehir_adi": "KAHRAMANMARAŞ",
+    "latitude": 37.9661475,
+    "longitude": 37.4421885
+  },
+  {
+    "ilce_id": "2084",
+    "ilce_adi": "DULKADİROĞLU",
+    "sehir_id": "46",
+    "sehir_adi": "KAHRAMANMARAŞ",
+    "latitude": 37.5797742,
+    "longitude": 36.93124
+  },
+  {
+    "ilce_id": "2085",
+    "ilce_adi": "ONİKİŞUBAT",
+    "sehir_id": "46",
+    "sehir_adi": "KAHRAMANMARAŞ",
+    "latitude": 37.5777575,
+    "longitude": 36.923735
+  },
+  {
+    "ilce_id": "1273",
+    "ilce_adi": "DERİK",
+    "sehir_id": "47",
+    "sehir_adi": "MARDİN",
+    "latitude": 37.3646976,
+    "longitude": 40.2698834
+  },
+  {
+    "ilce_id": "1474",
+    "ilce_adi": "KIZILTEPE",
+    "sehir_id": "47",
+    "sehir_adi": "MARDİN",
+    "latitude": 37.1916551,
+    "longitude": 40.5847974
+  },
+  {
+    "ilce_id": "1519",
+    "ilce_adi": "MAZIDAĞI",
+    "sehir_id": "47",
+    "sehir_adi": "MARDİN",
+    "latitude": 37.4773211,
+    "longitude": 40.4864914
+  },
+  {
+    "ilce_id": "1526",
+    "ilce_adi": "MİDYAT",
+    "sehir_id": "47",
+    "sehir_adi": "MARDİN",
+    "latitude": 37.4152662,
+    "longitude": 41.3733325
+  },
+  {
+    "ilce_id": "1547",
+    "ilce_adi": "NUSAYBİN",
+    "sehir_id": "47",
+    "sehir_adi": "MARDİN",
+    "latitude": 37.0691755,
+    "longitude": 41.2164671
+  },
+  {
+    "ilce_id": "1564",
+    "ilce_adi": "ÖMERLİ",
+    "sehir_id": "47",
+    "sehir_adi": "MARDİN",
+    "latitude": 37.402127,
+    "longitude": 40.9538832
+  },
+  {
+    "ilce_id": "1609",
+    "ilce_adi": "SAVUR",
+    "sehir_id": "47",
+    "sehir_adi": "MARDİN",
+    "latitude": 37.5368396,
+    "longitude": 40.8873746
+  },
+  {
+    "ilce_id": "1787",
+    "ilce_adi": "DARGEÇİT",
+    "sehir_id": "47",
+    "sehir_adi": "MARDİN",
+    "latitude": 37.5459484,
+    "longitude": 41.7206012
+  },
+  {
+    "ilce_id": "2002",
+    "ilce_adi": "YEŞİLLİ",
+    "sehir_id": "47",
+    "sehir_adi": "MARDİN",
+    "latitude": 37.3396064,
+    "longitude": 40.8230064
+  },
+  {
+    "ilce_id": "2088",
+    "ilce_adi": "ARTUKLU",
+    "sehir_id": "47",
+    "sehir_adi": "MARDİN",
+    "latitude": 37.3209802,
+    "longitude": 40.7251295
+  },
+  {
+    "ilce_id": "1197",
+    "ilce_adi": "BODRUM",
+    "sehir_id": "48",
+    "sehir_adi": "MUĞLA",
+    "latitude": 37.0343987,
+    "longitude": 27.430651
+  },
+  {
+    "ilce_id": "1266",
+    "ilce_adi": "DATÇA",
+    "sehir_id": "48",
+    "sehir_adi": "MUĞLA",
+    "latitude": 36.7263403,
+    "longitude": 27.6873855
+  },
+  {
+    "ilce_id": "1331",
+    "ilce_adi": "FETHİYE",
+    "sehir_id": "48",
+    "sehir_adi": "MUĞLA",
+    "latitude": 36.6221154,
+    "longitude": 29.1153384
+  },
+  {
+    "ilce_id": "1488",
+    "ilce_adi": "KÖYCEĞİZ",
+    "sehir_id": "48",
+    "sehir_adi": "MUĞLA",
+    "latitude": 36.958501,
+    "longitude": 28.6889436
+  },
+  {
+    "ilce_id": "1517",
+    "ilce_adi": "MARMARİS",
+    "sehir_id": "48",
+    "sehir_adi": "MUĞLA",
+    "latitude": 36.8522547,
+    "longitude": 28.2742661
+  },
+  {
+    "ilce_id": "1528",
+    "ilce_adi": "MİLAS",
+    "sehir_id": "48",
+    "sehir_adi": "MUĞLA",
+    "latitude": 37.3162709,
+    "longitude": 27.7799762
+  },
+  {
+    "ilce_id": "1695",
+    "ilce_adi": "ULA",
+    "sehir_id": "48",
+    "sehir_adi": "MUĞLA",
+    "latitude": 37.1029233,
+    "longitude": 28.416366
+  },
+  {
+    "ilce_id": "1719",
+    "ilce_adi": "YATAĞAN",
+    "sehir_id": "48",
+    "sehir_adi": "MUĞLA",
+    "latitude": 37.3416697,
+    "longitude": 28.1395113
+  },
+  {
+    "ilce_id": "1742",
+    "ilce_adi": "DALAMAN",
+    "sehir_id": "48",
+    "sehir_adi": "MUĞLA",
+    "latitude": 36.7672142,
+    "longitude": 28.8002737
+  },
+  {
+    "ilce_id": "1831",
+    "ilce_adi": "ORTACA",
+    "sehir_id": "48",
+    "sehir_adi": "MUĞLA",
+    "latitude": 36.8388775,
+    "longitude": 28.7654688
+  },
+  {
+    "ilce_id": "1958",
+    "ilce_adi": "KAVAKLIDERE",
+    "sehir_id": "48",
+    "sehir_adi": "MUĞLA",
+    "latitude": 37.4456315,
+    "longitude": 28.364925
+  },
+  {
+    "ilce_id": "2089",
+    "ilce_adi": "MENTEŞE",
+    "sehir_id": "48",
+    "sehir_adi": "MUĞLA",
+    "latitude": 37.2178776,
+    "longitude": 28.3645937
+  },
+  {
+    "ilce_id": "2090",
+    "ilce_adi": "SEYDİKEMER",
+    "sehir_id": "48",
+    "sehir_adi": "MUĞLA",
+    "latitude": 36.6481603,
+    "longitude": 29.3621795
+  },
+  {
+    "ilce_id": "1213",
+    "ilce_adi": "BULANIK",
+    "sehir_id": "49",
+    "sehir_adi": "MUŞ",
+    "latitude": 39.0911011,
+    "longitude": 42.2703208
+  },
+  {
+    "ilce_id": "1510",
+    "ilce_adi": "MALAZGİRT",
+    "sehir_id": "49",
+    "sehir_adi": "MUŞ",
+    "latitude": 39.1461406,
+    "longitude": 42.5409459
+  },
+  {
+    "ilce_id": "1534",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "49",
+    "sehir_adi": "MUŞ",
+    "latitude": 38.7322221,
+    "longitude": 41.4898925
+  },
+  {
+    "ilce_id": "1711",
+    "ilce_adi": "VARTO",
+    "sehir_id": "49",
+    "sehir_adi": "MUŞ",
+    "latitude": 39.1720873,
+    "longitude": 41.4546645
+  },
+  {
+    "ilce_id": "1801",
+    "ilce_adi": "HASKÖY",
+    "sehir_id": "49",
+    "sehir_adi": "MUŞ",
+    "latitude": 38.6826159,
+    "longitude": 41.6885287
+  },
+  {
+    "ilce_id": "1964",
+    "ilce_adi": "KORKUT",
+    "sehir_id": "49",
+    "sehir_adi": "MUŞ",
+    "latitude": 38.7382526,
+    "longitude": 41.7843731
+  },
+  {
+    "ilce_id": "1155",
+    "ilce_adi": "AVANOS",
+    "sehir_id": "50",
+    "sehir_adi": "NEVŞEHİR",
+    "latitude": 38.8709056,
+    "longitude": 34.8536656
+  },
+  {
+    "ilce_id": "1274",
+    "ilce_adi": "DERİNKUYU",
+    "sehir_id": "50",
+    "sehir_adi": "NEVŞEHİR",
+    "latitude": 38.4003089,
+    "longitude": 34.6995885
+  },
+  {
+    "ilce_id": "1367",
+    "ilce_adi": "GÜLŞEHİR",
+    "sehir_id": "50",
+    "sehir_adi": "NEVŞEHİR",
+    "latitude": 38.7622326,
+    "longitude": 34.5026572
+  },
+  {
+    "ilce_id": "1374",
+    "ilce_adi": "HACIBEKTAŞ",
+    "sehir_id": "50",
+    "sehir_adi": "NEVŞEHİR",
+    "latitude": 38.9428835,
+    "longitude": 34.5608817
+  },
+  {
+    "ilce_id": "1485",
+    "ilce_adi": "KOZAKLI",
+    "sehir_id": "50",
+    "sehir_adi": "NEVŞEHİR",
+    "latitude": 39.2111466,
+    "longitude": 34.7825795
+  },
+  {
+    "ilce_id": "1543",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "50",
+    "sehir_adi": "NEVŞEHİR",
+    "latitude": 38.5871556,
+    "longitude": 34.7196633
+  },
+  {
+    "ilce_id": "1707",
+    "ilce_adi": "ÜRGÜP",
+    "sehir_id": "50",
+    "sehir_adi": "NEVŞEHİR",
+    "latitude": 38.5928119,
+    "longitude": 34.9594552
+  },
+  {
+    "ilce_id": "1749",
+    "ilce_adi": "ACIGÖL",
+    "sehir_id": "50",
+    "sehir_adi": "NEVŞEHİR",
+    "latitude": 38.5501551,
+    "longitude": 34.508966
+  },
+  {
+    "ilce_id": "1201",
+    "ilce_adi": "BOR",
+    "sehir_id": "51",
+    "sehir_adi": "NİĞDE",
+    "latitude": 37.8876939,
+    "longitude": 34.5624295
+  },
+  {
+    "ilce_id": "1225",
+    "ilce_adi": "ÇAMARDI",
+    "sehir_id": "51",
+    "sehir_adi": "NİĞDE",
+    "latitude": 37.83441,
+    "longitude": 34.9863918
+  },
+  {
+    "ilce_id": "1544",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "51",
+    "sehir_adi": "NİĞDE",
+    "latitude": 37.969849,
+    "longitude": 34.6764495
+  },
+  {
+    "ilce_id": "1700",
+    "ilce_adi": "ULUKIŞLA",
+    "sehir_id": "51",
+    "sehir_adi": "NİĞDE",
+    "latitude": 37.5457083,
+    "longitude": 34.4803603
+  },
+  {
+    "ilce_id": "1876",
+    "ilce_adi": "ALTUNHİSAR",
+    "sehir_id": "51",
+    "sehir_adi": "NİĞDE",
+    "latitude": 37.9990127,
+    "longitude": 34.3715056
+  },
+  {
+    "ilce_id": "1904",
+    "ilce_adi": "ÇİFTLİK",
+    "sehir_id": "51",
+    "sehir_adi": "NİĞDE",
+    "latitude": 38.1749713,
+    "longitude": 34.4847961
+  },
+  {
+    "ilce_id": "1119",
+    "ilce_adi": "AKKUŞ",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.7924952,
+    "longitude": 37.0177445
+  },
+  {
+    "ilce_id": "1158",
+    "ilce_adi": "AYBASTI",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.6846234,
+    "longitude": 37.398808
+  },
+  {
+    "ilce_id": "1328",
+    "ilce_adi": "FATSA",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 41.0308808,
+    "longitude": 37.500221
+  },
+  {
+    "ilce_id": "1358",
+    "ilce_adi": "GÖLKÖY",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.6873489,
+    "longitude": 37.6156023
+  },
+  {
+    "ilce_id": "1482",
+    "ilce_adi": "KORGAN",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.8295581,
+    "longitude": 37.3441414
+  },
+  {
+    "ilce_id": "1493",
+    "ilce_adi": "KUMRU",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.8719806,
+    "longitude": 37.2618187
+  },
+  {
+    "ilce_id": "1525",
+    "ilce_adi": "MESUDİYE",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.4635622,
+    "longitude": 37.7735687
+  },
+  {
+    "ilce_id": "1573",
+    "ilce_adi": "PERŞEMBE",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 41.0669482,
+    "longitude": 37.7736318
+  },
+  {
+    "ilce_id": "1696",
+    "ilce_adi": "ULUBEY",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.8730342,
+    "longitude": 37.7585422
+  },
+  {
+    "ilce_id": "1706",
+    "ilce_adi": "ÜNYE",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 41.1262405,
+    "longitude": 37.2853616
+  },
+  {
+    "ilce_id": "1795",
+    "ilce_adi": "GÜLYALI",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.9662509,
+    "longitude": 38.0585763
+  },
+  {
+    "ilce_id": "1797",
+    "ilce_adi": "GÜRGENTEPE",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.7886172,
+    "longitude": 37.6008608
+  },
+  {
+    "ilce_id": "1891",
+    "ilce_adi": "ÇAMAŞ",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.9025607,
+    "longitude": 37.5281141
+  },
+  {
+    "ilce_id": "1897",
+    "ilce_adi": "ÇATALPINAR",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.8789862,
+    "longitude": 37.4531774
+  },
+  {
+    "ilce_id": "1900",
+    "ilce_adi": "ÇAYBAŞI",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 41.0171939,
+    "longitude": 37.0986611
+  },
+  {
+    "ilce_id": "1947",
+    "ilce_adi": "İKİZCE",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 41.0544261,
+    "longitude": 37.0777989
+  },
+  {
+    "ilce_id": "1950",
+    "ilce_adi": "KABADÜZ",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.859818,
+    "longitude": 37.8908132
+  },
+  {
+    "ilce_id": "1951",
+    "ilce_adi": "KABATAŞ",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.7523911,
+    "longitude": 37.4499322
+  },
+  {
+    "ilce_id": "2103",
+    "ilce_adi": "ALTINORDU",
+    "sehir_id": "52",
+    "sehir_adi": "ORDU",
+    "latitude": 40.9786588,
+    "longitude": 37.8964303
+  },
+  {
+    "ilce_id": "1146",
+    "ilce_adi": "ARDEŞEN",
+    "sehir_id": "53",
+    "sehir_adi": "RİZE",
+    "latitude": 41.191875,
+    "longitude": 40.9894178
+  },
+  {
+    "ilce_id": "1228",
+    "ilce_adi": "ÇAMLIHEMŞİN",
+    "sehir_id": "53",
+    "sehir_adi": "RİZE",
+    "latitude": 41.045571,
+    "longitude": 41.0056974
+  },
+  {
+    "ilce_id": "1241",
+    "ilce_adi": "ÇAYELİ",
+    "sehir_id": "53",
+    "sehir_adi": "RİZE",
+    "latitude": 41.0878328,
+    "longitude": 40.7236973
+  },
+  {
+    "ilce_id": "1332",
+    "ilce_adi": "FINDIKLI",
+    "sehir_id": "53",
+    "sehir_adi": "RİZE",
+    "latitude": 41.271235,
+    "longitude": 41.1414159
+  },
+  {
+    "ilce_id": "1405",
+    "ilce_adi": "İKİZDERE",
+    "sehir_id": "53",
+    "sehir_adi": "RİZE",
+    "latitude": 40.7779924,
+    "longitude": 40.5595743
+  },
+  {
+    "ilce_id": "1428",
+    "ilce_adi": "KALKANDERE",
+    "sehir_id": "53",
+    "sehir_adi": "RİZE",
+    "latitude": 40.9279478,
+    "longitude": 40.4425085
+  },
+  {
+    "ilce_id": "1569",
+    "ilce_adi": "PAZAR",
+    "sehir_id": "53",
+    "sehir_adi": "RİZE",
+    "latitude": 41.1802584,
+    "longitude": 40.8868482
+  },
+  {
+    "ilce_id": "1586",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "53",
+    "sehir_adi": "RİZE",
+    "latitude": 41.0113314,
+    "longitude": 40.3612792
+  },
+  {
+    "ilce_id": "1796",
+    "ilce_adi": "GÜNEYSU",
+    "sehir_id": "53",
+    "sehir_adi": "RİZE",
+    "latitude": 40.977154,
+    "longitude": 40.6135914
+  },
+  {
+    "ilce_id": "1908",
+    "ilce_adi": "DEREPAZARI",
+    "sehir_id": "53",
+    "sehir_adi": "RİZE",
+    "latitude": 41.0243272,
+    "longitude": 40.4215803
+  },
+  {
+    "ilce_id": "1943",
+    "ilce_adi": "HEMŞİN",
+    "sehir_id": "53",
+    "sehir_adi": "RİZE",
+    "latitude": 41.0475214,
+    "longitude": 40.8987978
+  },
+  {
+    "ilce_id": "1949",
+    "ilce_adi": "İYİDERE",
+    "sehir_id": "53",
+    "sehir_adi": "RİZE",
+    "latitude": 41.0119784,
+    "longitude": 40.3609704
+  },
+  {
+    "ilce_id": "1123",
+    "ilce_adi": "AKYAZI",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 40.6814188,
+    "longitude": 30.6246106
+  },
+  {
+    "ilce_id": "1351",
+    "ilce_adi": "GEYVE",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 40.5090547,
+    "longitude": 30.2902514
+  },
+  {
+    "ilce_id": "1391",
+    "ilce_adi": "HENDEK",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 40.7955034,
+    "longitude": 30.7452727
+  },
+  {
+    "ilce_id": "1442",
+    "ilce_adi": "KARASU",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 41.0956091,
+    "longitude": 30.6924623
+  },
+  {
+    "ilce_id": "1453",
+    "ilce_adi": "KAYNARCA",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 41.0340469,
+    "longitude": 30.3055351
+  },
+  {
+    "ilce_id": "1595",
+    "ilce_adi": "SAPANCA",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 40.6930538,
+    "longitude": 30.27344
+  },
+  {
+    "ilce_id": "1818",
+    "ilce_adi": "KOCAALİ",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 41.0542812,
+    "longitude": 30.8507446
+  },
+  {
+    "ilce_id": "1833",
+    "ilce_adi": "PAMUKOVA",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 40.5056226,
+    "longitude": 30.1693049
+  },
+  {
+    "ilce_id": "1847",
+    "ilce_adi": "TARAKLI",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 40.3965784,
+    "longitude": 30.4921608
+  },
+  {
+    "ilce_id": "1925",
+    "ilce_adi": "FERİZLİ",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 40.9401753,
+    "longitude": 30.4846176
+  },
+  {
+    "ilce_id": "1955",
+    "ilce_adi": "KARAPÜRÇEK",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 40.6421839,
+    "longitude": 30.5375179
+  },
+  {
+    "ilce_id": "1986",
+    "ilce_adi": "SÖĞÜTLÜ",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 40.903921,
+    "longitude": 30.471664
+  },
+  {
+    "ilce_id": "2068",
+    "ilce_adi": "ADAPAZARI",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 40.7755188,
+    "longitude": 30.4020898
+  },
+  {
+    "ilce_id": "2069",
+    "ilce_adi": "ARİFİYE",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 40.713143,
+    "longitude": 30.3558365
+  },
+  {
+    "ilce_id": "2070",
+    "ilce_adi": "ERENLER",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 40.7563625,
+    "longitude": 30.4108937
+  },
+  {
+    "ilce_id": "2071",
+    "ilce_adi": "SERDİVAN",
+    "sehir_id": "54",
+    "sehir_adi": "SAKARYA",
+    "latitude": 40.7604062,
+    "longitude": 30.3629614
+  },
+  {
+    "ilce_id": "1125",
+    "ilce_adi": "ALAÇAM",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.6068635,
+    "longitude": 35.5973316
+  },
+  {
+    "ilce_id": "1164",
+    "ilce_adi": "BAFRA",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.5665954,
+    "longitude": 35.9024777
+  },
+  {
+    "ilce_id": "1234",
+    "ilce_adi": "ÇARŞAMBA",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.1982911,
+    "longitude": 36.7270196
+  },
+  {
+    "ilce_id": "1386",
+    "ilce_adi": "HAVZA",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 40.9657351,
+    "longitude": 35.666986
+  },
+  {
+    "ilce_id": "1452",
+    "ilce_adi": "KAVAK",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.0685626,
+    "longitude": 36.0268791
+  },
+  {
+    "ilce_id": "1501",
+    "ilce_adi": "LADİK",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 40.9082173,
+    "longitude": 35.8945652
+  },
+  {
+    "ilce_id": "1676",
+    "ilce_adi": "TERME",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.2090393,
+    "longitude": 36.9721685
+  },
+  {
+    "ilce_id": "1712",
+    "ilce_adi": "VEZİRKÖPRÜ",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.1433899,
+    "longitude": 35.4604721
+  },
+  {
+    "ilce_id": "1763",
+    "ilce_adi": "ASARCIK",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.0360288,
+    "longitude": 36.2348212
+  },
+  {
+    "ilce_id": "1830",
+    "ilce_adi": "19 MAYIS",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.4936554,
+    "longitude": 36.0810492
+  },
+  {
+    "ilce_id": "1838",
+    "ilce_adi": "SALIPAZARI",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.0812834,
+    "longitude": 36.8258019
+  },
+  {
+    "ilce_id": "1849",
+    "ilce_adi": "TEKKEKÖY",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.2134984,
+    "longitude": 36.4578038
+  },
+  {
+    "ilce_id": "1879",
+    "ilce_adi": "AYVACIK",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 40.9890631,
+    "longitude": 36.6304882
+  },
+  {
+    "ilce_id": "1993",
+    "ilce_adi": "YAKAKENT",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.6329513,
+    "longitude": 35.5315896
+  },
+  {
+    "ilce_id": "2072",
+    "ilce_adi": "ATAKUM",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.3322588,
+    "longitude": 36.2704652
+  },
+  {
+    "ilce_id": "2073",
+    "ilce_adi": "CANİK",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.2671277,
+    "longitude": 36.3556266
+  },
+  {
+    "ilce_id": "2074",
+    "ilce_adi": "İLKADIM",
+    "sehir_id": "55",
+    "sehir_adi": "SAMSUN",
+    "latitude": 41.2902004,
+    "longitude": 36.3346755
+  },
+  {
+    "ilce_id": "1179",
+    "ilce_adi": "BAYKAN",
+    "sehir_id": "56",
+    "sehir_adi": "SİİRT",
+    "latitude": 38.162873,
+    "longitude": 41.7856854
+  },
+  {
+    "ilce_id": "1317",
+    "ilce_adi": "ERUH",
+    "sehir_id": "56",
+    "sehir_adi": "SİİRT",
+    "latitude": 37.750599,
+    "longitude": 42.1808359
+  },
+  {
+    "ilce_id": "1495",
+    "ilce_adi": "KURTALAN",
+    "sehir_id": "56",
+    "sehir_adi": "SİİRT",
+    "latitude": 37.9284229,
+    "longitude": 41.6973637
+  },
+  {
+    "ilce_id": "1575",
+    "ilce_adi": "PERVARİ",
+    "sehir_id": "56",
+    "sehir_adi": "SİİRT",
+    "latitude": 37.9325036,
+    "longitude": 42.5479907
+  },
+  {
+    "ilce_id": "1620",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "56",
+    "sehir_adi": "SİİRT",
+    "latitude": 37.9273623,
+    "longitude": 41.94218
+  },
+  {
+    "ilce_id": "1662",
+    "ilce_adi": "ŞİRVAN",
+    "sehir_id": "56",
+    "sehir_adi": "SİİRT",
+    "latitude": 38.0617933,
+    "longitude": 42.0299309
+  },
+  {
+    "ilce_id": "1878",
+    "ilce_adi": "TİLLO",
+    "sehir_id": "56",
+    "sehir_adi": "SİİRT",
+    "latitude": 37.9500638,
+    "longitude": 42.0125174
+  },
+  {
+    "ilce_id": "1156",
+    "ilce_adi": "AYANCIK",
+    "sehir_id": "57",
+    "sehir_adi": "SİNOP",
+    "latitude": 41.9460725,
+    "longitude": 34.588309
+  },
+  {
+    "ilce_id": "1204",
+    "ilce_adi": "BOYABAT",
+    "sehir_id": "57",
+    "sehir_adi": "SİNOP",
+    "latitude": 41.4689736,
+    "longitude": 34.7672274
+  },
+  {
+    "ilce_id": "1290",
+    "ilce_adi": "DURAĞAN",
+    "sehir_id": "57",
+    "sehir_adi": "SİNOP",
+    "latitude": 41.4179668,
+    "longitude": 35.0558096
+  },
+  {
+    "ilce_id": "1314",
+    "ilce_adi": "ERFELEK",
+    "sehir_id": "57",
+    "sehir_adi": "SİNOP",
+    "latitude": 41.8793624,
+    "longitude": 34.9080508
+  },
+  {
+    "ilce_id": "1349",
+    "ilce_adi": "GERZE",
+    "sehir_id": "57",
+    "sehir_adi": "SİNOP",
+    "latitude": 41.8032697,
+    "longitude": 35.1996164
+  },
+  {
+    "ilce_id": "1627",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "57",
+    "sehir_adi": "SİNOP",
+    "latitude": 41.4196081,
+    "longitude": 35.0544655
+  },
+  {
+    "ilce_id": "1693",
+    "ilce_adi": "TÜRKELİ",
+    "sehir_id": "57",
+    "sehir_adi": "SİNOP",
+    "latitude": 41.9483005,
+    "longitude": 34.3395857
+  },
+  {
+    "ilce_id": "1910",
+    "ilce_adi": "DİKMEN",
+    "sehir_id": "57",
+    "sehir_adi": "SİNOP",
+    "latitude": 41.6516239,
+    "longitude": 35.2650575
+  },
+  {
+    "ilce_id": "1981",
+    "ilce_adi": "SARAYDÜZÜ",
+    "sehir_id": "57",
+    "sehir_adi": "SİNOP",
+    "latitude": 41.3295166,
+    "longitude": 34.8486017
+  },
+  {
+    "ilce_id": "1282",
+    "ilce_adi": "DİVRİĞİ",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 39.3713764,
+    "longitude": 38.1178512
+  },
+  {
+    "ilce_id": "1342",
+    "ilce_adi": "GEMEREK",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 39.1831222,
+    "longitude": 36.0711044
+  },
+  {
+    "ilce_id": "1373",
+    "ilce_adi": "GÜRÜN",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 38.7213343,
+    "longitude": 37.270935
+  },
+  {
+    "ilce_id": "1376",
+    "ilce_adi": "HAFİK",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 39.8545854,
+    "longitude": 37.3889604
+  },
+  {
+    "ilce_id": "1407",
+    "ilce_adi": "İMRANLI",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 39.8760006,
+    "longitude": 38.1129304
+  },
+  {
+    "ilce_id": "1431",
+    "ilce_adi": "KANGAL",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 39.2356593,
+    "longitude": 37.3909121
+  },
+  {
+    "ilce_id": "1484",
+    "ilce_adi": "KOYULHİSAR",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 40.301321,
+    "longitude": 37.8322757
+  },
+  {
+    "ilce_id": "1628",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 39.3254092,
+    "longitude": 36.7876506
+  },
+  {
+    "ilce_id": "1646",
+    "ilce_adi": "SUŞEHRİ",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 40.1627343,
+    "longitude": 38.0855664
+  },
+  {
+    "ilce_id": "1650",
+    "ilce_adi": "ŞARKIŞLA",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 39.3504952,
+    "longitude": 36.4097977
+  },
+  {
+    "ilce_id": "1731",
+    "ilce_adi": "YILDIZELİ",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 39.8671862,
+    "longitude": 36.5933112
+  },
+  {
+    "ilce_id": "1738",
+    "ilce_adi": "ZARA",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 39.8972011,
+    "longitude": 37.759073
+  },
+  {
+    "ilce_id": "1870",
+    "ilce_adi": "AKINCILAR",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 40.0787174,
+    "longitude": 38.3468396
+  },
+  {
+    "ilce_id": "1875",
+    "ilce_adi": "ALTINYAYLA",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 39.2716679,
+    "longitude": 36.751548
+  },
+  {
+    "ilce_id": "1913",
+    "ilce_adi": "DOĞANŞAR",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 40.2142318,
+    "longitude": 37.5365096
+  },
+  {
+    "ilce_id": "1927",
+    "ilce_adi": "GÖLOVA",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 40.0612887,
+    "longitude": 38.6084307
+  },
+  {
+    "ilce_id": "1991",
+    "ilce_adi": "ULAŞ",
+    "sehir_id": "58",
+    "sehir_adi": "SİVAS",
+    "latitude": 39.4447613,
+    "longitude": 37.0397895
+  },
+  {
+    "ilce_id": "1250",
+    "ilce_adi": "ÇERKEZKÖY",
+    "sehir_id": "59",
+    "sehir_adi": "TEKİRDAĞ",
+    "latitude": 41.2862482,
+    "longitude": 27.999468
+  },
+  {
+    "ilce_id": "1258",
+    "ilce_adi": "ÇORLU",
+    "sehir_id": "59",
+    "sehir_adi": "TEKİRDAĞ",
+    "latitude": 41.1590875,
+    "longitude": 27.8041066
+  },
+  {
+    "ilce_id": "1388",
+    "ilce_adi": "HAYRABOLU",
+    "sehir_id": "59",
+    "sehir_adi": "TEKİRDAĞ",
+    "latitude": 41.2146709,
+    "longitude": 27.1081765
+  },
+  {
+    "ilce_id": "1511",
+    "ilce_adi": "MALKARA",
+    "sehir_id": "59",
+    "sehir_adi": "TEKİRDAĞ",
+    "latitude": 40.8930819,
+    "longitude": 26.9023798
+  },
+  {
+    "ilce_id": "1538",
+    "ilce_adi": "MURATLI",
+    "sehir_id": "59",
+    "sehir_adi": "TEKİRDAĞ",
+    "latitude": 41.1722934,
+    "longitude": 27.5015106
+  },
+  {
+    "ilce_id": "1596",
+    "ilce_adi": "SARAY",
+    "sehir_id": "59",
+    "sehir_adi": "TEKİRDAĞ",
+    "latitude": 41.4426795,
+    "longitude": 27.9213992
+  },
+  {
+    "ilce_id": "1652",
+    "ilce_adi": "ŞARKÖY",
+    "sehir_id": "59",
+    "sehir_adi": "TEKİRDAĞ",
+    "latitude": 40.6148728,
+    "longitude": 27.1121862
+  },
+  {
+    "ilce_id": "1825",
+    "ilce_adi": "MARMARAEREĞLİSİ",
+    "sehir_id": "59",
+    "sehir_adi": "TEKİRDAĞ",
+    "latitude": 40.9693702,
+    "longitude": 27.9550008
+  },
+  {
+    "ilce_id": "2094",
+    "ilce_adi": "ERGENE",
+    "sehir_id": "59",
+    "sehir_adi": "TEKİRDAĞ",
+    "latitude": 41.3557627,
+    "longitude": 27.2025736
+  },
+  {
+    "ilce_id": "2095",
+    "ilce_adi": "KAPAKLI",
+    "sehir_id": "59",
+    "sehir_adi": "TEKİRDAĞ",
+    "latitude": 41.3268579,
+    "longitude": 27.9761514
+  },
+  {
+    "ilce_id": "2096",
+    "ilce_adi": "SÜLEYMANPAŞA",
+    "sehir_id": "59",
+    "sehir_adi": "TEKİRDAĞ",
+    "latitude": 40.9771735,
+    "longitude": 27.5038548
+  },
+  {
+    "ilce_id": "1129",
+    "ilce_adi": "ALMUS",
+    "sehir_id": "60",
+    "sehir_adi": "TOKAT",
+    "latitude": 40.3750133,
+    "longitude": 36.9037319
+  },
+  {
+    "ilce_id": "1151",
+    "ilce_adi": "ARTOVA",
+    "sehir_id": "60",
+    "sehir_adi": "TOKAT",
+    "latitude": 40.113979,
+    "longitude": 36.3005766
+  },
+  {
+    "ilce_id": "1308",
+    "ilce_adi": "ERBAA",
+    "sehir_id": "60",
+    "sehir_adi": "TOKAT",
+    "latitude": 40.6727976,
+    "longitude": 36.5715055
+  },
+  {
+    "ilce_id": "1545",
+    "ilce_adi": "NİKSAR",
+    "sehir_id": "60",
+    "sehir_adi": "TOKAT",
+    "latitude": 40.5913282,
+    "longitude": 36.9434927
+  },
+  {
+    "ilce_id": "1584",
+    "ilce_adi": "REŞADİYE",
+    "sehir_id": "60",
+    "sehir_adi": "TOKAT",
+    "latitude": 40.4296606,
+    "longitude": 37.3744156
+  },
+  {
+    "ilce_id": "1679",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "60",
+    "sehir_adi": "TOKAT",
+    "latitude": 40.4961545,
+    "longitude": 37.4942039
+  },
+  {
+    "ilce_id": "1690",
+    "ilce_adi": "TURHAL",
+    "sehir_id": "60",
+    "sehir_adi": "TOKAT",
+    "latitude": 40.3895887,
+    "longitude": 36.078043
+  },
+  {
+    "ilce_id": "1740",
+    "ilce_adi": "ZİLE",
+    "sehir_id": "60",
+    "sehir_adi": "TOKAT",
+    "latitude": 40.3005345,
+    "longitude": 35.8823475
+  },
+  {
+    "ilce_id": "1834",
+    "ilce_adi": "PAZAR",
+    "sehir_id": "60",
+    "sehir_adi": "TOKAT",
+    "latitude": 40.2757786,
+    "longitude": 36.2822896
+  },
+  {
+    "ilce_id": "1858",
+    "ilce_adi": "YEŞİLYURT",
+    "sehir_id": "60",
+    "sehir_adi": "TOKAT",
+    "latitude": 40.0073609,
+    "longitude": 36.2167352
+  },
+  {
+    "ilce_id": "1883",
+    "ilce_adi": "BAŞÇİFTLİK",
+    "sehir_id": "60",
+    "sehir_adi": "TOKAT",
+    "latitude": 40.5469067,
+    "longitude": 37.1683222
+  },
+  {
+    "ilce_id": "1987",
+    "ilce_adi": "SULUSARAY",
+    "sehir_id": "60",
+    "sehir_adi": "TOKAT",
+    "latitude": 39.9974984,
+    "longitude": 36.083607
+  },
+  {
+    "ilce_id": "1113",
+    "ilce_adi": "AKÇAABAT",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 41.0216276,
+    "longitude": 39.5706735
+  },
+  {
+    "ilce_id": "1141",
+    "ilce_adi": "ARAKLI",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 40.9358214,
+    "longitude": 40.0580406
+  },
+  {
+    "ilce_id": "1150",
+    "ilce_adi": "ARSİN",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 40.9537303,
+    "longitude": 39.9325905
+  },
+  {
+    "ilce_id": "1244",
+    "ilce_adi": "ÇAYKARA",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 40.7478554,
+    "longitude": 40.2420431
+  },
+  {
+    "ilce_id": "1507",
+    "ilce_adi": "MAÇKA",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 40.8120424,
+    "longitude": 39.6127153
+  },
+  {
+    "ilce_id": "1548",
+    "ilce_adi": "OF",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 40.947642,
+    "longitude": 40.2694068
+  },
+  {
+    "ilce_id": "1647",
+    "ilce_adi": "SÜRMENE",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 40.9127715,
+    "longitude": 40.1134808
+  },
+  {
+    "ilce_id": "1681",
+    "ilce_adi": "TONYA",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 40.8863478,
+    "longitude": 39.2908085
+  },
+  {
+    "ilce_id": "1709",
+    "ilce_adi": "VAKFIKEBİR",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 41.047236,
+    "longitude": 39.2761909
+  },
+  {
+    "ilce_id": "1732",
+    "ilce_adi": "YOMRA",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 40.9592464,
+    "longitude": 39.8471246
+  },
+  {
+    "ilce_id": "1775",
+    "ilce_adi": "BEŞİKDÜZÜ",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 41.0527305,
+    "longitude": 39.2280377
+  },
+  {
+    "ilce_id": "1842",
+    "ilce_adi": "ŞALPAZARI",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 40.9418104,
+    "longitude": 39.1938395
+  },
+  {
+    "ilce_id": "1896",
+    "ilce_adi": "ÇARŞIBAŞI",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 41.0825808,
+    "longitude": 39.3784858
+  },
+  {
+    "ilce_id": "1909",
+    "ilce_adi": "DERNEKPAZARI",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 40.7996282,
+    "longitude": 40.2478946
+  },
+  {
+    "ilce_id": "1917",
+    "ilce_adi": "DÜZKÖY",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 40.8738307,
+    "longitude": 39.4261086
+  },
+  {
+    "ilce_id": "1942",
+    "ilce_adi": "HAYRAT",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 40.8891726,
+    "longitude": 40.3680473
+  },
+  {
+    "ilce_id": "1966",
+    "ilce_adi": "KÖPRÜBAŞI",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 40.8072142,
+    "longitude": 40.124241
+  },
+  {
+    "ilce_id": "2097",
+    "ilce_adi": "ORTAHİSAR",
+    "sehir_id": "61",
+    "sehir_adi": "TRABZON",
+    "latitude": 41.0062151,
+    "longitude": 39.7257588
+  },
+  {
+    "ilce_id": "1247",
+    "ilce_adi": "ÇEMİŞGEZEK",
+    "sehir_id": "62",
+    "sehir_adi": "TUNCELİ",
+    "latitude": 39.0628601,
+    "longitude": 38.9104258
+  },
+  {
+    "ilce_id": "1397",
+    "ilce_adi": "HOZAT",
+    "sehir_id": "62",
+    "sehir_adi": "TUNCELİ",
+    "latitude": 39.1075873,
+    "longitude": 39.2193915
+  },
+  {
+    "ilce_id": "1518",
+    "ilce_adi": "MAZGİRT",
+    "sehir_id": "62",
+    "sehir_adi": "TUNCELİ",
+    "latitude": 39.0195456,
+    "longitude": 39.6059111
+  },
+  {
+    "ilce_id": "1541",
+    "ilce_adi": "NAZIMİYE",
+    "sehir_id": "62",
+    "sehir_adi": "TUNCELİ",
+    "latitude": 39.1795972,
+    "longitude": 39.8288083
+  },
+  {
+    "ilce_id": "1562",
+    "ilce_adi": "OVACIK",
+    "sehir_id": "62",
+    "sehir_adi": "TUNCELİ",
+    "latitude": 39.3583833,
+    "longitude": 39.2144472
+  },
+  {
+    "ilce_id": "1574",
+    "ilce_adi": "PERTEK",
+    "sehir_id": "62",
+    "sehir_adi": "TUNCELİ",
+    "latitude": 38.8655563,
+    "longitude": 39.327653
+  },
+  {
+    "ilce_id": "1581",
+    "ilce_adi": "PÜLÜMÜR",
+    "sehir_id": "62",
+    "sehir_adi": "TUNCELİ",
+    "latitude": 39.4876331,
+    "longitude": 39.899133
+  },
+  {
+    "ilce_id": "1688",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "62",
+    "sehir_adi": "TUNCELİ",
+    "latitude": 39.1365808,
+    "longitude": 39.5334198
+  },
+  {
+    "ilce_id": "1115",
+    "ilce_adi": "AKÇAKALE",
+    "sehir_id": "63",
+    "sehir_adi": "ŞANLIURFA",
+    "latitude": 36.708295,
+    "longitude": 38.9486822
+  },
+  {
+    "ilce_id": "1194",
+    "ilce_adi": "BİRECİK",
+    "sehir_id": "63",
+    "sehir_adi": "ŞANLIURFA",
+    "latitude": 37.0315322,
+    "longitude": 37.9800265
+  },
+  {
+    "ilce_id": "1209",
+    "ilce_adi": "BOZOVA",
+    "sehir_id": "63",
+    "sehir_adi": "ŞANLIURFA",
+    "latitude": 37.3619576,
+    "longitude": 38.5253584
+  },
+  {
+    "ilce_id": "1220",
+    "ilce_adi": "CEYLANPINAR",
+    "sehir_id": "63",
+    "sehir_adi": "ŞANLIURFA",
+    "latitude": 36.8441893,
+    "longitude": 40.0516383
+  },
+  {
+    "ilce_id": "1378",
+    "ilce_adi": "HALFETİ",
+    "sehir_id": "63",
+    "sehir_adi": "ŞANLIURFA",
+    "latitude": 37.2309218,
+    "longitude": 37.945736
+  },
+  {
+    "ilce_id": "1393",
+    "ilce_adi": "HİLVAN",
+    "sehir_id": "63",
+    "sehir_adi": "ŞANLIURFA",
+    "latitude": 37.5861692,
+    "longitude": 38.9546875
+  },
+  {
+    "ilce_id": "1630",
+    "ilce_adi": "SİVEREK",
+    "sehir_id": "63",
+    "sehir_adi": "ŞANLIURFA",
+    "latitude": 37.7540905,
+    "longitude": 39.3177426
+  },
+  {
+    "ilce_id": "1643",
+    "ilce_adi": "SURUÇ",
+    "sehir_id": "63",
+    "sehir_adi": "ŞANLIURFA",
+    "latitude": 36.9751849,
+    "longitude": 38.424295
+  },
+  {
+    "ilce_id": "1713",
+    "ilce_adi": "VİRANŞEHİR",
+    "sehir_id": "63",
+    "sehir_adi": "ŞANLIURFA",
+    "latitude": 37.2328946,
+    "longitude": 39.7620135
+  },
+  {
+    "ilce_id": "1800",
+    "ilce_adi": "HARRAN",
+    "sehir_id": "63",
+    "sehir_adi": "ŞANLIURFA",
+    "latitude": 36.8710059,
+    "longitude": 39.0251364
+  },
+  {
+    "ilce_id": "2091",
+    "ilce_adi": "EYYÜBİYE",
+    "sehir_id": "63",
+    "sehir_adi": "ŞANLIURFA",
+    "latitude": 37.1483185,
+    "longitude": 38.7829952
+  },
+  {
+    "ilce_id": "2092",
+    "ilce_adi": "HALİLİYE",
+    "sehir_id": "63",
+    "sehir_adi": "ŞANLIURFA",
+    "latitude": 37.1674869,
+    "longitude": 38.7955597
+  },
+  {
+    "ilce_id": "2093",
+    "ilce_adi": "KARAKÖPRÜ",
+    "sehir_id": "63",
+    "sehir_adi": "ŞANLIURFA",
+    "latitude": 37.204652,
+    "longitude": 38.7958511
+  },
+  {
+    "ilce_id": "1170",
+    "ilce_adi": "BANAZ",
+    "sehir_id": "64",
+    "sehir_adi": "UŞAK",
+    "latitude": 38.7399733,
+    "longitude": 29.7531896
+  },
+  {
+    "ilce_id": "1323",
+    "ilce_adi": "EŞME",
+    "sehir_id": "64",
+    "sehir_adi": "UŞAK",
+    "latitude": 38.3998673,
+    "longitude": 28.9670144
+  },
+  {
+    "ilce_id": "1436",
+    "ilce_adi": "KARAHALLI",
+    "sehir_id": "64",
+    "sehir_adi": "UŞAK",
+    "latitude": 38.3206332,
+    "longitude": 29.5313412
+  },
+  {
+    "ilce_id": "1629",
+    "ilce_adi": "SİVASLI",
+    "sehir_id": "64",
+    "sehir_adi": "UŞAK",
+    "latitude": 38.5000314,
+    "longitude": 29.6839519
+  },
+  {
+    "ilce_id": "1697",
+    "ilce_adi": "ULUBEY",
+    "sehir_id": "64",
+    "sehir_adi": "UŞAK",
+    "latitude": 38.4193124,
+    "longitude": 29.2909477
+  },
+  {
+    "ilce_id": "1704",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "64",
+    "sehir_adi": "UŞAK",
+    "latitude": 38.6740401,
+    "longitude": 29.4058419
+  },
+  {
+    "ilce_id": "1175",
+    "ilce_adi": "BAŞKALE",
+    "sehir_id": "65",
+    "sehir_adi": "VAN",
+    "latitude": 38.0449111,
+    "longitude": 44.016267
+  },
+  {
+    "ilce_id": "1236",
+    "ilce_adi": "ÇATAK",
+    "sehir_id": "65",
+    "sehir_adi": "VAN",
+    "latitude": 38.0069067,
+    "longitude": 43.0591978
+  },
+  {
+    "ilce_id": "1309",
+    "ilce_adi": "ERCİŞ",
+    "sehir_id": "65",
+    "sehir_adi": "VAN",
+    "latitude": 39.0289887,
+    "longitude": 43.3591059
+  },
+  {
+    "ilce_id": "1350",
+    "ilce_adi": "GEVAŞ",
+    "sehir_id": "65",
+    "sehir_adi": "VAN",
+    "latitude": 38.2952862,
+    "longitude": 43.108271
+  },
+  {
+    "ilce_id": "1372",
+    "ilce_adi": "GÜRPINAR",
+    "sehir_id": "65",
+    "sehir_adi": "VAN",
+    "latitude": 38.323265,
+    "longitude": 43.4079006
+  },
+  {
+    "ilce_id": "1533",
+    "ilce_adi": "MURADİYE",
+    "sehir_id": "65",
+    "sehir_adi": "VAN",
+    "latitude": 38.9902954,
+    "longitude": 43.7611745
+  },
+  {
+    "ilce_id": "1565",
+    "ilce_adi": "ÖZALP",
+    "sehir_id": "65",
+    "sehir_adi": "VAN",
+    "latitude": 38.6575929,
+    "longitude": 43.9911448
+  },
+  {
+    "ilce_id": "1770",
+    "ilce_adi": "BAHÇESARAY",
+    "sehir_id": "65",
+    "sehir_adi": "VAN",
+    "latitude": 38.1237164,
+    "longitude": 42.8077339
+  },
+  {
+    "ilce_id": "1786",
+    "ilce_adi": "ÇALDIRAN",
+    "sehir_id": "65",
+    "sehir_adi": "VAN",
+    "latitude": 39.1355203,
+    "longitude": 43.9029377
+  },
+  {
+    "ilce_id": "1918",
+    "ilce_adi": "EDREMİT",
+    "sehir_id": "65",
+    "sehir_adi": "VAN",
+    "latitude": 38.4258091,
+    "longitude": 43.260234
+  },
+  {
+    "ilce_id": "1980",
+    "ilce_adi": "SARAY",
+    "sehir_id": "65",
+    "sehir_adi": "VAN",
+    "latitude": 38.6493544,
+    "longitude": 44.1695498
+  },
+  {
+    "ilce_id": "2098",
+    "ilce_adi": "İPEKYOLU",
+    "sehir_id": "65",
+    "sehir_adi": "VAN",
+    "latitude": 38.5038174,
+    "longitude": 43.3955098
+  },
+  {
+    "ilce_id": "2099",
+    "ilce_adi": "TUŞBA",
+    "sehir_id": "65",
+    "sehir_adi": "VAN",
+    "latitude": 38.5123112,
+    "longitude": 43.3752824
+  },
+  {
+    "ilce_id": "1117",
+    "ilce_adi": "AKDAĞMADENİ",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 39.6612219,
+    "longitude": 35.8805457
+  },
+  {
+    "ilce_id": "1198",
+    "ilce_adi": "BOĞAZLIYAN",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 39.191259,
+    "longitude": 35.2462844
+  },
+  {
+    "ilce_id": "1242",
+    "ilce_adi": "ÇAYIRALAN",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 39.3048011,
+    "longitude": 35.646372
+  },
+  {
+    "ilce_id": "1245",
+    "ilce_adi": "ÇEKEREK",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 40.0649573,
+    "longitude": 35.5072503
+  },
+  {
+    "ilce_id": "1602",
+    "ilce_adi": "SARIKAYA",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 39.4935902,
+    "longitude": 35.3755098
+  },
+  {
+    "ilce_id": "1635",
+    "ilce_adi": "SORGUN",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 39.8098675,
+    "longitude": 35.1854305
+  },
+  {
+    "ilce_id": "1655",
+    "ilce_adi": "ŞEFAATLİ",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 39.4986092,
+    "longitude": 34.7498673
+  },
+  {
+    "ilce_id": "1726",
+    "ilce_adi": "YERKÖY",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 39.6867585,
+    "longitude": 34.4649934
+  },
+  {
+    "ilce_id": "1733",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 39.7564536,
+    "longitude": 34.7838272
+  },
+  {
+    "ilce_id": "1877",
+    "ilce_adi": "AYDINCIK",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 40.1302516,
+    "longitude": 35.2851606
+  },
+  {
+    "ilce_id": "1895",
+    "ilce_adi": "ÇANDIR",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 39.2446046,
+    "longitude": 35.5138601
+  },
+  {
+    "ilce_id": "1952",
+    "ilce_adi": "KADIŞEHRİ",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 39.9974687,
+    "longitude": 35.7917557
+  },
+  {
+    "ilce_id": "1982",
+    "ilce_adi": "SARAYKENT",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 39.6936979,
+    "longitude": 35.5102049
+  },
+  {
+    "ilce_id": "1998",
+    "ilce_adi": "YENİFAKILI",
+    "sehir_id": "66",
+    "sehir_adi": "YOZGAT",
+    "latitude": 39.2126416,
+    "longitude": 35.0023801
+  },
+  {
+    "ilce_id": "1240",
+    "ilce_adi": "ÇAYCUMA",
+    "sehir_id": "67",
+    "sehir_adi": "ZONGULDAK",
+    "latitude": 41.4269456,
+    "longitude": 32.0728211
+  },
+  {
+    "ilce_id": "1276",
+    "ilce_adi": "DEVREK",
+    "sehir_id": "67",
+    "sehir_adi": "ZONGULDAK",
+    "latitude": 41.2188823,
+    "longitude": 31.9558348
+  },
+  {
+    "ilce_id": "1313",
+    "ilce_adi": "EREĞLİ",
+    "sehir_id": "67",
+    "sehir_adi": "ZONGULDAK",
+    "latitude": 41.2795516,
+    "longitude": 31.4229672
+  },
+  {
+    "ilce_id": "1741",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "67",
+    "sehir_adi": "ZONGULDAK",
+    "latitude": 41.4301516,
+    "longitude": 31.7402969
+  },
+  {
+    "ilce_id": "1758",
+    "ilce_adi": "ALAPLI",
+    "sehir_id": "67",
+    "sehir_adi": "ZONGULDAK",
+    "latitude": 41.180375,
+    "longitude": 31.3861776
+  },
+  {
+    "ilce_id": "1926",
+    "ilce_adi": "GÖKÇEBEY",
+    "sehir_id": "67",
+    "sehir_adi": "ZONGULDAK",
+    "latitude": 41.3068459,
+    "longitude": 32.138553
+  },
+  {
+    "ilce_id": "2100",
+    "ilce_adi": "KİLİMLİ",
+    "sehir_id": "67",
+    "sehir_adi": "ZONGULDAK",
+    "latitude": 41.4869266,
+    "longitude": 31.8384083
+  },
+  {
+    "ilce_id": "2101",
+    "ilce_adi": "KOZLU",
+    "sehir_id": "67",
+    "sehir_adi": "ZONGULDAK",
+    "latitude": 41.4338739,
+    "longitude": 31.7472847
+  },
+  {
+    "ilce_id": "1120",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "68",
+    "sehir_adi": "AKSARAY",
+    "latitude": 38.4001048,
+    "longitude": 33.4129236
+  },
+  {
+    "ilce_id": "1557",
+    "ilce_adi": "ORTAKÖY",
+    "sehir_id": "68",
+    "sehir_adi": "AKSARAY",
+    "latitude": 38.736624,
+    "longitude": 34.0412195
+  },
+  {
+    "ilce_id": "1860",
+    "ilce_adi": "AĞAÇÖREN",
+    "sehir_id": "68",
+    "sehir_adi": "AKSARAY",
+    "latitude": 38.8689718,
+    "longitude": 33.9155769
+  },
+  {
+    "ilce_id": "1861",
+    "ilce_adi": "GÜZELYURT",
+    "sehir_id": "68",
+    "sehir_adi": "AKSARAY",
+    "latitude": 38.2778702,
+    "longitude": 34.3714161
+  },
+  {
+    "ilce_id": "1866",
+    "ilce_adi": "SARIYAHŞİ",
+    "sehir_id": "68",
+    "sehir_adi": "AKSARAY",
+    "latitude": 38.9849345,
+    "longitude": 33.8455368
+  },
+  {
+    "ilce_id": "1921",
+    "ilce_adi": "ESKİL",
+    "sehir_id": "68",
+    "sehir_adi": "AKSARAY",
+    "latitude": 38.4017027,
+    "longitude": 33.412823
+  },
+  {
+    "ilce_id": "1932",
+    "ilce_adi": "GÜLAĞAÇ",
+    "sehir_id": "68",
+    "sehir_adi": "AKSARAY",
+    "latitude": 38.3940894,
+    "longitude": 34.3460521
+  },
+  {
+    "ilce_id": "2106",
+    "ilce_adi": "SULTANHANI",
+    "sehir_id": "68",
+    "sehir_adi": "AKSARAY",
+    "latitude": 38.2474175,
+    "longitude": 33.5489796
+  },
+  {
+    "ilce_id": "1176",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "69",
+    "sehir_adi": "BAYBURT",
+    "latitude": 40.2551608,
+    "longitude": 40.2205036
+  },
+  {
+    "ilce_id": "1767",
+    "ilce_adi": "AYDINTEPE",
+    "sehir_id": "69",
+    "sehir_adi": "BAYBURT",
+    "latitude": 40.3888009,
+    "longitude": 40.1494228
+  },
+  {
+    "ilce_id": "1788",
+    "ilce_adi": "DEMİRÖZÜ",
+    "sehir_id": "69",
+    "sehir_adi": "BAYBURT",
+    "latitude": 40.1630281,
+    "longitude": 39.8912861
+  },
+  {
+    "ilce_id": "1316",
+    "ilce_adi": "ERMENEK",
+    "sehir_id": "70",
+    "sehir_adi": "KARAMAN",
+    "latitude": 36.6389037,
+    "longitude": 32.8888721
+  },
+  {
+    "ilce_id": "1439",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "70",
+    "sehir_adi": "KARAMAN",
+    "latitude": 36.5023574,
+    "longitude": 32.8595579
+  },
+  {
+    "ilce_id": "1768",
+    "ilce_adi": "AYRANCI",
+    "sehir_id": "70",
+    "sehir_adi": "KARAMAN",
+    "latitude": 37.3710613,
+    "longitude": 33.6662614
+  },
+  {
+    "ilce_id": "1862",
+    "ilce_adi": "KAZIMKARABEKİR",
+    "sehir_id": "70",
+    "sehir_adi": "KARAMAN",
+    "latitude": 37.2265254,
+    "longitude": 32.9582567
+  },
+  {
+    "ilce_id": "1884",
+    "ilce_adi": "BAŞYAYLA",
+    "sehir_id": "70",
+    "sehir_adi": "KARAMAN",
+    "latitude": 36.7530306,
+    "longitude": 32.6798489
+  },
+  {
+    "ilce_id": "1983",
+    "ilce_adi": "SARIVELİLER",
+    "sehir_id": "70",
+    "sehir_adi": "KARAMAN",
+    "latitude": 36.6985256,
+    "longitude": 32.618221
+  },
+  {
+    "ilce_id": "1268",
+    "ilce_adi": "DELİCE",
+    "sehir_id": "71",
+    "sehir_adi": "KIRIKKALE",
+    "latitude": 39.9455172,
+    "longitude": 34.0312969
+  },
+  {
+    "ilce_id": "1463",
+    "ilce_adi": "KESKİN",
+    "sehir_id": "71",
+    "sehir_adi": "KIRIKKALE",
+    "latitude": 39.673994,
+    "longitude": 33.615167
+  },
+  {
+    "ilce_id": "1469",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "71",
+    "sehir_adi": "KIRIKKALE",
+    "latitude": 39.8850752,
+    "longitude": 33.5785308
+  },
+  {
+    "ilce_id": "1638",
+    "ilce_adi": "SULAKYURT",
+    "sehir_id": "71",
+    "sehir_adi": "KIRIKKALE",
+    "latitude": 40.1576767,
+    "longitude": 33.7156669
+  },
+  {
+    "ilce_id": "1880",
+    "ilce_adi": "BAHŞILI",
+    "sehir_id": "71",
+    "sehir_adi": "KIRIKKALE",
+    "latitude": 39.813252,
+    "longitude": 33.4717917
+  },
+  {
+    "ilce_id": "1882",
+    "ilce_adi": "BALIŞEYH",
+    "sehir_id": "71",
+    "sehir_adi": "KIRIKKALE",
+    "latitude": 39.9097195,
+    "longitude": 33.7183432
+  },
+  {
+    "ilce_id": "1901",
+    "ilce_adi": "ÇELEBİ",
+    "sehir_id": "71",
+    "sehir_adi": "KIRIKKALE",
+    "latitude": 39.4636988,
+    "longitude": 33.5244142
+  },
+  {
+    "ilce_id": "1954",
+    "ilce_adi": "KARAKEÇİLİ",
+    "sehir_id": "71",
+    "sehir_adi": "KIRIKKALE",
+    "latitude": 39.5599311,
+    "longitude": 33.3577227
+  },
+  {
+    "ilce_id": "1992",
+    "ilce_adi": "YAHŞİHAN",
+    "sehir_id": "71",
+    "sehir_adi": "KIRIKKALE",
+    "latitude": 39.8497536,
+    "longitude": 33.452421
+  },
+  {
+    "ilce_id": "1174",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "72",
+    "sehir_adi": "BATMAN",
+    "latitude": 37.8835738,
+    "longitude": 41.1277565
+  },
+  {
+    "ilce_id": "1184",
+    "ilce_adi": "BEŞİRİ",
+    "sehir_id": "72",
+    "sehir_adi": "BATMAN",
+    "latitude": 37.9162455,
+    "longitude": 41.2927679
+  },
+  {
+    "ilce_id": "1345",
+    "ilce_adi": "GERCÜŞ",
+    "sehir_id": "72",
+    "sehir_adi": "BATMAN",
+    "latitude": 37.5683088,
+    "longitude": 41.3852365
+  },
+  {
+    "ilce_id": "1487",
+    "ilce_adi": "KOZLUK",
+    "sehir_id": "72",
+    "sehir_adi": "BATMAN",
+    "latitude": 38.1933398,
+    "longitude": 41.4886025
+  },
+  {
+    "ilce_id": "1607",
+    "ilce_adi": "SASON",
+    "sehir_id": "72",
+    "sehir_adi": "BATMAN",
+    "latitude": 38.3339473,
+    "longitude": 41.4202341
+  },
+  {
+    "ilce_id": "1941",
+    "ilce_adi": "HASANKEYF",
+    "sehir_id": "72",
+    "sehir_adi": "BATMAN",
+    "latitude": 37.7304689,
+    "longitude": 41.4160863
+  },
+  {
+    "ilce_id": "1189",
+    "ilce_adi": "BEYTÜŞŞEBAP",
+    "sehir_id": "73",
+    "sehir_adi": "ŞIRNAK",
+    "latitude": 37.5709495,
+    "longitude": 43.1702194
+  },
+  {
+    "ilce_id": "1223",
+    "ilce_adi": "CİZRE",
+    "sehir_id": "73",
+    "sehir_adi": "ŞIRNAK",
+    "latitude": 37.3324374,
+    "longitude": 42.1854699
+  },
+  {
+    "ilce_id": "1403",
+    "ilce_adi": "İDİL",
+    "sehir_id": "73",
+    "sehir_adi": "ŞIRNAK",
+    "latitude": 37.3401862,
+    "longitude": 41.8924031
+  },
+  {
+    "ilce_id": "1623",
+    "ilce_adi": "SİLOPİ",
+    "sehir_id": "73",
+    "sehir_adi": "ŞIRNAK",
+    "latitude": 37.2491577,
+    "longitude": 42.4707504
+  },
+  {
+    "ilce_id": "1661",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "73",
+    "sehir_adi": "ŞIRNAK",
+    "latitude": 37.548722,
+    "longitude": 42.3618788
+  },
+  {
+    "ilce_id": "1698",
+    "ilce_adi": "ULUDERE",
+    "sehir_id": "73",
+    "sehir_adi": "ŞIRNAK",
+    "latitude": 37.4467396,
+    "longitude": 42.8513576
+  },
+  {
+    "ilce_id": "1931",
+    "ilce_adi": "GÜÇLÜKONAK",
+    "sehir_id": "73",
+    "sehir_adi": "ŞIRNAK",
+    "latitude": 37.4711631,
+    "longitude": 41.9111268
+  },
+  {
+    "ilce_id": "1172",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "74",
+    "sehir_adi": "BARTIN",
+    "latitude": 41.3371173,
+    "longitude": 32.3909123
+  },
+  {
+    "ilce_id": "1496",
+    "ilce_adi": "KURUCAŞİLE",
+    "sehir_id": "74",
+    "sehir_adi": "BARTIN",
+    "latitude": 41.8438903,
+    "longitude": 32.7207891
+  },
+  {
+    "ilce_id": "1701",
+    "ilce_adi": "ULUS",
+    "sehir_id": "74",
+    "sehir_adi": "BARTIN",
+    "latitude": 41.5835599,
+    "longitude": 32.6397134
+  },
+  {
+    "ilce_id": "1761",
+    "ilce_adi": "AMASRA",
+    "sehir_id": "74",
+    "sehir_adi": "BARTIN",
+    "latitude": 41.7489175,
+    "longitude": 32.3866959
+  },
+  {
+    "ilce_id": "1144",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "75",
+    "sehir_adi": "ARDAHAN",
+    "latitude": 41.1102966,
+    "longitude": 42.7035585
+  },
+  {
+    "ilce_id": "1252",
+    "ilce_adi": "ÇILDIR",
+    "sehir_id": "75",
+    "sehir_adi": "ARDAHAN",
+    "latitude": 41.1265837,
+    "longitude": 43.1345966
+  },
+  {
+    "ilce_id": "1356",
+    "ilce_adi": "GÖLE",
+    "sehir_id": "75",
+    "sehir_adi": "ARDAHAN",
+    "latitude": 40.7930546,
+    "longitude": 42.6078403
+  },
+  {
+    "ilce_id": "1380",
+    "ilce_adi": "HANAK",
+    "sehir_id": "75",
+    "sehir_adi": "ARDAHAN",
+    "latitude": 41.2367701,
+    "longitude": 42.8449034
+  },
+  {
+    "ilce_id": "1579",
+    "ilce_adi": "POSOF",
+    "sehir_id": "75",
+    "sehir_adi": "ARDAHAN",
+    "latitude": 41.5083775,
+    "longitude": 42.7279524
+  },
+  {
+    "ilce_id": "2008",
+    "ilce_adi": "DAMAL",
+    "sehir_id": "75",
+    "sehir_adi": "ARDAHAN",
+    "latitude": 41.3423313,
+    "longitude": 42.8409953
+  },
+  {
+    "ilce_id": "1142",
+    "ilce_adi": "ARALIK",
+    "sehir_id": "76",
+    "sehir_adi": "IĞDIR",
+    "latitude": 39.873699,
+    "longitude": 44.5160371
+  },
+  {
+    "ilce_id": "1398",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "76",
+    "sehir_adi": "IĞDIR",
+    "latitude": 36.370244,
+    "longitude": 30.2876043
+  },
+  {
+    "ilce_id": "1692",
+    "ilce_adi": "TUZLUCA",
+    "sehir_id": "76",
+    "sehir_adi": "IĞDIR",
+    "latitude": 40.0402158,
+    "longitude": 43.6637878
+  },
+  {
+    "ilce_id": "2011",
+    "ilce_adi": "KARAKOYUNLU",
+    "sehir_id": "76",
+    "sehir_adi": "IĞDIR",
+    "latitude": 39.9711462,
+    "longitude": 44.1736563
+  },
+  {
+    "ilce_id": "1716",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "77",
+    "sehir_adi": "YALOVA",
+    "latitude": 40.6582529,
+    "longitude": 29.2699916
+  },
+  {
+    "ilce_id": "2019",
+    "ilce_adi": "ALTINOVA",
+    "sehir_id": "77",
+    "sehir_adi": "YALOVA",
+    "latitude": 40.6963485,
+    "longitude": 29.5099438
+  },
+  {
+    "ilce_id": "2020",
+    "ilce_adi": "ARMUTLU",
+    "sehir_id": "77",
+    "sehir_adi": "YALOVA",
+    "latitude": 40.5196199,
+    "longitude": 28.8280114
+  },
+  {
+    "ilce_id": "2021",
+    "ilce_adi": "ÇINARCIK",
+    "sehir_id": "77",
+    "sehir_adi": "YALOVA",
+    "latitude": 40.6434005,
+    "longitude": 29.1193017
+  },
+  {
+    "ilce_id": "2022",
+    "ilce_adi": "ÇİFTLİKKÖY",
+    "sehir_id": "77",
+    "sehir_adi": "YALOVA",
+    "latitude": 40.6645227,
+    "longitude": 29.3229213
+  },
+  {
+    "ilce_id": "2026",
+    "ilce_adi": "TERMAL",
+    "sehir_id": "77",
+    "sehir_adi": "YALOVA",
+    "latitude": 40.60618,
+    "longitude": 29.1742892
+  },
+  {
+    "ilce_id": "1296",
+    "ilce_adi": "EFLANİ",
+    "sehir_id": "78",
+    "sehir_adi": "KARABÜK",
+    "latitude": 41.4229445,
+    "longitude": 32.9581882
+  },
+  {
+    "ilce_id": "1321",
+    "ilce_adi": "ESKİPAZAR",
+    "sehir_id": "78",
+    "sehir_adi": "KARABÜK",
+    "latitude": 40.9567796,
+    "longitude": 32.5333168
+  },
+  {
+    "ilce_id": "1433",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "78",
+    "sehir_adi": "KARABÜK",
+    "latitude": 41.2611265,
+    "longitude": 32.3467242
+  },
+  {
+    "ilce_id": "1561",
+    "ilce_adi": "OVACIK",
+    "sehir_id": "78",
+    "sehir_adi": "KARABÜK",
+    "latitude": 41.0758865,
+    "longitude": 32.9200088
+  },
+  {
+    "ilce_id": "1587",
+    "ilce_adi": "SAFRANBOLU",
+    "sehir_id": "78",
+    "sehir_adi": "KARABÜK",
+    "latitude": 41.2456658,
+    "longitude": 32.6929575
+  },
+  {
+    "ilce_id": "1856",
+    "ilce_adi": "YENİCE",
+    "sehir_id": "78",
+    "sehir_adi": "KARABÜK",
+    "latitude": 41.2006661,
+    "longitude": 32.3279252
+  },
+  {
+    "ilce_id": "1476",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "79",
+    "sehir_adi": "KİLİS",
+    "latitude": 36.7165552,
+    "longitude": 37.1146069
+  },
+  {
+    "ilce_id": "2023",
+    "ilce_adi": "ELBEYLİ",
+    "sehir_id": "79",
+    "sehir_adi": "KİLİS",
+    "latitude": 36.6750392,
+    "longitude": 37.4668663
+  },
+  {
+    "ilce_id": "2024",
+    "ilce_adi": "MUSABEYLİ",
+    "sehir_id": "79",
+    "sehir_adi": "KİLİS",
+    "latitude": 36.8861294,
+    "longitude": 36.9155864
+  },
+  {
+    "ilce_id": "2025",
+    "ilce_adi": "POLATELİ",
+    "sehir_id": "79",
+    "sehir_adi": "KİLİS",
+    "latitude": 36.8408425,
+    "longitude": 37.1428787
+  },
+  {
+    "ilce_id": "1165",
+    "ilce_adi": "BAHÇE",
+    "sehir_id": "80",
+    "sehir_adi": "OSMANİYE",
+    "latitude": 37.1870924,
+    "longitude": 36.5588938
+  },
+  {
+    "ilce_id": "1423",
+    "ilce_adi": "KADİRLİ",
+    "sehir_id": "80",
+    "sehir_adi": "OSMANİYE",
+    "latitude": 37.4620243,
+    "longitude": 36.1720149
+  },
+  {
+    "ilce_id": "1560",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "80",
+    "sehir_adi": "OSMANİYE",
+    "latitude": 37.1949062,
+    "longitude": 36.4362439
+  },
+  {
+    "ilce_id": "1743",
+    "ilce_adi": "DÜZİÇİ",
+    "sehir_id": "80",
+    "sehir_adi": "OSMANİYE",
+    "latitude": 37.2401223,
+    "longitude": 36.4534072
+  },
+  {
+    "ilce_id": "2027",
+    "ilce_adi": "HASANBEYLİ",
+    "sehir_id": "80",
+    "sehir_adi": "OSMANİYE",
+    "latitude": 37.1309318,
+    "longitude": 36.555539
+  },
+  {
+    "ilce_id": "2028",
+    "ilce_adi": "SUMBAS",
+    "sehir_id": "80",
+    "sehir_adi": "OSMANİYE",
+    "latitude": 37.4536229,
+    "longitude": 36.0247595
+  },
+  {
+    "ilce_id": "2029",
+    "ilce_adi": "TOPRAKKALE",
+    "sehir_id": "80",
+    "sehir_adi": "OSMANİYE",
+    "latitude": 37.0666416,
+    "longitude": 36.1455542
+  },
+  {
+    "ilce_id": "1116",
+    "ilce_adi": "AKÇAKOCA",
+    "sehir_id": "81",
+    "sehir_adi": "DÜZCE",
+    "latitude": 41.0882278,
+    "longitude": 31.1239833
+  },
+  {
+    "ilce_id": "1292",
+    "ilce_adi": "MERKEZ",
+    "sehir_id": "81",
+    "sehir_adi": "DÜZCE",
+    "latitude": 40.8391531,
+    "longitude": 31.1595361
+  },
+  {
+    "ilce_id": "1730",
+    "ilce_adi": "YIĞILCA",
+    "sehir_id": "81",
+    "sehir_adi": "DÜZCE",
+    "latitude": 40.9599953,
+    "longitude": 31.4446682
+  },
+  {
+    "ilce_id": "1784",
+    "ilce_adi": "CUMAYERİ",
+    "sehir_id": "81",
+    "sehir_adi": "DÜZCE",
+    "latitude": 40.8746889,
+    "longitude": 30.9504143
+  },
+  {
+    "ilce_id": "1794",
+    "ilce_adi": "GÖLYAKA",
+    "sehir_id": "81",
+    "sehir_adi": "DÜZCE",
+    "latitude": 40.7767185,
+    "longitude": 30.9964407
+  },
+  {
+    "ilce_id": "1905",
+    "ilce_adi": "ÇİLİMLİ",
+    "sehir_id": "81",
+    "sehir_adi": "DÜZCE",
+    "latitude": 40.8932524,
+    "longitude": 31.0466303
+  },
+  {
+    "ilce_id": "2017",
+    "ilce_adi": "GÜMÜŞOVA",
+    "sehir_id": "81",
+    "sehir_adi": "DÜZCE",
+    "latitude": 40.8465766,
+    "longitude": 30.9386008
+  },
+  {
+    "ilce_id": "2031",
+    "ilce_adi": "KAYNAŞLI",
+    "sehir_id": "81",
+    "sehir_adi": "DÜZCE",
+    "latitude": 40.7720977,
+    "longitude": 31.3192011
+  }
+]

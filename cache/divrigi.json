@@ -1,0 +1,101 @@
+{
+  "timings": {
+    "Fajr": "05:29",
+    "Sunrise": "06:53",
+    "Dhuhr": "12:16",
+    "Asr": "15:04",
+    "Sunset": "17:29",
+    "Maghrib": "17:29",
+    "Isha": "18:48",
+    "Imsak": "05:19",
+    "Midnight": "00:11",
+    "Firstthird": "21:54",
+    "Lastthird": "02:27"
+  },
+  "date": {
+    "readable": "05 Nov 2025",
+    "timestamp": "1762315200",
+    "hijri": {
+      "date": "14-05-1447",
+      "format": "DD-MM-YYYY",
+      "day": "14",
+      "weekday": {
+        "en": "Al Arba'a",
+        "ar": "الاربعاء"
+      },
+      "month": {
+        "number": 5,
+        "en": "Jumādá al-ūlá",
+        "ar": "جُمادى الأولى",
+        "days": 30
+      },
+      "year": "1447",
+      "designation": {
+        "abbreviated": "AH",
+        "expanded": "Anno Hegirae"
+      },
+      "holidays": [],
+      "adjustedHolidays": [],
+      "method": "HJCoSA"
+    },
+    "gregorian": {
+      "date": "05-11-2025",
+      "format": "DD-MM-YYYY",
+      "day": "05",
+      "weekday": {
+        "en": "Wednesday"
+      },
+      "month": {
+        "number": 11,
+        "en": "November"
+      },
+      "year": "2025",
+      "designation": {
+        "abbreviated": "AD",
+        "expanded": "Anno Domini"
+      },
+      "lunarSighting": false
+    }
+  },
+  "meta": {
+    "latitude": 39.3713764,
+    "longitude": 38.1178512,
+    "timezone": "Europe/Istanbul",
+    "method": {
+      "id": 13,
+      "name": "Diyanet İşleri Başkanlığı, Turkey (experimental)",
+      "params": {
+        "Fajr": 18,
+        "Isha": 17
+      },
+      "location": {
+        "latitude": 39.9333635,
+        "longitude": 32.8597419
+      }
+    },
+    "latitudeAdjustmentMethod": "ANGLE_BASED",
+    "midnightMode": "STANDARD",
+    "school": "STANDARD",
+    "offset": {
+      "Imsak": 0,
+      "Fajr": 0,
+      "Sunrise": -7,
+      "Dhuhr": 5,
+      "Asr": 4,
+      "Maghrib": 7,
+      "Sunset": 7,
+      "Isha": 0,
+      "Midnight": 0
+    }
+  },
+  "location": {
+    "ilce": "DİVRİĞİ",
+    "sehir": "SİVAS",
+    "coordinates": {
+      "latitude": 39.3713764,
+      "longitude": 38.1178512
+    }
+  },
+  "source": "api",
+  "cachedAt": "2025-11-05T18:44:24.608Z"
+}

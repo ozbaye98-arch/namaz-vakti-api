@@ -1,0 +1,101 @@
+{
+  "timings": {
+    "Fajr": "06:06",
+    "Sunrise": "07:33",
+    "Dhuhr": "12:53",
+    "Asr": "15:37",
+    "Sunset": "18:02",
+    "Maghrib": "18:02",
+    "Isha": "19:24",
+    "Imsak": "05:56",
+    "Midnight": "00:48",
+    "Firstthird": "22:30",
+    "Lastthird": "03:05"
+  },
+  "date": {
+    "readable": "05 Nov 2025",
+    "timestamp": "1762315200",
+    "hijri": {
+      "date": "14-05-1447",
+      "format": "DD-MM-YYYY",
+      "day": "14",
+      "weekday": {
+        "en": "Al Arba'a",
+        "ar": "الاربعاء"
+      },
+      "month": {
+        "number": 5,
+        "en": "Jumādá al-ūlá",
+        "ar": "جُمادى الأولى",
+        "days": 30
+      },
+      "year": "1447",
+      "designation": {
+        "abbreviated": "AH",
+        "expanded": "Anno Hegirae"
+      },
+      "holidays": [],
+      "adjustedHolidays": [],
+      "method": "HJCoSA"
+    },
+    "gregorian": {
+      "date": "05-11-2025",
+      "format": "DD-MM-YYYY",
+      "day": "05",
+      "weekday": {
+        "en": "Wednesday"
+      },
+      "month": {
+        "number": 11,
+        "en": "November"
+      },
+      "year": "2025",
+      "designation": {
+        "abbreviated": "AD",
+        "expanded": "Anno Domini"
+      },
+      "lunarSighting": false
+    }
+  },
+  "meta": {
+    "latitude": 41.0345549,
+    "longitude": 28.9118417,
+    "timezone": "Europe/Istanbul",
+    "method": {
+      "id": 13,
+      "name": "Diyanet İşleri Başkanlığı, Turkey (experimental)",
+      "params": {
+        "Fajr": 18,
+        "Isha": 17
+      },
+      "location": {
+        "latitude": 39.9333635,
+        "longitude": 32.8597419
+      }
+    },
+    "latitudeAdjustmentMethod": "ANGLE_BASED",
+    "midnightMode": "STANDARD",
+    "school": "STANDARD",
+    "offset": {
+      "Imsak": 0,
+      "Fajr": 0,
+      "Sunrise": -7,
+      "Dhuhr": 5,
+      "Asr": 4,
+      "Maghrib": 7,
+      "Sunset": 7,
+      "Isha": 0,
+      "Midnight": 0
+    }
+  },
+  "location": {
+    "ilce": "BAYRAMPAŞA",
+    "sehir": "İSTANBUL",
+    "coordinates": {
+      "latitude": 41.0345549,
+      "longitude": 28.9118417
+    }
+  },
+  "source": "api",
+  "cachedAt": "2025-11-05T18:43:06.038Z"
+}
