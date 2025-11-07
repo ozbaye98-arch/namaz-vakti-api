@@ -27,6 +27,7 @@ app.use((req, res, next) => {
 
 // Koordinatlı ilçe verilerini sunucu başlarken bir kere belleğe alalım.
 const ilcelerDataPath = path.join(__dirname, 'data', 'ilceler_koordinatli.json');
+const aylikVeriKlasoru = path.join(__dirname, 'aylik_veri'); // Fetcher'ın kaydettiği klasör
 let ilceler = [];
 let ilceIndex = new Map(); // Hızlı arama için index
 
@@ -36,11 +37,15 @@ try {
     // Hızlı arama için index oluştur
     ilceler.forEach(ilce => {
         const normalizedName = normalizeString(ilce.ilce_adi);
-        ilceIndex.set(normalizedName, ilce);
+        // Eğer aynı isimli bir ilçe zaten varsa (ör. MERKEZ) üzerine yazma;
+        // böylece ilçe index'i her zaman son bulunan duplicate'ı döndürmez.
+        if (!ilceIndex.has(normalizedName)) {
+            ilceIndex.set(normalizedName, ilce);
+        }
         
-        // Alternatif aramalar için ek indexler
-        ilceIndex.set(ilce.ilce_adi.toLowerCase(), ilce);
-        ilceIndex.set(ilce.ilce_adi.toUpperCase(), ilce);
+        // Alternatif aramalar için ek indexler (küçük/büyük)
+        if (!ilceIndex.has(ilce.ilce_adi.toLowerCase())) ilceIndex.set(ilce.ilce_adi.toLowerCase(), ilce);
+        if (!ilceIndex.has(ilce.ilce_adi.toUpperCase())) ilceIndex.set(ilce.ilce_adi.toUpperCase(), ilce);
     });
     
     console.log(`✓ ${ilceler.length} ilçe koordinatı başarıyla yüklendi.`);
@@ -118,32 +123,153 @@ async function fetchPrayerTimes(url) {
     }
 }
 
-// İlçe adından koordinatları bulan gelişmiş fonksiyon
+// Aylık veriden bugünkü vakti okur (fetcher.js'in çektiği verilerden)
+function aylikVeridenOku(ilceBilgisi) {
+    try {
+        const bugun = new Date();
+        const ay = bugun.getMonth() + 1;
+        const yil = bugun.getFullYear();
+        const gun = bugun.getDate();
+        
+        // Dosya adı formatı: {ilce_adi}_{yil}_{ay}.json
+        const ilceAdi = ilceBilgisi.ilce_adi
+            .toLowerCase()
+            .replace(/ı/g, 'i')
+            .replace(/ğ/g, 'g')
+            .replace(/ü/g, 'u')
+            .replace(/ş/g, 's')
+            .replace(/ö/g, 'o')
+            .replace(/ç/g, 'c')
+            .replace(/i̇/g, 'i')
+            .replace(/\s+/g, '_');
+        
+        const dosyaAdi = `${ilceAdi}_${yil}_${String(ay).padStart(2, '0')}.json`;
+        const dosyaYolu = path.join(aylikVeriKlasoru, dosyaAdi);
+        
+        if (!fs.existsSync(dosyaYolu)) {
+            console.log(`[Aylık Veri] Dosya bulunamadı: ${dosyaAdi}`);
+            return null;
+        }
+        
+        const aylikVeri = JSON.parse(fs.readFileSync(dosyaYolu, 'utf-8'));
+        
+        // Bugünün verisini bul (array'de 0-index, gün 1-31)
+        if (!Array.isArray(aylikVeri) || aylikVeri.length < gun) {
+            console.log(`[Aylık Veri] Geçersiz format veya eksik gün: ${dosyaAdi}`);
+            return null;
+        }
+        
+        const bugunVeri = aylikVeri[gun - 1]; // 0-indexed
+        
+        if (!bugunVeri || !bugunVeri.timings) {
+            console.log(`[Aylık Veri] Bugünün verisi eksik: ${dosyaAdi}`);
+            return null;
+        }
+        
+        console.log(`[Aylık Veri] ✓ ${ilceBilgisi.ilce_adi} için aylık veri kullanıldı`);
+        
+        return {
+            timings: bugunVeri.timings,
+            date: bugunVeri.date,
+            meta: bugunVeri.meta || {},
+            source: 'monthly_cache',
+            location: {
+                ilce: ilceBilgisi.ilce_adi,
+                sehir: ilceBilgisi.sehir_adi,
+                coordinates: {
+                    latitude: ilceBilgisi.latitude,
+                    longitude: ilceBilgisi.longitude
+                }
+            },
+            cachedAt: new Date().toISOString()
+        };
+        
+    } catch (error) {
+        console.log(`[Aylık Veri] Okuma hatası: ${error.message}`);
+        return null;
+    }
+}
+
+// İlçe/Şehir adından koordinatları bulan gelişmiş fonksiyon
 function getCoords(ilceAdi) {
     if (!ilceAdi || typeof ilceAdi !== 'string') {
         return null;
     }
-    
+
     const normalizedInput = normalizeString(ilceAdi);
-    
-    // Önce index'ten ara
+
+    // 1) Eğer input '... merkez' ile bitiyorsa (ör: 'Zonguldak Merkez' veya 'KAHRAMANMARAŞ MERKEZ')
+    if (normalizedInput.endsWith(' merkez')) {
+        const cityPart = normalizedInput.replace(/\s*merkez$/, '').trim();
+        if (cityPart.length > 0) {
+            console.log(`[Şehir+Merkez Araması] "${cityPart} MERKEZ" araniyor...`);
+            const found = ilceler.find(ilce => normalizeString(ilce.sehir_adi) === cityPart && normalizeString(ilce.ilce_adi) === 'merkez');
+            if (found) {
+                console.log(`[Şehir+Merkez] Bulundu: ${found.sehir_adi} MERKEZ`);
+                return found;
+            }
+        }
+    }
+
+    // 2) Eğer input birden fazla sözcük içeriyorsa, 'ŞEHİR İLÇE' veya 'İLÇE ŞEHİR' kombinasyonlarını dene
+    if (ilceAdi.includes(' ')) {
+        const parts = ilceAdi.split(/\s+/).map(p => p.trim()).filter(Boolean);
+        if (parts.length >= 2) {
+            const last = parts.slice(-1).join(' ');
+            const first = parts.slice(0, -1).join(' ');
+
+            // Deneme 1: 'ŞEHİR İLÇE'
+            const try1 = ilceler.find(ilce => normalizeString(ilce.sehir_adi) === normalizeString(first) && normalizeString(ilce.ilce_adi) === normalizeString(last));
+            if (try1) return try1;
+
+            // Deneme 2: 'İLÇE ŞEHİR'
+            const try2 = ilceler.find(ilce => normalizeString(ilce.sehir_adi) === normalizeString(last) && normalizeString(ilce.ilce_adi) === normalizeString(first));
+            if (try2) return try2;
+        }
+    }
+
+    // 3) Tam ilçe adı ile ara (index'ten)
     let found = ilceIndex.get(normalizedInput);
     if (found) return found;
-    
-    // Index'te bulamazsa alternatif aramalar
+
+    // 4) Alternatif aramalar (case-insensitive)
     found = ilceIndex.get(ilceAdi.toLowerCase());
     if (found) return found;
-    
+
     found = ilceIndex.get(ilceAdi.toUpperCase());
     if (found) return found;
-    
-    // Son çare: manuel arama
-    return ilceler.find(ilce => {
+
+    // 5) Şehir adı verilmişse (sadece şehir ismi) MERKEZ ilçeyi bul
+    for (const ilce of ilceler) {
+        const normalizedSehir = normalizeString(ilce.sehir_adi);
+        if (normalizedSehir === normalizedInput && normalizeString(ilce.ilce_adi) === 'merkez') {
+            console.log(`[Şehir Araması] "${ilceAdi}" → ${ilce.sehir_adi} MERKEZ bulundu`);
+            return ilce;
+        }
+        if (ilce.sehir_adi.toLowerCase() === ilceAdi.toLowerCase() && ilce.ilce_adi === 'MERKEZ') {
+            console.log(`[Şehir Araması] "${ilceAdi}" → ${ilce.sehir_adi} MERKEZ bulundu`);
+            return ilce;
+        }
+    }
+
+    // 6) Manuel arama (ilçe adı - TAM eşleşme)
+    found = ilceler.find(ilce => {
         const normalizedIlce = normalizeString(ilce.ilce_adi);
         return normalizedIlce === normalizedInput ||
                ilce.ilce_adi.toLowerCase() === ilceAdi.toLowerCase() ||
                ilce.ilce_adi.toUpperCase() === ilceAdi.toUpperCase();
     });
+
+    if (found) return found;
+
+    // 7) Kısmi eşleşme (son çare)
+    found = ilceler.find(ilce => {
+        const normalizedIlce = normalizeString(ilce.ilce_adi);
+        return normalizedIlce.includes(normalizedInput) ||
+               normalizedInput.includes(normalizedIlce);
+    });
+
+    return found;
 }
 
 // Cache temizleme fonksiyonu
@@ -203,21 +329,73 @@ app.get("/vakitler/:ilceAdi", async (req, res) => {
             }
         }
 
-        // 2. İLÇE BİLGİSİ BULMA
+        // 2. İLÇE/ŞEHİR BİLGİSİ BULMA
         const ilceBilgisi = getCoords(ilceAdiParam);
 
         if (!ilceBilgisi || !ilceBilgisi.latitude || !ilceBilgisi.longitude) {
             console.log(`[Error] İlçe bulunamadı: "${ilceAdiParam}"`);
+            
+            // ŞEHİR ARAMASI - Eğer şehir adıysa ilçeleri listele
+            const normalizedInput = normalizeString(ilceAdiParam);
+            const sehirIlceleri = ilceler.filter(ilce => {
+                const normalizedSehir = normalizeString(ilce.sehir_adi);
+                return normalizedSehir === normalizedInput || 
+                       ilce.sehir_adi.toLowerCase() === ilceAdiParam.toLowerCase();
+            });
+            
+            if (sehirIlceleri.length > 0) {
+                console.log(`[Şehir Bulundu] ${sehirIlceleri[0].sehir_adi} - ${sehirIlceleri.length} ilçe`);
+                
+                // MERKEZ ilçe varsa onu döndür, yoksa ilk ilçeyi
+                const merkezIlce = sehirIlceleri.find(ilce => ilce.ilce_adi === 'MERKEZ');
+                const varsayilanIlce = merkezIlce || sehirIlceleri[0];
+                
+                return res.json({ 
+                    success: true,
+                    type: 'city_search',
+                    city: sehirIlceleri[0].sehir_adi,
+                    districts: sehirIlceleri.map(ilce => ({
+                        ilce_adi: ilce.ilce_adi,
+                        coordinates: {
+                            latitude: ilce.latitude,
+                            longitude: ilce.longitude
+                        }
+                    })),
+                    default_district: varsayilanIlce.ilce_adi,
+                    message: `${sehirIlceleri[0].sehir_adi} şehri bulundu. ${sehirIlceleri.length} ilçe mevcut.`,
+                    suggestion: `Belirli bir ilçe için: /vakitler/${varsayilanIlce.ilce_adi}`,
+                    example_url: `/vakitler/${encodeURIComponent(varsayilanIlce.ilce_adi)}`
+                });
+            }
+            
             return res.status(404).json({ 
                 success: false,
-                error: "İlçe bulunamadı veya koordinatları eksik.",
+                error: "İlçe veya şehir bulunamadı.",
                 searchedFor: ilceAdiParam,
-                suggestion: "İlçe adını kontrol ediniz. Türkçe karakterler desteklenmektedir."
+                suggestion: "İlçe veya şehir adını kontrol ediniz. Türkçe karakterler desteklenmektedir."
             });
         }
 
         console.log(`[Found] İlçe bulundu: ${ilceBilgisi.ilce_adi}, ${ilceBilgisi.sehir_adi}`);
         console.log(`[Coordinates] Lat: ${ilceBilgisi.latitude}, Lng: ${ilceBilgisi.longitude}`);
+
+        // 2.5. AYLIK VERİDEN OKUMA DENEMESİ (Önce fetcher'ın çektiği verilerden)
+        const aylikVeri = aylikVeridenOku(ilceBilgisi);
+        
+        if (aylikVeri) {
+            // Aylık veriden başarıyla okunduysa, cache'e de kaydet
+            fs.writeFileSync(filePath, JSON.stringify(aylikVeri, null, 2), 'utf-8');
+            
+            return res.json({
+                success: true,
+                source: 'monthly_data',
+                ilce: ilceAdiParam,
+                data: aylikVeri,
+                note: 'Fetcher tarafından önceden çekilmiş veri kullanıldı'
+            });
+        }
+        
+        console.log(`[API] Aylık veri bulunamadı, canlı API'ye gidiliyor...`);
 
         // 3. API URL OLUŞTURMA (Türkçe karakter problemini çöz)
         const urlSafeCity = createUrlSafeString(ilceBilgisi.ilce_adi);
@@ -738,10 +916,17 @@ app.get("/", (req, res) => {
                     <span class="sehir-name">\${item.sehir_adi}</span>
                 \`;
                 
+                // Kliklendiğinde şehir + ilçe bilgisini gönder (MERKEZ gibi ortak isim hatalarını önler)
                 div.addEventListener('click', () => {
-                    searchInput.value = item.ilce_adi;
+                    const combined = item.sehir_adi + ' ' + item.ilce_adi;
+                    searchInput.value = combined;
                     suggestions.style.display = 'none';
-                    searchPrayerTimes();
+                    // city bilgisiyle arama fonksiyonunu kullan
+                    if (typeof searchPrayerTimesWithCity === 'function') {
+                        searchPrayerTimesWithCity(item.ilce_adi, item.sehir_adi);
+                    } else {
+                        searchPrayerTimes();
+                    }
                 });
                 
                 suggestions.appendChild(div);
@@ -784,6 +969,46 @@ app.get("/", (req, res) => {
 
         // Sonuçları göster
         function showResults(data) {
+            // Şehir araması sonucu - ilçeleri listele
+            if (data.type === 'city_search') {
+                const districts = data.districts;
+                const cityName = data.city;
+                
+                let districtListHtml = '';
+                districts.forEach(district => {
+                    districtListHtml += \`
+                        <div class="suggestion" onclick="selectDistrict('\${district.ilce_adi}', '\${cityName}')" style="cursor: pointer; margin: 10px 0;">
+                            <span class="ilce-name">\${district.ilce_adi}</span>
+                            <span class="sehir-name" style="color: #667eea;">Koordinat: \${district.coordinates.latitude.toFixed(4)}, \${district.coordinates.longitude.toFixed(4)}</span>
+                        </div>
+                    \`;
+                });
+                
+                results.innerHTML = \`
+                    <div class="prayer-card">
+                        <h2>📍 \${cityName}</h2>
+                        <p>\${districts.length} ilçe bulundu</p>
+                        <p style="margin-top: 10px;">👇 Bir ilçe seçin:</p>
+                    </div>
+                    
+                    <div style="max-width: 800px; margin: 0 auto; background: white; border-radius: 15px; padding: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+                        \${districtListHtml}
+                    </div>
+                    
+                    <div style="text-align: center; margin-top: 30px; color: #666;">
+                        <p>💡 Varsayılan: <strong>\${data.default_district}</strong></p>
+                        <button onclick="selectDistrict('\${data.default_district}', '\${cityName}')" style="background: linear-gradient(45deg, #667eea, #764ba2); color: white; border: none; padding: 15px 30px; border-radius: 25px; cursor: pointer; font-size: 16px; margin-top: 10px;">
+                            \${cityName} / \${data.default_district} Vakitlerini Göster
+                        </button>
+                    </div>
+                \`;
+                
+                results.style.display = 'block';
+                results.scrollIntoView({ behavior: 'smooth' });
+                return;
+            }
+            
+            // Normal ilçe sonucu
             const timings = data.data.timings;
             const location = data.data.location;
             
@@ -834,6 +1059,49 @@ app.get("/", (req, res) => {
             
             results.style.display = 'block';
             results.scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        // İlçe seç (şehir aramasından)
+        function selectDistrict(districtName, cityName) {
+            // Şehir bilgisi varsa kullan (her zaman tercih et)
+            if (cityName) {
+                const query = \`\${cityName} \${districtName}\`;
+                searchInput.value = query;
+                searchPrayerTimesWithCity(districtName, cityName);
+            } else {
+                searchInput.value = districtName;
+                searchPrayerTimes();
+            }
+        }
+        
+        // Şehir bilgisi ile arama (MERKEZ için)
+        async function searchPrayerTimesWithCity(districtName, cityName) {
+            suggestions.style.display = 'none';
+            hideError();
+            showLoading();
+            
+            try {
+                // Şehir adı + ilçe adı birleştir
+                const query = \`\${cityName} \${districtName}\`;
+                    
+                const response = await fetch(\`/vakitler/\${encodeURIComponent(query)}\`);
+                const data = await response.json();
+                
+                hideLoading();
+                
+                if (data.success && data.type !== 'city_search') {
+                    showResults(data);
+                } else if (data.success && data.type === 'city_search') {
+                    showError('Birden fazla sonuç bulundu. Lütfen daha spesifik bir arama yapın.');
+                } else {
+                    showError(data.error || 'Namaz vakitleri alınamadı.');
+                }
+                
+            } catch (err) {
+                hideLoading();
+                showError('Bağlantı hatası. Lütfen tekrar deneyin.');
+                console.error('API hatası:', err);
+            }
         }
 
         // Loading göster/gizle
